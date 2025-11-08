@@ -1,0 +1,864 @@
+:root {
+  /* Dark Theme (Default) */
+  --bg-gradient-start: #232526;
+  --bg-gradient-end: #414345;
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --text-primary: #f0f0f0;
+  --text-secondary: rgba(240, 240, 240, 0.7);
+  --border-color: rgba(255, 255, 255, 0.2);
+  --glow-color: #764ba2;
+  --accent-color: #8a63d2;
+  --button-bg: rgba(255, 255, 255, 0.1);
+  --button-hover-bg: rgba(255, 255, 255, 0.2);
+  --button-disabled-bg: rgba(255, 255, 255, 0.05);
+  --button-disabled-color: rgba(255, 255, 255, 0.3);
+}
+
+body.theme-light {
+  --bg-gradient-start: #f4f4f4;
+  --bg-gradient-end: #e9e9e9;
+  --card-bg: rgba(255, 255, 255, 0.6);
+  --text-primary: #212121;
+  --text-secondary: #555;
+  --border-color: rgba(0, 0, 0, 0.1);
+  --glow-color: #4a90e2;
+  --accent-color: #4a90e2;
+  --button-bg: rgba(0, 0, 0, 0.05);
+  --button-hover-bg: rgba(0, 0, 0, 0.1);
+  --button-disabled-bg: rgba(0, 0, 0, 0.02);
+  --button-disabled-color: rgba(0, 0, 0, 0.3);
+}
+
+body.theme-green {
+  --bg-gradient-start: #2A482A;
+  --bg-gradient-end: #0F2D1E;
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --text-primary: #E6F0E6;
+  --text-secondary: rgba(230, 240, 230, 0.7);
+  --border-color: rgba(255, 255, 255, 0.2);
+  --glow-color: #5aa15a;
+  --accent-color: #76c893;
+  --button-bg: rgba(255, 255, 255, 0.1);
+  --button-hover-bg: rgba(255, 255, 255, 0.2);
+  --button-disabled-bg: rgba(255, 255, 255, 0.05);
+  --button-disabled-color: rgba(255, 255, 255, 0.3);
+}
+
+body.theme-blue {
+  --bg-gradient-start: #1E3A5F;
+  --bg-gradient-end: #111827;
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --text-primary: #DDEBFF;
+  --text-secondary: rgba(221, 235, 255, 0.7);
+  --border-color: rgba(255, 255, 255, 0.2);
+  --glow-color: #5694f1;
+  --accent-color: #60a5fa;
+  --button-bg: rgba(255, 255, 255, 0.1);
+  --button-hover-bg: rgba(255, 255, 255, 0.2);
+  --button-disabled-bg: rgba(255, 255, 255, 0.05);
+  --button-disabled-color: rgba(255, 255, 255, 0.3);
+}
+
+body.theme-red {
+  --bg-gradient-start: #4A1B1B;
+  --bg-gradient-end: #2B0F0F;
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --text-primary: #FFDDDD;
+  --text-secondary: rgba(255, 221, 221, 0.7);
+  --border-color: rgba(255, 255, 255, 0.2);
+  --glow-color: #e57373;
+  --accent-color: #ef9a9a;
+  --button-bg: rgba(255, 255, 255, 0.1);
+  --button-hover-bg: rgba(255, 255, 255, 0.2);
+  --button-disabled-bg: rgba(255, 255, 255, 0.05);
+  --button-disabled-color: rgba(255, 255, 255, 0.3);
+}
+
+body.theme-sepia {
+  --bg-gradient-start: #f4e9d8;
+  --bg-gradient-end: #e9dec9;
+  --card-bg: rgba(240, 230, 215, 0.6);
+  --text-primary: #5b4636;
+  --text-secondary: #7d6b5a;
+  --border-color: rgba(91, 70, 54, 0.2);
+  --glow-color: #a1887f;
+  --accent-color: #8d6e63;
+  --button-bg: rgba(91, 70, 54, 0.1);
+  --button-hover-bg: rgba(91, 70, 54, 0.2);
+  --button-disabled-bg: rgba(91, 70, 54, 0.05);
+  --button-disabled-color: rgba(91, 70, 54, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  transition: background 0.5s ease;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 2rem 1rem;
+  padding-bottom: 150px; /* Add padding to prevent admin panel from overlapping content */
+}
+
+header {
+  text-align: center;
+  border: 1px solid var(--border-color);
+  background: var(--card-bg);
+  backdrop-filter: blur(10px);
+  padding: 2rem;
+  border-radius: 16px;
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    color: var(--text-secondary);
+    text-shadow: none;
+  }
+  50% {
+    color: var(--text-primary);
+    text-shadow: 0 0 8px var(--glow-color);
+  }
+}
+
+.ayah-header-button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background-color 0.2s ease;
+  margin-bottom: 1rem;
+}
+
+.ayah-header-button:hover {
+  background-color: var(--button-bg);
+}
+
+.ayah-header-button h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  animation: pulse-glow 3s infinite ease-in-out;
+  transition: color 0.2s ease;
+}
+
+.ayah-header-button:hover h3 {
+  color: var(--accent-color);
+  animation-play-state: paused;
+}
+
+.ayah-header-button .chevron-down {
+  color: var(--text-secondary);
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.ayah-header-button:hover .chevron-down {
+  transform: translateY(2px);
+  color: var(--accent-color);
+}
+
+.font-noto-naskh .arabic-verse, .font-noto-naskh .arabic-word, .font-noto-naskh .arabic-inline { font-family: 'Noto Naskh Arabic', serif; }
+.font-amiri .arabic-verse, .font-amiri .arabic-word, .font-amiri .arabic-inline { font-family: 'Amiri', serif; }
+.font-lateef .arabic-verse, .font-lateef .arabic-word, .font-lateef .arabic-inline { font-family: 'Lateef', serif; }
+
+
+.arabic-verse {
+  font-weight: 700;
+  direction: rtl;
+  margin-bottom: 1rem;
+  line-height: 1.8;
+  transition: font-size 0.3s ease;
+}
+
+.transliteration, .translation {
+  font-style: italic;
+  color: var(--text-secondary);
+  transition: font-size 0.3s ease;
+}
+
+.translation {
+  margin-top: 0.5rem;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.controls-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.control-group {
+  border: 1px solid var(--border-color);
+  background: var(--card-bg);
+  backdrop-filter: blur(10px);
+  padding: 1rem;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  text-align: center;
+}
+
+.control-group legend {
+  font-weight: 600;
+  padding: 0 0.5rem;
+  margin: 0 auto;
+  color: var(--text-primary);
+}
+
+.control-group div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.control-group button, .control-group select, .admin-form button, .admin-form select, .admin-form input {
+  background-color: var(--button-bg);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease, color 0.2s ease;
+}
+
+.control-group button:hover {
+  background-color: var(--button-hover-bg);
+  transform: translateY(-2px);
+}
+
+.control-group button:disabled {
+  background-color: var(--button-disabled-bg);
+  color: var(--button-disabled-color);
+  cursor: not-allowed;
+  transform: none;
+}
+
+.control-group select, .admin-form select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23f0f0f0' class='bi bi-chevron-down' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.5rem center;
+  padding-right: 2rem;
+}
+
+body.theme-light .control-group select, body.theme-light .admin-form select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23212121' class='bi bi-chevron-down' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E");
+}
+
+.theme-buttons button {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  padding: 0;
+  border: 2px solid var(--border-color);
+}
+
+.theme-buttons button.active {
+    border-color: var(--accent-color);
+    transform: scale(1.1);
+    box-shadow: 0 0 10px var(--glow-color);
+}
+
+.navigation-controls {
+    min-width: 240px;
+    justify-content: space-between !important;
+}
+
+.navigation-controls span {
+    color: var(--text-secondary);
+    font-weight: 600;
+}
+
+.media-controls .play-button {
+  padding-left: 2rem;
+  background-repeat: no-repeat;
+  background-position: 0.75rem center;
+  background-size: 1rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-play-fill' viewBox='0 0 16 16'%3E%3Cpath d='m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393'/%3E%3C/svg%3E");
+}
+
+.media-controls .play-button.playing {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-pause-fill' viewBox='0 0 16 16'%3E%3Cpath d='M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5m5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5'/%3E%3C/svg%3E");
+    background-color: var(--accent-color);
+    color: var(--bg-gradient-end);
+}
+
+.share-controls {
+  position: relative;
+}
+
+.share-confirmation {
+  position: absolute;
+  bottom: 110%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--accent-color);
+  color: var(--bg-gradient-end);
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+  animation: fadeIn-toast 0.3s ease-out;
+  pointer-events: none;
+}
+
+@keyframes fadeIn-toast {
+  from { opacity: 0; transform: translate(-50%, 10px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+
+.analysis-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.5rem;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.1), 0 0 20px var(--glow-color);
+  border-color: rgba(var(--primary-glow-rgb, 118, 75, 162), 0.5);
+}
+
+.card-header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.card-header .arabic-word {
+  font-weight: 700;
+  color: var(--text-primary);
+  transition: font-size 0.3s ease;
+}
+
+.card-header .meta {
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+  transition: font-size 0.3s ease;
+}
+
+.card hr {
+  border: none;
+  height: 1px;
+  background-color: var(--border-color);
+  margin: 1rem 0;
+}
+
+.card ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: font-size 0.3s ease;
+  color: var(--text-secondary);
+}
+
+.card ul li {
+  line-height: 1.6;
+}
+
+.card ul li strong {
+  color: var(--text-primary);
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
+.arabic-inline {
+  vertical-align: middle;
+}
+
+/* Admin Panel Styles */
+.admin-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--card-bg);
+  backdrop-filter: blur(15px);
+  border-top: 1px solid var(--accent-color);
+  z-index: 1000;
+  box-shadow: 0 -5px 30px rgba(0, 0, 0, 0.2);
+  transform: translateY(100%);
+  transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.admin-panel.open {
+  transform: translateY(0);
+}
+
+.admin-panel-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+.admin-panel h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+}
+
+.admin-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 1rem;
+}
+
+.admin-form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex: 1 1 150px;
+}
+
+.admin-form-group.url-group {
+    flex: 3 1 300px;
+}
+
+.admin-form-group label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-align: left;
+}
+
+.admin-form-actions {
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* Redesigned Surah Selector Styles */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px) scale(0.98); opacity: 0; }
+  to { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+.surah-selector-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(8px);
+  z-index: 2000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  animation: fadeIn 0.3s ease-out;
+}
+
+.surah-selector-modal {
+  background: var(--bg-gradient-end);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: slideUp 0.3s ease-out;
+}
+
+.surah-selector-header {
+  position: relative;
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.surah-selector-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.surah-search-input {
+  width: 100%;
+  background-color: var(--button-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0.75rem 1rem 0.75rem 2.5rem; /* Space for icon */
+  color: var(--text-primary);
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23999' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: 0.75rem center;
+}
+
+body.theme-light .surah-search-input {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23555' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0'/%3E%3C/svg%3E");
+}
+
+.surah-search-input:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 2px var(--glow-color);
+}
+
+.close-button {
+  position: absolute;
+  top: 1.25rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.close-button:hover {
+  background-color: var(--button-bg);
+  color: var(--text-primary);
+}
+
+.surah-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0.5rem 0.5rem;
+  overflow-y: auto;
+  flex-grow: 1;
+}
+
+.surah-item {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+  text-align: left;
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.2s;
+  border-bottom: 1px solid var(--border-color);
+}
+.surah-list li:last-child .surah-item {
+  border-bottom: none;
+}
+
+.surah-item:hover {
+  background-color: var(--button-bg);
+}
+
+.surah-item.active {
+  background-color: var(--button-hover-bg);
+  box-shadow: inset 3px 0 0 var(--accent-color); /* Active indicator */
+}
+
+.surah-item:active {
+  background-color: var(--button-hover-bg);
+  transform: scale(0.99);
+}
+
+.surah-number {
+  background-color: var(--button-bg);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: var(--text-secondary);
+  flex-shrink: 0;
+}
+
+.surah-item.active .surah-number {
+  background-color: var(--accent-color);
+  color: var(--bg-gradient-end);
+}
+
+.surah-names {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.surah-name-en {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.surah-name-ar {
+  font-family: 'Amiri', serif;
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+}
+
+.surah-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  flex-shrink: 0;
+}
+
+/* Word Editor Page Styles */
+.editor-page {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.editor-header {
+    background: var(--card-bg);
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.editor-header h1 {
+    font-size: 1.5rem;
+    color: var(--text-primary);
+}
+
+.editor-close-button, .word-editor-form button {
+    background-color: var(--button-bg);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.editor-close-button:hover, .word-editor-form button:hover {
+    background-color: var(--button-hover-bg);
+    transform: translateY(-2px);
+}
+
+.editor-nav {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem 2rem;
+    background: var(--bg-gradient-end);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.editor-nav-group {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.editor-nav-group label {
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.editor-nav-group select {
+    background-color: var(--button-bg);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    min-width: 200px;
+}
+
+.editor-main {
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 1.5rem;
+    flex-grow: 1;
+}
+
+.word-editor-form {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.word-editor-header {
+    padding: 1rem 1.5rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.word-editor-header h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0.25rem;
+}
+
+.word-editor-header p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.word-editor-grid {
+    padding: 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.word-editor-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.word-editor-field.full-width {
+    grid-column: 1 / -1;
+}
+
+.word-editor-field label {
+    font-weight: 600;
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+}
+
+.word-editor-field input, .word-editor-field textarea {
+    width: 100%;
+    background-color: var(--button-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 0.6rem;
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-family: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.word-editor-field input:focus, .word-editor-field textarea:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 2px var(--glow-color);
+}
+
+.word-editor-field textarea {
+    min-height: 80px;
+    resize: vertical;
+}
+
+.word-editor-footer {
+    padding: 1rem 1.5rem;
+    margin-top: auto;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+}
+
+.save-confirmation {
+    color: var(--accent-color);
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+
+/* Responsive design for Surah Selector */
+@media (max-width: 768px) {
+  body {
+    padding: 0;
+  }
+  .container {
+    padding: 1rem 0.5rem;
+  }
+  .surah-selector-modal {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    border-radius: 0;
+    border: none;
+  }
+  .surah-selector-header {
+    padding: 1rem;
+  }
+  .editor-header, .editor-nav, .editor-main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .editor-header h1 {
+    font-size: 1.2rem;
+  }
+  .editor-nav {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
