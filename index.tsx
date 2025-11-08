@@ -849,3 +849,26 @@ const placeholderSurahData = (surahNumber) => {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
+// Register Service Worker for offline functionality
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then((registration) => {
+        console.log('Service Worker registered successfully:', registration);
+
+        // Check for updates periodically
+        setInterval(() => {
+          registration.update();
+        }, 60000); // Check every 60 seconds
+      })
+      .catch((error) => {
+        console.log('Service Worker registration failed:', error);
+      });
+  });
+
+  // Handle service worker updates
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    console.log('Service Worker activated and now controlling the page');
+  });
+}
