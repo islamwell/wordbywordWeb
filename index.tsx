@@ -2,7 +2,7 @@
  * @license
  * SPDX-License-Identifier: Apache-2.0
 */
-import {useState, useEffect, useRef, useCallback, useMemo} from 'react';
+import React, {useState, useEffect, useRef, useCallback, useMemo} from 'react';
 import ReactDOM from 'react-dom/client';
 
 const THEMES = {
@@ -332,7 +332,16 @@ function SurahSelector({ isOpen, onClose, onSelect, currentSurahNumber }) {
 // FIX: Changed `WordEditorForm` from a `function` declaration to a `const` arrow function.
 // This resolves a TypeScript error where the `key` prop, which is reserved by React,
 // was not being correctly handled for components defined as function declarations.
-const WordEditorForm = ({ word, onSave, wordIndex, surahNum, ayahIndex }) => {
+
+interface WordEditorFormProps {
+    word: any;
+    onSave: any;
+    wordIndex: any;
+    surahNum: any;
+    ayahIndex: any;
+}
+
+const WordEditorForm: React.FC<WordEditorFormProps> = ({ word, onSave, wordIndex, surahNum, ayahIndex }) => {
     const [analysis, setAnalysis] = useState(word.analysis);
     const [saveMessage, setSaveMessage] = useState('');
 
