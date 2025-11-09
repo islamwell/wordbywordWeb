@@ -1,0 +1,79 @@
+workflows:
+  android-workflow:
+    name: Android Workflow
+    max_build_duration: 120
+    instance_type: mac_mini_m1
+    environment:
+      android_signing:
+        - keystore_reference
+      groups:
+        - google_play # <-- (Includes GCLOUD_SERVICE_ACCOUNT_CREDENTIALS)
+      vars:
+        PACKAGE_NAME: "com.ingenuitiveapps.khutbah"
+      node: 18
+    scripts:
+      - name: Install dependencies
+        script: |
+          npm install
+      - name: Build web app
+        script: |
+          npm run build
+      - name: Update dependencies and copy web assets to native project
+        script: |
+          npx cap sync android
+      - name: Set Android version
+        script: |
+          cd android
+          # Get version from package.json
+          VERSION_NAME=$(node -p "require('../package.json').version")
+          BUILD_NUMBER=$(($(date +%s)/100))
+
+          # Update version in build.gradle
+          sed -i '' "s/versionCode .*/versionCode $BUILD_NUMBER/" app/build.gradle
+          sed -i '' "s/versionName .*/versionName \"$VERSION_NAME\"/" app/build.gradle
+      - name: Build Android release
+        script: |
+          cd android
+          ./gradlew assembleRelease
+    artifacts:
+      - android/app/build/outputs/**/*.apk
+      - android/app/build/outputs/**/*.aab
+    publishing:
+      email:
+        recipients:
+          - your-email@example.com
+        notify:
+          success: true
+          failure: true
+
+  android-debug-workflow:
+    name: Android Debug Build
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+    environment:
+      vars:
+        PACKAGE_NAME: "com.ingenuitiveapps.khutbah"
+      node: 18
+    scripts:
+      - name: Install dependencies
+        script: |
+          npm install
+      - name: Build web app
+        script: |
+          npm run build
+      - name: Update dependencies and copy web assets to native project
+        script: |
+          npx cap sync android
+      - name: Build Android debug APK
+        script: |
+          cd android
+          ./gradlew assembleDebug
+    artifacts:
+      - android/app/build/outputs/**/*.apk
+    publishing:
+      email:
+        recipients:
+          - your-email@example.com
+        notify:
+          success: true
+          failure: true
