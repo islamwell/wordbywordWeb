@@ -1,5 +1,5 @@
 // Service Worker for offline functionality
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `quran-app-${CACHE_VERSION}`;
 
 // Assets to cache on install
