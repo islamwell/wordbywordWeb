@@ -864,3 +864,44 @@ body.theme-light .surah-search-input {
     gap: 1rem;
   }
 }
+/* Sync Status Indicator */
+.sync-status {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.sync-status-idle {
+  opacity: 0;
+}
+
+.sync-status-syncing {
+  background: rgba(59, 130, 246, 0.2);
+  color: #60a5fa;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+.sync-status-success {
+  background: rgba(16, 185, 129, 0.2);
+  color: #10b981;
+}
+
+.sync-status-error {
+  background: rgba(239, 68, 68, 0.2);
+  color: #ef4444;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.airtable-indicator {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 10px;
+  background: rgba(16, 185, 129, 0.1);
+  font-weight: 500;
+}
