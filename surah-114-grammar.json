@@ -1,0 +1,360 @@
+{
+  "surah": 114,
+  "name": "An-Nas (The Mankind)",
+  "verses": [
+    {
+      "verse": 1,
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "transliteration": "Qul a'udhu bi-rabbi an-nas",
+      "translation": "Say: I seek refuge in the Lord of mankind",
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "transliteration": "Qul",
+          "translation": "Say",
+          "grammar": {
+            "type": "Command verb (doing word telling someone to do something)",
+            "root": "ق-و-ل (q-w-l)",
+            "form": "Command form",
+            "person": "You (singular) - talking to one person",
+            "tense": "Now/Future",
+            "reason": "This is an order from Allah to the Prophet Muhammad (peace be upon him) to recite this prayer. The 'u' sound at the end makes it a command.",
+            "practical": "When you see this word, it means Allah is telling the Prophet what to say. It's like a parent telling a child 'Say thank you!' The command form in Arabic often ends with a 'u' sound when speaking to one person."
+          }
+        },
+        {
+          "arabic": "أَعُوذُ",
+          "transliteration": "a'udhu",
+          "translation": "I seek refuge / I run for protection",
+          "grammar": {
+            "type": "Action verb (doing word) - present tense",
+            "root": "ع-و-ذ (a-w-dh)",
+            "form": "Present/ongoing action",
+            "person": "I (first person, the speaker)",
+            "tense": "Now/continuous",
+            "reason": "The 'a' at the beginning means 'I'. The 'u' at the end shows it's happening now and continues. This is the special 'Form I' pattern for seeking protection.",
+            "practical": "This word means running to someone strong for safety, like a child running to their parent when scared. The 'a' prefix always means 'I am doing' something. Use this when you want protection from Allah."
+          }
+        },
+        {
+          "arabic": "بِ",
+          "transliteration": "bi",
+          "translation": "in / with / by means of",
+          "grammar": {
+            "type": "Preposition (connecting word showing relationship)",
+            "function": "Connects the action to what comes next",
+            "effect": "Makes the next word have 'i' sound at end (genitive case)",
+            "reason": "This tiny word 'bi' attaches to the next word and changes its ending. It shows WHERE you're seeking refuge - IN Allah's protection.",
+            "practical": "Think of it like the English word 'in' or 'with'. When 'bi' comes before a word, that word gets an 'i' sound at the end. This is why 'rabb' becomes 'rabbi'. It's like a magnet that pulls the words together."
+          }
+        },
+        {
+          "arabic": "رَبِّ",
+          "transliteration": "rabbi",
+          "translation": "Lord / Master / Sustainer",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i' because of 'bi'",
+            "state": "Has a hidden 'my' attached (possessive)",
+            "gender": "Masculine",
+            "reason": "Originally 'Rabb', but 'bi' makes it 'rabbi'. The double 'b' sound (bb) shows something important is attached that we don't see - the word 'my'.",
+            "practical": "This word means the One who takes care of you, gives you everything, and owns you. The 'i' ending is because of the 'bi' before it. The strong 'bb' sound hints that it means 'MY Lord' even though we don't see the word 'my' written separately."
+          }
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "translation": "mankind / people / humans",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "gender": "Masculine plural",
+            "definite": "Yes - has 'al' (the) at the beginning",
+            "reason": "This word ends in 'i' because it's describing WHICH Lord - the Lord OF mankind. When you say 'Lord OF something', the 'something' gets an 'i' ending in Arabic.",
+            "practical": "Means all human beings. The 'al' means 'THE people' (all of them). The 'i' ending shows relationship - like saying 'the people's Lord' or 'Lord OF the people'. Whenever you see two nouns together and the second has 'i', it shows ownership or relationship."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "arabic": "مَلِكِ النَّاسِ",
+      "transliteration": "Maliki an-nas",
+      "translation": "The King of mankind",
+      "words": [
+        {
+          "arabic": "مَلِكِ",
+          "transliteration": "Maliki",
+          "translation": "King / Sovereign Ruler",
+          "grammar": {
+            "type": "Noun (naming word) - title/description",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "gender": "Masculine",
+            "reason": "This describes 'Rabb' from verse 1. It ends in 'i' because it's giving more information about the Lord - explaining that He is THE King.",
+            "practical": "This word adds to the previous verse. It's saying: the Lord of mankind WHO IS ALSO the King of mankind. The 'i' ending connects it to what came before, like adding another description. A King has total power and authority over everyone."
+          }
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "translation": "mankind / people",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "gender": "Masculine plural",
+            "definite": "Yes - has 'al' (the)",
+            "reason": "Same as verse 1 - ends in 'i' to show ownership/relationship with 'Malik' (King OF mankind).",
+            "practical": "Repeated from verse 1. This repetition emphasizes that we're talking about the SAME group - all of humanity. Each time it appears, it reinforces who Allah has authority over."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "arabic": "إِلَٰهِ النَّاسِ",
+      "transliteration": "Ilahi an-nas",
+      "translation": "The God of mankind",
+      "words": [
+        {
+          "arabic": "إِلَٰهِ",
+          "transliteration": "Ilahi",
+          "translation": "God / The One deserving worship",
+          "grammar": {
+            "type": "Noun (naming word) - divine title",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "gender": "Masculine",
+            "reason": "Third description of Allah, continuing from verses 1 and 2. Ends in 'i' for the same reason - describing the Lord.",
+            "practical": "This adds a third level: He is (1) Lord/Sustainer, (2) King/Ruler, and (3) God/One we worship. The 'i' ending keeps the list flowing. 'Ilah' specifically means the only One worthy of worship and devotion. These three titles build up: He takes care of us (Rabb), He rules us (Malik), and He deserves our worship (Ilah)."
+          }
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "translation": "mankind / people",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "gender": "Masculine plural",
+            "definite": "Yes - has 'al' (the)",
+            "reason": "Third repetition - shows ownership/relationship with 'Ilah' (God OF mankind).",
+            "practical": "Mentioned for the third time! This strong repetition emphasizes that Allah has EVERY type of authority over ALL people - as their Sustainer, King, and God. No one escapes His authority."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "arabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "transliteration": "Min sharri al-waswasi al-khannas",
+      "translation": "From the evil of the sneaking whisperer",
+      "words": [
+        {
+          "arabic": "مِنْ",
+          "transliteration": "Min",
+          "translation": "From",
+          "grammar": {
+            "type": "Preposition (connecting word)",
+            "function": "Shows what you're running away FROM",
+            "effect": "Makes the next word end in 'i' (genitive case)",
+            "reason": "Connects back to 'a'udhu' (I seek refuge). You're seeking refuge FROM something. The 'min' tells us what that danger is.",
+            "practical": "Like the English word 'from'. This shows the direction you're running FROM. When 'min' comes before a word, that word gets an 'i' ending (just like 'bi'). It answers the question: 'Protection from WHAT?'"
+          }
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "translation": "evil / harm / badness",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i' because of 'min'",
+            "gender": "Masculine",
+            "reason": "Gets 'i' ending from 'min'. Also, it's describing WHOSE evil - the evil OF the whisperer - so it needs 'i' for double reason!",
+            "practical": "Means anything bad or harmful. The 'i' ending is because of 'min' before it, AND because it's followed by WHO causes the evil. We're not just running from evil in general, but from a SPECIFIC evil - the evil OF the whisperer."
+          }
+        },
+        {
+          "arabic": "الْوَسْوَاسِ",
+          "transliteration": "al-waswas",
+          "translation": "the whisperer / the one who whispers evil thoughts",
+          "grammar": {
+            "type": "Noun (naming word) - intense form (doing something a lot)",
+            "case": "Genitive - ends in 'i'",
+            "pattern": "Fa'lal form (waswas) - shows repetition and intensity",
+            "gender": "Masculine",
+            "reason": "The repeated 'was-was' sound shows someone who whispers AGAIN and AGAIN - constantly! Ends in 'i' because it's describing the evil (evil OF the whisperer).",
+            "practical": "This special pattern (was-was) with repeated sounds shows someone doing something over and over. It's not just one whisper - it's constant, repeated whispering of bad thoughts. Like someone who won't stop bothering you. The 'al' means 'THE' - the specific whisperer we all know (Satan)."
+          }
+        },
+        {
+          "arabic": "الْخَنَّاسِ",
+          "transliteration": "al-khannas",
+          "translation": "the sneaky one / the one who hides and retreats",
+          "grammar": {
+            "type": "Noun (naming word) - intense form (doing something a lot)",
+            "case": "Genitive - ends in 'i'",
+            "pattern": "Fa'lal form (khannas) - shows repetition and intensity",
+            "gender": "Masculine",
+            "reason": "Like 'waswas', this pattern shows someone who KEEPS DOING something - hiding, sneaking away, coming back, hiding again. Ends in 'i' because it's describing the whisperer.",
+            "practical": "Describes HOW the whisperer works: he sneaks in when you forget Allah, then runs and hides when you remember Allah! The double 'n' sound (khann-as) emphasizes the intense, repeated sneaking. This shows Satan's tactic: whisper, then hide; whisper, then retreat when caught. He's a coward who runs away when you mention Allah's name!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "transliteration": "Alladhi yuwaswisu fi suduri an-nas",
+      "translation": "Who whispers in the hearts of mankind",
+      "words": [
+        {
+          "arabic": "الَّذِي",
+          "transliteration": "Alladhi",
+          "translation": "Who / The one who / That which",
+          "grammar": {
+            "type": "Relative pronoun (connecting word that points back)",
+            "function": "Connects description to previous word (the whisperer)",
+            "gender": "Masculine singular",
+            "reason": "Points back to 'al-waswas al-khannas' and adds more information about him.",
+            "practical": "Like saying 'who' or 'that' in English. It starts a description of the whisperer - telling us WHAT he does. Everything after this word explains HOW the whisperer operates. Think of it as starting a sub-story: 'The whisperer... who does WHAT? He whispers in hearts!'"
+          }
+        },
+        {
+          "arabic": "يُوَسْوِسُ",
+          "transliteration": "yuwaswisu",
+          "translation": "He whispers / puts bad thoughts",
+          "grammar": {
+            "type": "Action verb (doing word) - present tense",
+            "root": "و-س-و-س (w-s-w-s)",
+            "form": "Form II (intense/repeated action)",
+            "person": "He (third person, talking about someone)",
+            "tense": "Present/ongoing - happens all the time",
+            "reason": "The 'yu' at the start means 'he is doing'. Form II with repetition shows this isn't a one-time whisper - it's constant, ongoing whispering!",
+            "practical": "This verb comes from the same root as 'waswas' (the whisperer). The 'yu' beginning tells us 'HE does this'. The present tense means it's always happening - he never stops! The special form shows intensity: not just a whisper, but CONSTANT whispering. This is Satan's full-time job!"
+          }
+        },
+        {
+          "arabic": "فِي",
+          "transliteration": "fi",
+          "translation": "in / inside",
+          "grammar": {
+            "type": "Preposition (connecting word showing location)",
+            "function": "Shows WHERE the whispering happens",
+            "effect": "Makes the next word end in 'i'",
+            "reason": "Tells us the location - not in your ears, but IN your hearts/chests!",
+            "practical": "Means 'in' or 'inside'. Shows the whispering isn't from outside - it's put DIRECTLY into your thoughts and feelings. Like someone speaking inside your mind. When 'fi' comes before a word, that word gets an 'i' ending."
+          }
+        },
+        {
+          "arabic": "صُدُورِ",
+          "transliteration": "suduri",
+          "translation": "chests / hearts / innermost thoughts",
+          "grammar": {
+            "type": "Noun (naming word) - plural",
+            "case": "Genitive - ends in 'i' because of 'fi'",
+            "number": "Plural (more than one)",
+            "gender": "Masculine",
+            "reason": "Ends in 'i' because of 'fi', and because it's followed by 'an-nas' (chests OF mankind).",
+            "practical": "Literally means 'chests' but in Arabic, the chest is where your heart, feelings, and thoughts are. So it means your innermost self - where you think and feel. It's plural because it's referring to ALL people's hearts. The 'i' ending is from 'fi' AND from the relationship with 'an-nas' coming next."
+          }
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "translation": "mankind / people",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive - ends in 'i'",
+            "gender": "Masculine plural",
+            "definite": "Yes - has 'al'",
+            "reason": "Fourth time! Ends in 'i' to show ownership (chests OF mankind).",
+            "practical": "Fourth mention of 'an-nas'! Shows that Satan's whispering targets ALL of humanity - everyone's hearts. The repetition throughout the surah emphasizes: Allah is Lord, King, and God of ALL people, and we ALL need protection from Satan who attacks ALL of our hearts."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "transliteration": "Mina al-jinnati wa an-nas",
+      "translation": "From among the jinn and mankind",
+      "words": [
+        {
+          "arabic": "مِنَ",
+          "transliteration": "Mina",
+          "translation": "From among / from within",
+          "grammar": {
+            "type": "Preposition (connecting word)",
+            "function": "Shows the SOURCE or CATEGORY",
+            "effect": "Makes next word end in 'i'",
+            "note": "Has an 'a' at the end here (mina instead of min)",
+            "reason": "The 'a' is added for smooth pronunciation because the next word starts with 'al'. It's easier to say 'mina al' than 'min al'.",
+            "practical": "Same as 'min' (from), but with an 'a' added to make it flow better with 'al' that follows. This 'min' means 'from among' - showing that the whisperers come FROM WITHIN two groups: jinn and humans. Some whisperers are jinn (like Satan), and some are human (bad people)!"
+          }
+        },
+        {
+          "arabic": "الْجِنَّةِ",
+          "transliteration": "al-jinnati",
+          "translation": "the jinn / the hidden creatures",
+          "grammar": {
+            "type": "Noun (naming word) - collective",
+            "case": "Genitive - ends in 'i' because of 'mina'",
+            "gender": "Masculine (but ending looks feminine with 'ah' sound)",
+            "definite": "Yes - has 'al'",
+            "reason": "Ends in 'i' from 'mina'. Jinn are Allah's creatures made from fire, invisible to us. The 'ah/i' ending is special for some collective nouns.",
+            "practical": "Jinn are invisible beings created by Allah. Satan (Iblis) is from the jinn. This tells us that some of those who whisper evil are from the jinn world - supernatural tempters we can't see. The 'al' means ALL the jinn (the whole category). The 'i' comes from 'mina'."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Conjunction (connecting word)",
+            "function": "Joins two similar things together",
+            "reason": "Connects 'jinn' AND 'mankind' - showing BOTH groups have whisperers.",
+            "practical": "Simply means 'and'. It's adding a second category. The danger isn't just from jinn - it's ALSO from bad humans who whisper evil thoughts to you (bad friends, manipulators, etc.)."
+          }
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "translation": "mankind / people",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive - ends in 'i' because of 'mina'",
+            "gender": "Masculine plural",
+            "definite": "Yes - has 'al'",
+            "reason": "Fifth and final time! Ends in 'i' from 'mina'. Creates a beautiful ending - the surah started with Allah as Lord of 'an-nas' and ends warning about evil from 'an-nas'!",
+            "practical": "Fifth mention! Very powerful: Some humans themselves become whisperers of evil - bad friends who tempt you to sin, people who put bad thoughts in your mind. The surah comes full circle: it opened with 'mankind' (those needing protection) and closes with 'mankind' (some of whom are the danger!). This shows that evil can come from both the supernatural world (jinn/Satan) AND from bad humans around us."
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "pattern_notes": [
+      "The word 'an-nas' (mankind) appears 5 times - emphasizing that Allah has complete authority over all people, and all people need His protection",
+      "Verses 1-3 build up three titles for Allah: Rabb (Sustainer), Malik (King), Ilah (God) - showing complete dependence on Him",
+      "The 'i' ending appears constantly - this is the genitive case, showing relationship, ownership, or being affected by prepositions like bi, min, fi",
+      "Repeated sounds (was-was, khann-as) show intensity and repetition - the constant nature of Satan's attacks",
+      "The surah structure: first identify WHO you seek refuge in (verses 1-3), then identify WHAT you seek refuge from (verses 4-6)"
+    ],
+    "practical_grammar_lessons": [
+      "When you see 'bi', 'min', or 'fi' before a word, that word will end in 'i'",
+      "When two nouns come together (like 'Rabb an-nas'), the second one ends in 'i' to show relationship",
+      "A verb starting with 'a' means 'I', with 'yu' means 'he'",
+      "Command verbs often end in a 'u' sound when talking to one person",
+      "Repeated letters (like 'bb' in rabbi, 'nn' in khannas) often indicate emphasis or hidden words",
+      "The 'al' at the beginning means 'the' and makes the word definite/specific",
+      "Present tense verbs show ongoing action - something happening now and continuing"
+    ],
+    "spiritual_lessons": [
+      "We need Allah's protection as our Rabb (who sustains us), Malik (who has power), and Ilah (who we worship)",
+      "Satan's attack is constant (waswas - keeps whispering) but cowardly (khannas - hides when we remember Allah)",
+      "The danger comes from both the unseen world (jinn/Satan) and from bad people around us",
+      "Protection is found IN Allah (bi-rabbi) - not in our own strength",
+      "Satan attacks our thoughts and feelings (sudur/hearts) - not just our actions",
+      "All of mankind needs this protection - no one is immune to whispers of evil"
+    ]
+  }
+}
