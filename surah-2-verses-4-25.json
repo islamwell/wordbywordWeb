@@ -1,0 +1,1456 @@
+[
+  {
+    "verse": 4,
+    "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+    "transliteration": "Wa-alladhīna yu'minūna bimā unzila ilayka wa mā unzila min qablika wa bil-ākhirati hum yūqinūn",
+    "translation": "And who believe in what has been revealed to you and what was revealed before you, and of the Hereafter they are certain",
+    "words": [
+      {
+        "arabic": "وَالَّذِينَ",
+        "transliteration": "Wa-alladhīna",
+        "translation": "And those who",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Relative Pronoun",
+          "root": "N/A - Particle + Pronoun",
+          "components": "wa (and) + alladhīna (those who)",
+          "gender": "Masculine plural",
+          "reason": "Continues the description from verse 3. The 'wa' links this characteristic to the previous ones, building a complete picture of the believers.",
+          "practical": "Starts with 'wa' (and) to add another layer to the description of the God-conscious people. 'Alladhīna' (those who) introduces more qualities. This is the same relative pronoun we saw in verse 3, showing that Allah is continuing to describe the same group of believers. The connection shows these aren't different people - they're additional qualities of al-muttaqīn."
+        }
+      },
+      {
+        "arabic": "يُؤْمِنُونَ",
+        "transliteration": "yu'minūna",
+        "translation": "they believe",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "أ-م-ن (a-m-n) - to believe, to have faith",
+          "form": "Form IV (if'āl pattern)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present/ongoing action",
+          "reason": "Describes continuous belief. Same verb as in verse 3, emphasizing that belief is a defining characteristic of these people.",
+          "practical": "Same pattern as before: 'yu...ūna' = they do continuously. Here it emphasizes that true believers don't just believe in the unseen (verse 3), but ALSO in the revealed scriptures. Notice how the Quran layers these beliefs - each verse adds depth to what it means to have īmān (faith)."
+        }
+      },
+      {
+        "arabic": "بِمَا",
+        "transliteration": "bimā",
+        "translation": "in what",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Relative Pronoun",
+          "components": "bi (in/with) + mā (what/that which)",
+          "reason": "Introduces the object of belief. 'Bi' connects the verb to its object, and 'mā' refers generally to 'whatever' was revealed.",
+          "practical": "Combination of 'bi' (in) + 'mā' (what) = 'in what' or 'in whatever'. The beauty of 'mā' here is that it's inclusive - it means ALL that was revealed, not missing a single verse. When 'bi' attaches to 'mā', they stay separate (bimā) unlike 'min + mā' which doubles the 'm' (mimmā)."
+        }
+      },
+      {
+        "arabic": "أُنزِلَ",
+        "transliteration": "unzila",
+        "translation": "was revealed / sent down",
+        "grammar": {
+          "type": "Fi'l - Past Tense Passive Verb (Fi'l Māḍī Majhūl)",
+          "root": "ن-ز-ل (n-z-l) - to descend, to send down, to reveal",
+          "form": "Form IV passive (uf'ila pattern)",
+          "tense": "Past tense",
+          "voice": "Passive - the subject receives the action",
+          "reason": "Passive voice emphasizes the revelation itself, not the revealer (though we know it's from Allah). The past tense shows completed action of revelation.",
+          "practical": "From 'nazala' (to descend). In Form IV 'anzala', it means 'to send down/reveal'. The passive 'unzila' means 'was revealed' - notice how the subject (the Quran) received the action of being revealed. The 'u' at the start is the hallmark of passive verbs in past tense. Passive form shows respect and focuses on the scripture itself. This root (n-z-l) is used throughout the Quran for revelation because scripture 'descends' from Allah to us."
+        }
+      },
+      {
+        "arabic": "إِلَيْكَ",
+        "transliteration": "ilayka",
+        "translation": "to you",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "ilā (to/toward) + ka (you, singular masculine)",
+          "person": "Second person singular masculine",
+          "reason": "Specifies the Prophet Muhammad (ﷺ) as the recipient of this revelation (the Quran). The 'ka' refers directly to him.",
+          "practical": "Beautiful construction: 'ilā' (to/toward) + 'ka' (you) = 'ilayka' (to you). This directly addresses the Prophet Muhammad (ﷺ) - the revelation that came TO YOU means the Quran. Notice Arabic has different forms for 'you': 'ka' (you, one male), 'ki' (you, one female), 'kum' (you, multiple males/mixed). Here 'ka' shows Allah speaking to His Messenger. When reading Quran, these direct addresses remind us of the intimate conversation between Allah and His Prophet."
+        }
+      },
+      {
+        "arabic": "وَمَا",
+        "transliteration": "wa-mā",
+        "translation": "and what",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Relative Pronoun",
+          "components": "wa (and) + mā (what)",
+          "reason": "Adds the previous revelations to the object of belief. True faith includes ALL of Allah's revelations, not just the Quran.",
+          "practical": "Simple: 'wa' (and) + 'mā' (what) = 'and what'. This addition is crucial - believers accept the Quran AND previous scriptures (Torah, Gospel, Psalms, etc.). Islam doesn't reject previous revelations; it confirms and completes them. The 'wa' here creates an inclusive faith."
+        }
+      },
+      {
+        "arabic": "أُنزِلَ",
+        "transliteration": "unzila",
+        "translation": "was revealed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Passive Verb",
+          "root": "ن-ز-ل (n-z-l) - to descend, to reveal",
+          "form": "Form IV passive",
+          "reason": "Same verb repeated, emphasizing that previous scriptures were also divine revelations, from the same source.",
+          "practical": "Exact same word as before - 'was revealed'. The repetition is deliberate: the Quran and previous scriptures share the same process of revelation. They all 'descended' from Allah. This repetition validates previous prophets and their messages while showing Islam's continuity with earlier revelations."
+        }
+      },
+      {
+        "arabic": "مِن",
+        "transliteration": "min",
+        "translation": "from / before",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Indicates time (before) in this context",
+          "reason": "Shows temporal relationship - these revelations came at an earlier time.",
+          "practical": "Usually means 'from', but here indicates time: 'before'. Context is key! The same word can mean different things: min can mean 'from' (source), 'than' (comparison), or 'before' (time). Here it's clearly time because of 'qablika' (before you) coming next. Learn to read min based on what follows it."
+        }
+      },
+      {
+        "arabic": "قَبْلِكَ",
+        "transliteration": "qablika",
+        "translation": "before you",
+        "grammar": {
+          "type": "Ism - Noun (Adverb of time) + Pronoun",
+          "root": "ق-ب-ل (q-b-l) - to be before, to accept",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+          "components": "qabl (before) + ka (you)",
+          "reason": "Specifies the time - revelations that came before the Prophet Muhammad (ﷺ). The 'i' ending is due to the preposition 'min'.",
+          "practical": "'Qabl' means 'before' (in time), and adding 'ka' (you) makes it 'before you'. Together with 'min qablika' = 'from before you' or simply 'before you'. The 'i' in 'qabli' appears because of the preposition 'min' - remember, prepositions make the next word take kasra (i sound). This phrase means all the prophets and scriptures that came before Muhammad (ﷺ) - Moses, Jesus, Abraham, and their revelations."
+        }
+      },
+      {
+        "arabic": "وَبِالْآخِرَةِ",
+        "transliteration": "wa-bil-ākhirati",
+        "translation": "and in the Hereafter",
+        "grammar": {
+          "type": "Harf + Harf + Ism - Conjunction + Preposition + Noun",
+          "root": "أ-خ-ر (a-kh-r) - to be last, to be final",
+          "components": "wa (and) + bi (in) + al-ākhirah (the Hereafter)",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'bi'",
+          "gender": "Feminine",
+          "reason": "Introduces the third pillar of belief after revealed scriptures - certainty in the Hereafter. The 'bi' shows this is also an object of belief.",
+          "practical": "Powerful combination: 'wa' (and) + 'bi' (in) + 'al-ākhirah' (the Hereafter). The word 'ākhirah' literally means 'the last' or 'the final one' - referring to the next life after death. Notice 'bi + al' = 'bil' (they merge). The 'i' ending on ākhirati shows it's after a preposition. This is one of Islam's core beliefs: life doesn't end at death - there's an ākhirah (Hereafter) where we'll be judged and rewarded or punished."
+        }
+      },
+      {
+        "arabic": "هُمْ",
+        "transliteration": "hum",
+        "translation": "they",
+        "grammar": {
+          "type": "Ism - Pronoun (separate/detached)",
+          "person": "Third person masculine plural",
+          "reason": "This separate pronoun adds emphasis. Instead of just saying 'are certain', it says 'THEY are certain' - emphasizing the subject.",
+          "practical": "Simple pronoun meaning 'they'. But why use it here? Arabic doesn't need separate pronouns because verbs already show who's doing the action. When you see a separate pronoun like 'hum', it's for EMPHASIS. It's like saying 'THEY - yes, THEY specifically - are certain'. This construction draws attention to these believers and their certainty about the Hereafter. The emphasis contrasts them with disbelievers who doubt or deny the afterlife."
+        }
+      },
+      {
+        "arabic": "يُوقِنُونَ",
+        "transliteration": "yūqinūna",
+        "translation": "they are certain / they have certainty",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ي-ق-ن (y-q-n) - to be certain, to have conviction",
+          "form": "Form IV (if'āl pattern)",
+          "person": "Third person masculine plural",
+          "tense": "Present/ongoing state",
+          "reason": "Describes absolute certainty about the Hereafter. This is stronger than just 'believing' - it's complete conviction without doubt.",
+          "practical": "From 'yaqīn' (certainty). The verb 'yūqinūna' means 'they have yaqīn' or 'they are absolutely certain'. Notice this is STRONGER than 'yu'minūna' (they believe). For the unseen and scriptures, Allah uses 'believe', but for the Hereafter He uses 'have certainty'. True believers don't just think there might be a Day of Judgment - they are CERTAIN of it! This certainty should affect how we live. The 'yū' at the start and 'ūna' at the end show our familiar pattern: they do this continuously."
+        }
+      }
+    ]
+  },
+  {
+    "verse": 5,
+    "arabic": "أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ",
+    "transliteration": "Ulā'ika 'alā hudan min rabbihim wa ulā'ika humu-l-mufliḥūn",
+    "translation": "Those are upon guidance from their Lord, and those are the successful",
+    "words": [
+      {
+        "arabic": "أُولَـٰئِكَ",
+        "transliteration": "Ulā'ika",
+        "translation": "Those / Those are the ones",
+        "grammar": {
+          "type": "Ism - Demonstrative Pronoun (Ism Ishārah)",
+          "root": "N/A - Demonstrative",
+          "number": "Plural",
+          "gender": "Masculine/mixed",
+          "reason": "Points back to the believers described in verses 3-4. It's the plural form of 'dhālika', emphasizing these specific people.",
+          "practical": "This is the plural of 'dhālika' (that). So 'ulā'ika' means 'those' - pointing to the group of believers just described. The 'ika' at the end adds emphasis, like saying 'THOSE specific people'. This is Allah's way of drawing a conclusion about who these believers are. After listing their qualities (believe in unseen, establish prayer, spend, believe in revelations, certain of Hereafter), now He tells us their status. When you see ulā'ika, expect something important about the group being described!"
+        }
+      },
+      {
+        "arabic": "عَلَىٰ",
+        "transliteration": "'alā",
+        "translation": "upon / on",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Indicates position or state ('upon')",
+          "reason": "Shows they are established upon or in a state of guidance. Not just 'with' guidance, but UPON it - firmly established.",
+          "practical": "Means 'upon' or 'on top of'. But this isn't physical position - it's metaphorical. Being 'UPON guidance' means you're firmly established on it, like standing on solid ground. You're not just near guidance or seeking it - you're ON IT, stable and secure. The choice of ''alā' instead of 'ma'a' (with) shows these believers have reached and are firmly upon the path of guidance."
+        }
+      },
+      {
+        "arabic": "هُدًى",
+        "transliteration": "hudan",
+        "translation": "guidance",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "ه-د-ي (h-d-y) - to guide",
+          "case": "Genitive (majrūr) due to preposition, but shows tanwīn 'an'",
+          "form": "Indefinite with tanwīn",
+          "reason": "Describes the state these believers are in. The tanwīn adds emphasis - not just any guidance, but TREMENDOUS guidance.",
+          "practical": "Same word as in verse 2! Remember? The Quran is 'hudan' (guidance) for the muttaqīn. Now Allah says those who follow the Quran's guidance are 'upon hudan' (upon guidance). Beautiful connection! The tanwīn 'an' ending makes it indefinite but emphatic - suggesting complete, perfect guidance. It's as if Allah is saying: they're not just guided a little - they're upon REAL guidance!"
+        }
+      },
+      {
+        "arabic": "مِّن",
+        "transliteration": "min",
+        "translation": "from",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Indicates source ('from')",
+          "reason": "Shows where the guidance comes from - not from themselves, but from their Lord.",
+          "practical": "Here 'min' clearly means 'FROM' (showing source/origin). This little word carries huge meaning: their guidance isn't self-made or from human philosophy. It's MIN (from) their Rabb (Lord). This ties back to verses 2-4: the guidance comes from the Book Allah revealed! Understanding 'min' here reminds us that true guidance must come from the Creator, not creation."
+        }
+      },
+      {
+        "arabic": "رَّبِّهِمْ",
+        "transliteration": "rabbihim",
+        "translation": "their Lord",
+        "grammar": {
+          "type": "Ism - Noun + Pronoun",
+          "root": "ر-ب-ب (r-b-b) - to lord, to nurture, to sustain",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+          "components": "rabb (Lord) + him (their)",
+          "reason": "Specifies the source of guidance - their Rabb (Lord, Nurturer, Sustainer). The 'him' shows possession and relationship.",
+          "practical": "Rabb is one of Allah's most beautiful names! It means Lord, Master, Nurturer, Sustainer - the One who creates, owns, and takes care of everything. The 'i' ending (rabbi-) appears due to the preposition 'min'. Then 'him' (their) is added, making 'rabbihim' (their Lord). Why 'their Lord' specifically? It shows intimacy - these believers have a relationship with their Rabb! He's not just 'the Lord' - He's THEIR Lord who guides and nurtures them. The word Rabb appears over 900 times in the Quran!"
+        }
+      },
+      {
+        "arabic": "وَ",
+        "transliteration": "wa",
+        "translation": "and",
+        "grammar": {
+          "type": "Harf - Conjunction",
+          "function": "Connects two statements about the same people",
+          "practical": "And... (adding another description of these blessed people)"
+        }
+      },
+      {
+        "arabic": "أُولَـٰئِكَ",
+        "transliteration": "ulā'ika",
+        "translation": "those",
+        "grammar": {
+          "type": "Ism - Demonstrative Pronoun",
+          "reason": "Repeated for emphasis! Allah wants to stress who these successful people are.",
+          "practical": "Repetition of 'ulā'ika' (those)! In English we might say 'and they are the successful', but Arabic repeats 'ulā'ika' for powerful emphasis. It's like Allah is pointing twice: 'THOSE people - yes, THOSE same people!' This repetition makes you pause and pay attention to what comes next. It's a rhetorical device showing the importance of the statement."
+        }
+      },
+      {
+        "arabic": "هُمُ",
+        "transliteration": "humu",
+        "translation": "they",
+        "grammar": {
+          "type": "Ism - Pronoun (separate/detached)",
+          "person": "Third person masculine plural",
+          "reason": "Adds emphasis before the predicate. Could say 'ulā'ika al-mufliḥūn', but adding 'hum' emphasizes: THEY are the successful ones (not others).",
+          "practical": "Again, an emphatic separate pronoun! 'Humu' means 'they'. This double emphasis (ulā'ika + humu) is incredibly powerful. It's like saying: 'THOSE ones - THEY are the successful!' This contrasts the believers with everyone else. While others may think they're successful with wealth or status, TRUE success belongs to THESE believers alone. The 'u' at the end (humu) appears before definite words starting with 'al'."
+        }
+      },
+      {
+        "arabic": "الْمُفْلِحُونَ",
+        "transliteration": "al-mufliḥūn",
+        "translation": "the successful ones",
+        "grammar": {
+          "type": "Ism - Active Participle (Ism Fā'il)",
+          "root": "ف-ل-ح (f-l-ḥ) - to succeed, to prosper, to cultivate",
+          "form": "Active participle pattern (muf'il)",
+          "case": "Nominative (marfū') - ends in 'ūn'",
+          "number": "Plural",
+          "reason": "Describes permanent characteristic - they are 'the successful ones'. The 'al' makes it definite: THE ONLY truly successful people. The 'ūn' ending is nominative plural.",
+          "practical": "From 'falaḥa' (to succeed/prosper). Originally meant to till soil successfully and get good harvest. 'Mufliḥūn' is active participle = 'ones who succeed' or 'successful ones'. The 'mu-' prefix makes it a doer, and '-ūn' makes it plural nominative. But notice: 'AL-mufliḥūn' with 'al' means THE successful - the ONLY truly successful people! Not just successful in this life, but success in both worlds. Real success isn't money or fame - it's being upon guidance from Allah! This word appears in every prayer when we say 'hayya 'ala-l-falāḥ' (come to success)!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 6,
+    "arabic": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+    "transliteration": "Inna-lladhīna kafarū sawā'un 'alayhim a'andhartahum am lam tundhirhum lā yu'minūn",
+    "translation": "Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe",
+    "words": [
+      {
+        "arabic": "إِنَّ",
+        "transliteration": "Inna",
+        "translation": "Indeed / Verily",
+        "grammar": {
+          "type": "Harf - Emphatic Particle (Harf Taw kīd)",
+          "root": "N/A - Particle",
+          "function": "Emphasizes and strengthens the statement",
+          "effect": "Makes the following noun accusative (manṣūb)",
+          "reason": "Introduces a serious statement about the disbelievers. 'Inna' adds emphasis and certainty to what follows.",
+          "practical": "One of the most important particles in Arabic! 'Inna' means 'indeed' or 'truly', and it emphasizes whatever comes after it. Grammatically, 'inna' and its sisters (anna, ka'anna, lakinna, layta, la'alla) have a special rule: they make the noun after them accusative (manṣūb). When you see 'inna' at the start of a sentence, expect a powerful, emphatic statement. It's Allah's way of saying: PAY ATTENTION - this is important and absolutely true!"
+        }
+      },
+      {
+        "arabic": "الَّذِينَ",
+        "transliteration": "alladhīna",
+        "translation": "those who",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Pronoun",
+          "gender": "Masculine plural",
+          "case": "Accusative (manṣūb) due to 'inna'",
+          "reason": "The subject of 'inna', made accusative by it. Introduces who this verse is about - the disbelievers.",
+          "practical": "We've seen this word before in verses 3 and 4 describing believers. Now the same structure describes disbelievers - showing contrast. 'Alladhīna' opens a description of what these people DO. After describing believers in detail, now Allah describes the opposite group. Notice the parallel structure helps us compare and contrast the two groups clearly."
+        }
+      },
+      {
+        "arabic": "كَفَرُوا",
+        "transliteration": "kafarū",
+        "translation": "they disbelieved / they rejected",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "ك-ف-ر (k-f-r) - to cover, to hide, to disbelieve",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine plural",
+          "tense": "Past tense",
+          "reason": "Describes their state of disbelief. Past tense but indicates ongoing state - they are in disbelief and remain in it.",
+          "practical": "From the root k-f-r which originally means 'to cover' or 'to hide'. A kāfir (disbeliever) is one who COVERS the truth - they know it but reject it. 'Kafarū' = 'they disbelieved/rejected'. The 'ū' ending shows plural past tense (they did it). Interestingly, the word for farmer in Arabic is also from this root because a farmer COVERS seeds with soil! When used for belief, kufr means denying or rejecting Allah's truth despite knowing it. This is the opposite of īmān (faith/belief)."
+        }
+      },
+      {
+        "arabic": "سَوَاءٌ",
+        "transliteration": "sawā'un",
+        "translation": "the same / equal",
+        "grammar": {
+          "type": "Ism - Noun (predicate/khabar)",
+          "root": "س-و-ي (s-w-y) - to be equal, to be level",
+          "case": "Nominative (marfū') - ends in 'un' (tanwīn dammah)",
+          "form": "Functions as predicate of 'inna'",
+          "reason": "The predicate (khabar) of 'inna', taking nominative case. Means 'equal' or 'the same' - whether warned or not, the result is the same for stubborn disbelievers.",
+          "practical": "Means 'equal' or 'the same'. From the root meaning 'level/equal' - like a flat, even surface. With tanwīn (sawā'un), it means 'equally the same' or 'all the same'. This word is the khabar (predicate) of 'inna', so it takes dammah (u). The sentence structure: Inna (indeed) + alladhīna kafarū (those who disbelieved) + sawā'un (it's equal). What's equal? The next words explain..."
+        }
+      },
+      {
+        "arabic": "عَلَيْهِمْ",
+        "transliteration": "'alayhim",
+        "translation": "for them / upon them",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "'alā (upon/for) + him (them)",
+          "person": "Third person masculine plural",
+          "reason": "Specifies for WHOM it's all the same - for the disbelievers themselves.",
+          "practical": "'Alā (upon) + him (them) = 'alayhim (upon them/for them). When 'alā attaches to plural pronoun 'him', we get 'alayhim'. Here it means 'for them' or 'to them'. So the meaning is building: 'Indeed those who disbelieved - it is the same FOR THEM...' (whether you warn them or not). The phrase shows that their stubbornness affects them, not Allah or the Prophet."
+        }
+      },
+      {
+        "arabic": "أَأَنذَرْتَهُمْ",
+        "transliteration": "a'andhartahum",
+        "translation": "you warn them / you have warned them",
+        "grammar": {
+          "type": "Harf + Fi'l - Question Particle + Past Verb + Pronouns",
+          "root": "ن-ذ-ر (n-dh-r) - to warn",
+          "components": "a (question particle) + andharta (you warned) + hum (them)",
+          "form": "Form IV (if'āl) past tense",
+          "person": "Second person masculine singular (you)",
+          "object": "them (hum)",
+          "reason": "The hamza (أ) at the beginning makes it a question: 'Did you warn them?' The question is rhetorical - whether yes or no, the result is the same.",
+          "practical": "Powerful compact word! 'A' (question: did?) + 'andharta' (you warned) + 'hum' (them) = 'Did you warn them?' From the root n-dh-r (to warn). Form IV 'andhara' means to give warning. Notice TWO hamzas at the start (أَأَ) - first is question marker, second is from the verb 'andhara'. In recitation, this creates a distinctive sound. The question is rhetorical, setting up a contrast with what follows."
+        }
+      },
+      {
+        "arabic": "أَمْ",
+        "transliteration": "am",
+        "translation": "or",
+        "grammar": {
+          "type": "Harf - Conjunction (used in questions)",
+          "root": "N/A - Particle",
+          "function": "Presents an alternative option in question",
+          "reason": "Gives the second option: 'or did you NOT warn them?' Sets up the comparison between warning and not warning.",
+          "practical": "'Am' is a special 'or' used in questions to present alternatives. It's like saying 'or rather...' or 'or...' in the sense of giving options. Here it creates the full question: 'Did you warn them OR did you not warn them?' The answer doesn't matter because the result is the same - they won't believe either way. 'Am' is different from regular 'aw' (or) - 'am' specifically follows questions."
+        }
+      },
+      {
+        "arabic": "لَمْ",
+        "transliteration": "lam",
+        "translation": "did not / have not",
+        "grammar": {
+          "type": "Harf - Negation Particle (Harf Nafy and Jazm)",
+          "root": "N/A - Particle",
+          "function": "Negates past/perfect tense, causes jussive (jazm)",
+          "effect": "Makes the following verb jussive mood (majzūm)",
+          "reason": "Negates the verb that follows, creating the meaning 'you did not warn them'.",
+          "practical": "This is the negation particle for past actions, meaning 'did not' or 'have not'. Important: 'lam' has a special grammatical effect - it makes the verb after it JUSSIVE (majzūm) and changes present tense to past meaning! So 'tundhir' (you warn) becomes 'lam tundhir' (you did NOT warn). The verb after 'lam' drops its final vowel or nun. This is different from 'mā' (did not) which doesn't cause jazm. 'Lam' is used for past negation, while 'lā' is for present/future."
+        }
+      },
+      {
+        "arabic": "تُنذِرْهُمْ",
+        "transliteration": "tundhirhum",
+        "translation": "you warn them",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb in Jussive Mood + Pronoun",
+          "root": "ن-ذ-ر (n-dh-r) - to warn",
+          "form": "Form IV (if'āl)",
+          "person": "Second person masculine singular (you)",
+          "mood": "Jussive (majzūm) - due to 'lam'",
+          "components": "tundhir (you warn) + hum (them)",
+          "reason": "In jussive mood due to 'lam'. With 'lam' it means 'you did not warn them'.",
+          "practical": "Same root as before (n-dh-r). 'Tundhir' means 'you warn' (present tense), but when 'lam' comes before it, it becomes past meaning: 'you did not warn'. The verb is in jussive mood (majzūm), which often looks like it has sukūn on the last letter. 'Hum' (them) is attached as the object. Together with previous words: 'or (am) you did not (lam) warn them (tundhirhum)'. The sentence offers both possibilities: warned or didn't warn - either way, they won't believe."
+        }
+      },
+      {
+        "arabic": "لَا",
+        "transliteration": "lā",
+        "translation": "not / will not",
+        "grammar": {
+          "type": "Harf - Negation Particle (Harf Nafy)",
+          "root": "N/A - Particle",
+          "function": "Negates the present/future verb",
+          "reason": "Negates the following verb 'yu'minūn', meaning 'they will not believe'.",
+          "practical": "The simple negation 'not'. We saw 'lā' in verse 2 (lā rayba - no doubt). Here it negates the verb: 'they will NOT believe'. This is the answer to the question - whether you warn or don't warn: 'lā yu'minūna' (they will not believe). This 'lā' is for present/future negation (unlike 'lam' which negated past). The verse structure: Question (warn or not?) → Answer (they won't believe either way)."
+        }
+      },
+      {
+        "arabic": "يُؤْمِنُونَ",
+        "transliteration": "yu'minūn",
+        "translation": "they believe / they will believe",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "أ-م-ن (a-m-n) - to believe",
+          "form": "Form IV (if'āl)",
+          "person": "Third person masculine plural",
+          "tense": "Present/future",
+          "reason": "Describes their ongoing state of refusing to believe. With 'lā' it becomes: 'they will not believe'.",
+          "practical": "The same verb we've seen before! 'Yu'minūna' = 'they believe'. But here with 'lā' before it: 'lā yu'minūna' = 'they do not believe' or 'they will not believe'. Notice the contrast: verses 3-4 praised 'alladhīna yu'minūna' (those who believe), while this verse condemns 'lā yu'minūna' (they will not believe). Same verb, opposite meanings based on context. This shows some hearts are so sealed against truth that even warning doesn't help. It's a sad reality but also relieves the Prophet - he must deliver the message, but he can't force belief."
+        }
+      }
+    ]
+  },
+  {
+    "verse": 7,
+    "arabic": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "transliteration": "Khatama-llāhu 'alā qulūbihim wa 'alā sam'ihim wa 'alā abṣārihim ghishāwah wa lahum 'adhābun 'aẓīm",
+    "translation": "Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment",
+    "words": [
+      {
+        "arabic": "خَتَمَ",
+        "transliteration": "Khatama",
+        "translation": "He sealed / He has sealed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "خ-ت-م (kh-t-m) - to seal, to close, to complete",
+          "form": "Form I (basic)",
+          "person": "Third person masculine singular (He)",
+          "tense": "Past tense",
+          "reason": "Describes Allah's action of sealing the hearts of stubborn disbelievers. Past tense shows completed action.",
+          "practical": "From the root kh-t-m meaning 'to seal' or 'to close'. Like putting a stamp or seal on a letter to close it. 'Khatama' (he sealed) - the 'a' ending shows third person past tense. This is powerful imagery: when someone persistently rejects truth, Allah seals their heart so they can't understand anymore. The same root gives us 'khātam' (ring/seal) and 'khatm' (completion) - that's why we say 'khatm al-Quran' when we complete reading it! The verb has no subject pronoun, so we wait for the next word to know who did the sealing..."
+        }
+      },
+      {
+        "arabic": "اللَّهُ",
+        "transliteration": "Allāhu",
+        "translation": "Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun (Ism 'Alam), Divine Name",
+          "root": "N/A - The Name of God",
+          "case": "Nominative (marfū') - ends in 'u'",
+          "reason": "The subject of the verb 'khatama' - ALLAH is the One who sealed. The 'u' ending shows it's the subject (doer of the action).",
+          "practical": "The personal name of God - Allah. This is THE most important word in Islam! 'Allāh' with the 'u' ending (Allāhu) shows it's the subject - HE is the one doing the sealing. This isn't a random event - it's Allah's deliberate action in response to their persistent rejection. Some say 'Allah' comes from 'ilāh' (god) with 'al' (the), so 'al-ilāh' became 'Allah' = The God. The name Allah is used over 2,600 times in the Quran! Notice how Arabic names Allah directly as the active force in the universe."
+        }
+      },
+      {
+        "arabic": "عَلَىٰ",
+        "transliteration": "'alā",
+        "translation": "upon / on",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Shows the location/object of the sealing",
+          "practical": "The preposition 'upon' - shows WHERE the seal was placed. Sets up the answer: sealed upon WHAT?"
+        }
+      },
+      {
+        "arabic": "قُلُوبِهِمْ",
+        "transliteration": "qulūbihim",
+        "translation": "their hearts",
+        "grammar": {
+          "type": "Ism - Noun (plural) + Pronoun",
+          "root": "ق-ل-ب (q-l-b) - heart, to turn, to flip",
+          "case": "Genitive (majrūr) - ends in 'i' due to preposition ''alā'",
+          "number": "Plural",
+          "components": "qulūb (hearts) + him (their)",
+          "reason": "The object of the preposition - sealed UPON their hearts. Hearts are where understanding and faith reside.",
+          "practical": "Beautiful word! 'Qalb' (heart, singular) becomes 'qulūb' (hearts, plural). From root q-l-b which means 'to turn/flip' - called this because the heart constantly changes and turns! Adding 'him' (their) makes 'qulūbihim' (their hearts). The 'i' in qulūbi- comes from the preposition ''alā'. In Arabic understanding, the HEART is the center of intellect and faith, not just emotion. When the heart is sealed, you can't understand or believe truth. This is scary - after repeatedly rejecting truth, Allah may seal your heart! The Quran often mentions 'hearts' as the place of faith: 'amana qalbuhu' (his heart believed)."
+        }
+      },
+      {
+        "arabic": "وَعَلَىٰ",
+        "transliteration": "wa 'alā",
+        "translation": "and upon",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Preposition",
+          "components": "wa (and) + 'alā (upon)",
+          "reason": "Adds another location of sealing - not just hearts, but also hearing.",
+          "practical": "And upon... (building the list of what's sealed)"
+        }
+      },
+      {
+        "arabic": "سَمْعِهِمْ",
+        "transliteration": "sam'ihim",
+        "translation": "their hearing",
+        "grammar": {
+          "type": "Ism - Noun (verbal noun/masdar) + Pronoun",
+          "root": "س-م-ع (s-m-') - to hear",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "components": "sam' (hearing) + him (their)",
+          "reason": "Second thing sealed - their hearing. They can't truly 'hear' (understand) the message.",
+          "practical": "'Sam'' is the masdar (verbal noun) from 'sami'a' (he heard), meaning 'hearing' or 'the sense of hearing'. Notice it's singular 'sam'ihim' (their hearing) not plural, even though 'they' is plural - because hearing as a faculty is one thing. With 'him' = 'their hearing'. When hearts and hearing are sealed, people hear the words but don't TRULY hear the message - it doesn't penetrate. Ever talked to someone who hears but doesn't listen? That's this! The Quran says 'lahum ādhānun lā yasma'ūna bihā' (they have ears but don't hear with them)."
+        }
+      },
+      {
+        "arabic": "وَعَلَىٰ",
+        "transliteration": "wa 'alā",
+        "translation": "and over",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Preposition",
+          "practical": "And over... (third item in the list)"
+        }
+      },
+      {
+        "arabic": "أَبْصَارِهِمْ",
+        "transliteration": "abṣārihim",
+        "translation": "their vision / their eyes",
+        "grammar": {
+          "type": "Ism - Noun (plural) + Pronoun",
+          "root": "ب-ص-ر (b-ṣ-r) - to see, to have insight",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "number": "Plural",
+          "components": "abṣār (visions/eyes) + him (their)",
+          "reason": "Third thing affected - their vision. Interestingly, Allah changes structure here - doesn't say 'sealed' but rather 'over their vision is a covering'.",
+          "practical": "'Baṣar' (sight, singular) becomes 'abṣār' (plural). From b-ṣ-r meaning 'to see' - both physical sight and insight/understanding. 'Abṣārihim' = their visions/eyes. But notice the sentence structure changes! For hearts and hearing, Allah said HE sealed them. For eyes, He says there's a 'ghishāwah' (covering) over them - subtly different construction. Some scholars say this shows eyes were already covered by their own doing, while Allah sealed hearts and hearing as consequence. This pattern (hearts, hearing, sight) appears often in Quran, showing these three are essential for guidance!"
+        }
+      },
+      {
+        "arabic": "غِشَاوَةٌ",
+        "transliteration": "ghishāwah",
+        "translation": "a veil / a covering",
+        "grammar": {
+          "type": "Ism - Noun (predicate/mubtada')",
+          "root": "غ-ش-و (gh-sh-w) - to cover, to veil",
+          "case": "Nominative (marfū') - ends in 'un' (tanwīn)",
+          "gender": "Feminine",
+          "reason": "This is the subject/predicate: there IS a covering over their eyes. The tanwīn adds emphasis and indefiniteness.",
+          "practical": "From 'ghashiya' (to cover/veil). 'Ghishāwah' is a covering or veil - something that prevents clear vision. With tanwīn (ghishāwatun) = 'a covering/veil'. The sentence structure is: 'wa 'alā abṣārihim ghishāwah' = 'and over their eyes is a veil'. It's like wearing sunglasses indoors - technically you can see, but everything is dimmed and distorted. They look at signs of Allah but don't SEE them clearly. The word creates imagery of something covering or coating the eyes, preventing true insight."
+        }
+      },
+      {
+        "arabic": "وَلَهُمْ",
+        "transliteration": "wa lahum",
+        "translation": "and for them",
+        "grammar": {
+          "type": "Harf + Harf + Ism - Conjunction + Preposition + Pronoun",
+          "components": "wa (and) + li (for) + hum (them)",
+          "reason": "Introduces the consequence of their disbelief - what awaits them.",
+          "practical": "'Wa' (and) + 'li' (for) + 'hum' (them) = 'and for them'. The 'li' shows possession or what's appointed for them. This combination introduces what they will receive. It's a transition from describing their current state (sealed hearts) to their future consequence (punishment)."
+        }
+      },
+      {
+        "arabic": "عَذَابٌ",
+        "transliteration": "'adhābun",
+        "translation": "a punishment / torment",
+        "grammar": {
+          "type": "Ism - Noun (predicate/mubtada')",
+          "root": "ع-ذ-ب ('-dh-b) - to punish, to torment",
+          "case": "Nominative (marfū') - ends in 'un' (tanwīn)",
+          "gender": "Masculine",
+          "reason": "The subject/predicate of the sentence starting with 'lahum'. Describes what awaits them.",
+          "practical": "From 'adhdhaba' (to punish). ''Adhāb' means punishment or torment. With tanwīn ('adhābun) = 'a punishment'. The sentence 'wa lahum 'adhābun' = 'and for them is a punishment'. The indefiniteness (tanwīn) leaves it open - but the next word will qualify WHAT KIND of punishment..."
+        }
+      },
+      {
+        "arabic": "عَظِيمٌ",
+        "transliteration": "'aẓīm",
+        "translation": "great / tremendous",
+        "grammar": {
+          "type": "Ism - Adjective (ṣifah)",
+          "root": "ع-ظ-م ('-ẓ-m) - to be great, to be tremendous",
+          "case": "Nominative (marfū') - ends in 'un' (tanwīn)",
+          "pattern": "Fa'īl pattern (intensive form)",
+          "reason": "Describes the punishment - it's not just any punishment, but a GREAT one. Matches ''adhāb' in case and gender.",
+          "practical": "From ''aẓuma' (to be great). ''Aẓīm' on the fa'īl pattern means 'tremendous, great, mighty'. With tanwīn ('aẓīmun) to match ''adhābun'. Together: ''adhābun 'aẓīm' = 'a tremendous punishment'. This is one of the Quran's frequent phrases describing Hellfire. The fa'īl pattern is intensive, so ''aẓīm' means REALLY great/mighty! Note how the adjective AGREES with its noun in: (1) definiteness (both have tanwīn), (2) case (both nominative -un), (3) gender (both masculine). This agreement rule is fundamental in Arabic!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 8,
+    "arabic": "وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+    "transliteration": "Wa mina-n-nāsi man yaqūlu āmannā billāhi wa bil-yawmi-l-ākhiri wa mā hum bimu'minīn",
+    "translation": "And of the people are some who say, 'We believe in Allah and the Last Day,' but they are not believers",
+    "words": [
+      {
+        "arabic": "وَمِنَ",
+        "transliteration": "Wa mina",
+        "translation": "And from/of",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Preposition",
+          "components": "wa (and) + min (from/of)",
+          "function": "Introduces a new category of people - the hypocrites",
+          "reason": "After describing true believers (verses 3-5) and stubborn disbelievers (verses 6-7), now Allah introduces a third group.",
+          "practical": "'Wa' (and) + 'min' (from/of) = 'and from' or 'and of'. This begins a new section about hypocrites - people who claim faith but don't truly believe. The structure 'wa mina-n-nās' (and from the people) introduces this dangerous third category. While kuffār (disbelievers) are openly against Islam, munāfiqūn (hypocrites) are hidden enemies - more dangerous because you can't see them!"
+        }
+      },
+      {
+        "arabic": "النَّاسِ",
+        "transliteration": "an-nāsi",
+        "translation": "the people / mankind",
+        "grammar": {
+          "type": "Ism - Noun (collective)",
+          "root": "ن-و-س or أ-ن-س (related to uns - humanity, intimacy)",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+          "number": "Collective noun (refers to people in general)",
+          "reason": "Describes which category we're talking about - FROM the people in general.",
+          "practical": "'An-nās' means 'the people' or 'mankind' - a collective noun referring to all humans. The 'i' ending (an-nāsi) appears because of the preposition 'min'. This word appears famously in Surah An-Nās (114): 'Qul a'ūdhu bi-rabbi-n-nās' (Say: I seek refuge in the Lord of mankind). When you see 'mina-n-nās', it means 'from among the people' or 'of the people' - indicating a subcategory of humanity."
+        }
+      },
+      {
+        "arabic": "مَن",
+        "transliteration": "man",
+        "translation": "who / those who",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Pronoun",
+          "function": "Refers to 'some people' - indefinite relative pronoun",
+          "reason": "Specifies which people from among mankind - those who will be described next.",
+          "practical": "'Man' means 'who' or 'whoever' - a relative pronoun like 'alladhīna' but more general and indefinite. Here it means 'some who' or 'those who'. So 'mina-n-nāsi man' = 'from the people are some who...'. The sentence will describe what these 'some people' do. 'Man' can also be used in questions (man hadha? = who is this?) or for indefinite reference like here."
+        }
+      },
+      {
+        "arabic": "يَقُولُ",
+        "transliteration": "yaqūlu",
+        "translation": "he says / they say",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ق-و-ل (q-w-l) - to say, to speak",
+          "form": "Form I (basic)",
+          "person": "Third person masculine singular",
+          "tense": "Present/habitual action",
+          "reason": "Describes what these people DO - they say something. Singular verb with 'man' is standard, even when referring to multiple people.",
+          "practical": "From 'qāla' (he said). 'Yaqūlu' = 'he says' or 'says' (present tense). The 'ya-' prefix shows third person, and '-u' ending shows present indicative. With 'man yaqūlu' = 'whoever says' or 'those who say'. This introduces their CLAIM - what they SAY with their tongues. But watch - what they say and what they believe are different! This root q-w-l (to say) is extremely common in Quran: 'qāla Allāh' (Allah said), 'yaqūlu-l-kāfirūn' (the disbelievers say), etc."
+        }
+      },
+      {
+        "arabic": "آمَنَّا",
+        "transliteration": "āmannā",
+        "translation": "we believe / we have believed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī) + Pronoun",
+          "root": "أ-م-ن (a-m-n) - to believe, to have faith",
+          "form": "Form IV (if'āl)",
+          "person": "First person plural (we)",
+          "tense": "Past tense",
+          "components": "āmana (he believed) + nā (we)",
+          "reason": "This is their CLAIM - 'We have believed!' But Allah will reveal this is false. Past tense emphasizes they claim to have already believed.",
+          "practical": "From the same root a-m-n we've seen before! 'Āmana' (he believed) with 'nā' (we) = 'āmannā' (we believed/have believed). Notice the doubled 'n' (shadda) on the nūn - this happens when the verb ends in 'n' and 'nā' is added. This is direct speech - what they SAY: 'We believe!' But it's a lie. The hypocrites claim faith to blend in with Muslims while hiding disbelief in their hearts. This two-faced behavior is what makes hypocrisy so dangerous. They say 'āmannā' but Allah says 'wa mā hum bimu'minīn' (but they are NOT believers)!"
+        }
+      },
+      {
+        "arabic": "بِاللَّهِ",
+        "transliteration": "billāhi",
+        "translation": "in Allah",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Divine Name",
+          "components": "bi (in) + Allāh",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'bi'",
+          "reason": "Specifies the object of their claimed belief - they claim to believe IN ALLAH.",
+          "practical": "'Bi' (in) + 'Allāh' = 'billāhi' (in Allah). The 'i' ending comes from the preposition. So they claim: 'We believe in Allah!' - the most fundamental testimony. But it's an empty claim because their hearts don't truly believe. This is the first part of the shahādah (testimony): 'āmannā billāh' (we believe in Allah). Hypocrites can say the words, but true īmān requires heart, tongue, and actions to align."
+        }
+      },
+      {
+        "arabic": "وَبِالْيَوْمِ",
+        "transliteration": "wa bil-yawmi",
+        "translation": "and in the Day",
+        "grammar": {
+          "type": "Harf + Harf + Ism - Conjunction + Preposition + Noun",
+          "root": "ي-و-م (y-w-m) - day",
+          "components": "wa (and) + bi (in) + al-yawm (the Day)",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "reason": "Adds the second object of their claimed belief - the Last Day.",
+          "practical": "'Yawm' means 'day'. Here 'al-yawm' (THE Day) will be specified as which day - the Last Day. The 'i' ending (yawmi) comes from the preposition 'bi'. Notice 'bi + al' = 'bil'. So 'wa bil-yawm...' = 'and in the Day...' (which day? the next word clarifies)."
+        }
+      },
+      {
+        "arabic": "الْآخِرِ",
+        "transliteration": "al-ākhiri",
+        "translation": "the Last",
+        "grammar": {
+          "type": "Ism - Adjective (ṣifah)",
+          "root": "أ-خ-ر (a-kh-r) - to be last, to be final",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "gender": "Masculine",
+          "reason": "Describes which day - 'the Last Day' (Day of Judgment). Agrees with 'yawm' in case, gender, and definiteness.",
+          "practical": "'Ākhir' means 'last' or 'final'. Together: 'al-yawm al-ākhir' = 'the Last Day' (the Day of Judgment). We saw 'ākhirah' (feminine) in verse 4 meaning 'the Hereafter'. Here 'ākhir' (masculine) describes 'yawm' (day, masculine). Both refer to the same reality - the afterlife and Day of Judgment. Note the adjective agreement: both have 'al', both are genitive (i), both are masculine. So these hypocrites claim: 'We believe in Allah and the Last Day!' - the two essential beliefs. But it's false..."
+        }
+      },
+      {
+        "arabic": "وَمَا",
+        "transliteration": "wa mā",
+        "translation": "but not / and they are not",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Negation Particle",
+          "components": "wa (and/but) + mā (not)",
+          "function": "Negates what follows, contradicting their claim",
+          "reason": "Introduces Allah's verdict on their claim - it's FALSE. They say they believe, but Allah says they DON'T.",
+          "practical": "'Wa' (and/but) + 'mā' (not) = 'but...not' or 'and not'. Here 'wa' acts as a contrastive conjunction (but). After quoting their claim, Allah refutes it. This 'mā' is a negation particle that will negate the sentence following it. The contrast is powerful: THEY say 'we believe', but ALLAH says 'they are NOT believers'!"
+        }
+      },
+      {
+        "arabic": "هُم",
+        "transliteration": "hum",
+        "translation": "they",
+        "grammar": {
+          "type": "Ism - Pronoun (separate/detached)",
+          "person": "Third person masculine plural",
+          "reason": "Emphatic pronoun stressing THEY specifically (not true believers) are not believers.",
+          "practical": "Again the emphatic pronoun 'hum' (they)! Used for emphasis and contrast. The sentence 'wa mā hum bimu'minīn' = 'and they are NOT believers'. The separate pronoun emphasizes: THEY (those who make these claims) are NOT true believers. This structure is emphatic negation - the strongest way to deny something in Arabic."
+        }
+      },
+      {
+        "arabic": "بِمُؤْمِنِينَ",
+        "transliteration": "bimu'minīn",
+        "translation": "believers",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Active Participle (Ism Fā'il)",
+          "root": "أ-م-ن (a-m-n) - to believe",
+          "components": "bi (particle) + mu'minīn (believers)",
+          "case": "Genitive (majrūr) - ends in 'īn'",
+          "form": "Active participle plural",
+          "reason": "The predicate - they are NOT believers. The 'bi' here is extra for emphasis in negation (zā'idah).",
+          "practical": "'Mu'minīn' = 'believers' (same word we saw in verse 3 for the God-conscious!). Here with 'bi': 'bimu'minīn'. The 'bi' is an extra particle used with 'mā' in negation for emphasis - it makes the negation stronger. So 'mā hum bimu'minīn' = 'they are absolutely NOT believers'. The 'īn' ending shows plural genitive. These people claim 'āmannā' (we believe) but Allah declares 'mā hum bimu'minīn' (they are not believers). The irony is stark - they use the same root (a-m-n) in their claim, but Allah denies they possess real īmān!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 9,
+    "arabic": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+    "transliteration": "Yukhādi'ūna-llāha wa-lladhīna āmanū wa mā yakhda'ūna illā anfusahum wa mā yash'urūn",
+    "translation": "They (think to) deceive Allah and those who believe, but they deceive not except themselves, and they perceive (it) not",
+    "words": [
+      {
+        "arabic": "يُخَادِعُونَ",
+        "transliteration": "Yukhādi'ūna",
+        "translation": "they deceive / they try to deceive",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "خ-د-ع (kh-d-') - to deceive, to trick",
+          "form": "Form III (mufā'alah pattern) - indicates reciprocal/attempt",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present/ongoing action",
+          "reason": "Describes what hypocrites do - they attempt to deceive. Form III shows they TRY to deceive but can't actually fool Allah.",
+          "practical": "From 'khada'a' (to deceive). But this is Form III: 'khāda'a' which means 'to try to deceive' or 'to engage in deception with'. The pattern 'yu...ūna' = they do it (present, continuous). Form III often shows attempting or pretending to do something. So 'yukhādi'ūna' = 'they try to deceive' or 'they think they're deceiving'. The beauty here: you can't ACTUALLY deceive Allah! They only THINK they can. Form III captures this perfectly - it's an attempt, not a success. When you see this pattern (with the long ā), think of trying or attempting to do something with someone."
+        }
+      },
+      {
+        "arabic": "اللَّهَ",
+        "transliteration": "Allāha",
+        "translation": "Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun, Divine Name",
+          "case": "Accusative (manṣūb) - ends in 'a'",
+          "reason": "The direct object of the verb - they try to deceive ALLAH. The 'a' ending shows it's the object.",
+          "practical": "Allah's name in accusative case (Allāha) - the object of their attempted deception. The 'a' ending marks it as the direct object (what receives the action). How foolish to think you can deceive the All-Knowing! This is the height of delusion - Allah knows what's in every heart. Hypocrites might fool people by claiming faith, but they can never fool Allah."
+        }
+      },
+      {
+        "arabic": "وَالَّذِينَ",
+        "transliteration": "wa-lladhīna",
+        "translation": "and those who",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Relative Pronoun",
+          "case": "Accusative (manṣūb)",
+          "reason": "Second object of the deception - they also try to deceive the believers.",
+          "practical": "'Wa' (and) + 'alladhīna' (those who). Adds a second object - they try to deceive Allah AND the believers. Hypocrites pretend to be Muslims to gain trust and infiltrate the community."
+        }
+      },
+      {
+        "arabic": "آمَنُوا",
+        "transliteration": "āmanū",
+        "translation": "they believed / who believed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb",
+          "root": "أ-م-ن (a-m-n) - to believe",
+          "form": "Form IV",
+          "person": "Third person masculine plural",
+          "reason": "Describes the believers - those who truly believed (unlike the hypocrites who only claimed to).",
+          "practical": "'Āmanū' = they believed (truly). This describes REAL believers, contrasting with hypocrites who only say 'āmannā' but don't mean it. The 'ū' ending shows plural past tense. So hypocrites try to deceive: (1) Allah, and (2) those who truly believe. They succeed at (2) sometimes, but never at (1)!"
+        }
+      },
+      {
+        "arabic": "وَمَا",
+        "transliteration": "wa mā",
+        "translation": "but not / and they do not",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Negation",
+          "components": "wa (but) + mā (not)",
+          "reason": "Contrasts their attempt with reality - they DON'T actually deceive who they think.",
+          "practical": "'Wa mā' = but not. Introduces the truth: they THINK they're deceiving Allah and believers, but they're NOT..."
+        }
+      },
+      {
+        "arabic": "يَخْدَعُونَ",
+        "transliteration": "yakhda'ūna",
+        "translation": "they deceive",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb",
+          "root": "خ-د-ع (kh-d-') - to deceive",
+          "form": "Form I (basic) - actual deception",
+          "person": "Third person masculine plural",
+          "reason": "Notice the change from Form III to Form I! Now it's ACTUAL deception (Form I), not just attempting (Form III). They DO deceive, but not who they think!",
+          "practical": "Same root but Form I now: 'yakhda'ūna' = they (actually) deceive. Notice the shift: 'yukhādi'ūna' (Form III = try to deceive) vs 'yakhda'ūna' (Form I = actually deceive). The Quran is saying: they TRY to deceive Allah and believers, but they ACTUALLY deceive... (wait for it)... themselves! Form I shows real deception happening, but the object will surprise us."
+        }
+      },
+      {
+        "arabic": "إِلَّا",
+        "transliteration": "illā",
+        "translation": "except / but only",
+        "grammar": {
+          "type": "Harf - Exception Particle (Harf Istithnā')",
+          "root": "N/A - Particle",
+          "function": "Introduces an exception - they deceive no one EXCEPT...",
+          "reason": "Limits the deception to one object only.",
+          "practical": "'Illā' means 'except' or 'but only'. It introduces an exception or limitation. So: 'they don't deceive EXCEPT...' (who?). This particle is crucial for understanding the sentence's full meaning. The structure 'mā...illā' = 'not...except' or 'only'. They deceive ONLY themselves!"
+        }
+      },
+      {
+        "arabic": "أَنفُسَهُمْ",
+        "transliteration": "anfusahum",
+        "translation": "themselves",
+        "grammar": {
+          "type": "Ism - Noun (reflexive) + Pronoun",
+          "root": "ن-ف-س (n-f-s) - soul, self",
+          "case": "Accusative (manṣūb) - ends in 'a'",
+          "components": "anfus (souls/selves) + hum (their)",
+          "reason": "The object of deception - they deceive only THEMSELVES. Powerful irony!",
+          "practical": "'Nafs' (soul/self, singular) becomes 'anfus' (selves, plural). With 'hum' = 'anfusahum' (themselves). The 'a' on anfusa- shows accusative (object). So the complete meaning: 'They don't deceive except themselves'! Powerful message: when you try to deceive Allah, you only hurt yourself. You might fool people temporarily, but you're ultimately fooling and destroying your own soul. This word 'nafs' appears hundreds of times in Quran - it means soul, self, or the inner person. Taking care of your nafs is crucial!"
+        }
+      },
+      {
+        "arabic": "وَمَا",
+        "transliteration": "wa mā",
+        "translation": "and not / and they do not",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Negation",
+          "components": "wa (and) + mā (not)",
+          "reason": "Adds another tragic reality about hypocrites.",
+          "practical": "'Wa mā' = and not. Adds more bad news for hypocrites..."
+        }
+      },
+      {
+        "arabic": "يَشْعُرُونَ",
+        "transliteration": "yash'urūna",
+        "translation": "they perceive / they realize",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb",
+          "root": "ش-ع-ر (sh-'-r) - to feel, to perceive, to know",
+          "form": "Form I",
+          "person": "Third person masculine plural",
+          "tense": "Present/ongoing",
+          "reason": "They don't perceive or realize they're deceiving themselves. This adds tragedy to their situation - they're blind to their own deception.",
+          "practical": "From 'sha'ara' (to feel/perceive). 'Yash'urūna' = they perceive/feel/realize. With 'wa mā yash'urūna' = and they don't perceive/realize. The ultimate tragedy: not only do they deceive themselves, they don't even REALIZE they're doing it! They're in complete delusion, thinking they're clever while actually destroying themselves. This root sh-'-r originally relates to feeling/sensing (same root as 'sha'r' = poetry, called this because the poet FEELS deeply). True awareness requires spiritual perception!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 10,
+    "arabic": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+    "transliteration": "Fī qulūbihim maraḍun fa-zādahumu-llāhu maraḍan wa lahum 'adhābun alīmun bimā kānū yakdhibūn",
+    "translation": "In their hearts is disease, so Allah has increased them in disease; and for them is a painful punishment because they (habitually) used to lie",
+    "words": [
+      {
+        "arabic": "فِي",
+        "transliteration": "Fī",
+        "translation": "In",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "function": "Indicates location - WHERE the disease is",
+          "practical": "The preposition 'in' - shows WHERE the disease exists: IN their hearts."
+        }
+      },
+      {
+        "arabic": "قُلُوبِهِم",
+        "transliteration": "qulūbihim",
+        "translation": "their hearts",
+        "grammar": {
+          "type": "Ism - Noun + Pronoun",
+          "root": "ق-ل-ب (q-l-b) - heart",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "components": "qulūb (hearts) + him (their)",
+          "reason": "Location of the disease - in their HEARTS, the center of faith and understanding.",
+          "practical": "We've seen 'qulūb' (hearts) before! Hearts again - the seat of belief and understanding. The 'i' ending shows it's after the preposition 'fī'. So 'fī qulūbihim' = in their hearts. This is where the problem lies - not in their minds or bodies, but in their HEARTS. Spiritual disease of the heart is far worse than physical illness!"
+        }
+      },
+      {
+        "arabic": "مَّرَضٌ",
+        "transliteration": "maraḍun",
+        "translation": "a disease / sickness",
+        "grammar": {
+          "type": "Ism - Noun (subject/mubtada')",
+          "root": "م-ر-ض (m-r-ḍ) - to be sick, to be diseased",
+          "case": "Nominative (marfū') - ends in 'un'",
+          "reason": "The subject - there IS a disease in their hearts. Indefinite (tanwīn) may suggest its nature is known to Allah.",
+          "practical": "'Maraḍ' means disease, sickness, or illness. With tanwīn: 'maraḍun' = a disease. The sentence structure: 'fī qulūbihim maraḍun' = in their hearts is a disease. What disease? Spiritual disease - doubt, hypocrisy, love of this world over Allah. This disease is worse than cancer because it kills the soul! The same root gives 'marīḍ' (sick person). When the heart is sick, everything else becomes corrupted."
+        }
+      },
+      {
+        "arabic": "فَزَادَهُمُ",
+        "transliteration": "fa-zādahumu",
+        "translation": "so He increased them / so Allah increased them",
+        "grammar": {
+          "type": "Harf + Fi'l - Conjunction + Past Verb + Pronoun",
+          "root": "ز-ي-د (z-y-d) - to increase, to add",
+          "components": "fa (so/then) + zāda (he increased) + hum (them)",
+          "person": "Third person singular (He)",
+          "object": "them (hum)",
+          "reason": "'Fa' shows consequence - BECAUSE there was disease, Allah increased it. The pronoun 'hum' shows who received the increase.",
+          "practical": "'Fa' (so/then) + 'zāda' (he increased) + 'hum' (them) = so He increased them. From the root z-y-d (to increase/add) - same root as the name 'Ziyād' and the word 'mazīd' (more). Who increased? The next word tells us: Allah. This is both a consequence and a punishment: when you persist in spiritual disease, Allah may increase it as punishment. The verb is packed: 'zādahum' = increased them (made them have more). This is the law of spiritual decline - sins lead to more sins, just as good deeds lead to more good deeds!"
+        }
+      },
+      {
+        "arabic": "اللَّهُ",
+        "transliteration": "Allāhu",
+        "translation": "Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun, Divine Name",
+          "case": "Nominative (marfū') - subject",
+          "reason": "The subject of 'zāda' - ALLAH is the one who increased their disease.",
+          "practical": "'Allāhu' (Allah) is the subject - HE increased them in disease. When people persist in hypocrisy and lies, Allah may increase their spiritual blindness as punishment. This isn't arbitrary - it's the natural consequence of rejecting truth. Allah's name appears here to show His sovereignty - even their increase in misguidance is by His will and wisdom."
+        }
+      },
+      {
+        "arabic": "مَرَضًا",
+        "transliteration": "maraḍan",
+        "translation": "in disease",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "م-ر-ض (m-r-ḍ) - disease",
+          "case": "Accusative (manṣūb) - ends in 'an'",
+          "reason": "Specifies what was increased - disease. The accusative shows it's the object/specification of the increase.",
+          "practical": "Same word 'maraḍ' but now accusative: 'maraḍan' = in disease. So 'zādahumu-llāhu maraḍan' = Allah increased them in disease. The tanwīn 'an' shows accusative case (what was increased). The repetition emphasizes: disease → MORE disease. Their hearts already had disease, and Allah added more! When you don't treat spiritual illness, it gets worse. Just like physical disease spreads if untreated, spiritual disease (doubt, hypocrisy) grows until it consumes the whole heart."
+        }
+      },
+      {
+        "arabic": "وَلَهُمْ",
+        "transliteration": "wa lahum",
+        "translation": "and for them",
+        "grammar": {
+          "type": "Harf + Harf + Ism - Conjunction + Preposition + Pronoun",
+          "components": "wa (and) + li (for) + hum (them)",
+          "reason": "Introduces their punishment in the Hereafter.",
+          "practical": "'Wa lahum' = and for them. Same structure we saw in verse 7. Introduces what awaits them: punishment."
+        }
+      },
+      {
+        "arabic": "عَذَابٌ",
+        "transliteration": "'adhābun",
+        "translation": "a punishment",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "ع-ذ-ب ('-dh-b) - to punish",
+          "case": "Nominative (marfū')",
+          "practical": "''Adhābun' = a punishment. Same word from verse 7. Hypocrites will face punishment."
+        }
+      },
+      {
+        "arabic": "أَلِيمٌ",
+        "transliteration": "alīm",
+        "translation": "painful",
+        "grammar": {
+          "type": "Ism - Adjective (ṣifah)",
+          "root": "أ-ل-م (a-l-m) - to be painful, to hurt",
+          "pattern": "Fa'īl pattern (intensive)",
+          "case": "Nominative (marfū')",
+          "reason": "Describes the punishment - it's PAINFUL. Matches ''adhāb' in case, gender, and definiteness.",
+          "practical": "From 'alima' (to be painful). 'Alīm' on the fa'īl pattern = painful, excruciating. Together: ''adhābun alīmun' = a painful punishment. In verse 7 it was ''adhābun 'aẓīm' (a great punishment). Here it's 'alīm' (painful) - emphasizing the suffering they'll feel. Both adjectives appear frequently in Quran describing Hell. The fa'īl pattern intensifies the meaning - intensely painful!"
+        }
+      },
+      {
+        "arabic": "بِمَا",
+        "transliteration": "bimā",
+        "translation": "because / due to what",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Relative Pronoun",
+          "components": "bi (because of) + mā (what)",
+          "function": "Introduces the REASON for their punishment",
+          "reason": "The 'bi' here means 'because of' or 'due to', and 'mā' means 'what'.",
+          "practical": "'Bi' + 'mā' = 'bimā' = because of what/because. This combination introduces the CAUSE of their painful punishment. Why will they be punished? The next words explain..."
+        }
+      },
+      {
+        "arabic": "كَانُوا",
+        "transliteration": "kānū",
+        "translation": "they were / they used to be",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (kāna/helper verb)",
+          "root": "ك-و-ن (k-w-n) - to be, to exist",
+          "person": "Third person masculine plural",
+          "function": "Indicates continuous past state",
+          "reason": "'Kāna' and its variants indicate a continuous state in the past - they USED TO habitually do something.",
+          "practical": "'Kānū' = they were/they used to be. This is from 'kāna' (to be) - one of the special verbs in Arabic. When 'kāna' comes before another verb, it shows HABITUAL past action: they USED TO do something continuously. So 'kānū yakdhibūn' = they used to (habitually) lie. It wasn't just once - it was their constant habit! 'Kāna' is one of the most important verbs in Arabic, appearing thousands of times in Quran."
+        }
+      },
+      {
+        "arabic": "يَكْذِبُونَ",
+        "transliteration": "yakdhibūna",
+        "translation": "they lie / they tell lies",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ك-ذ-ب (k-dh-b) - to lie, to tell falsehood",
+          "form": "Form I",
+          "person": "Third person masculine plural",
+          "tense": "Present (but past meaning with 'kānū')",
+          "reason": "Describes their habitual action - LYING. This is why they face painful punishment.",
+          "practical": "From 'kadhaba' (to lie). 'Yakdhibūna' = they lie (present tense). But with 'kānū' before it: 'kānū yakdhibūna' = they USED TO lie (habitually). Their whole life was based on lies - claiming to believe while disbelieving, pretending to be friends while being enemies. The root k-dh-b is opposite of ṣ-d-q (truth). A 'kādhib' (liar) vs 'ṣādiq' (truthful person). The painful punishment comes BECAUSE (bimā) they habitually lied (kānū yakdhibūna). Every lie takes you further from Allah!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 11,
+    "arabic": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ",
+    "transliteration": "Wa idhā qīla lahum lā tufsidū fī-l-arḍi qālū innamā naḥnu muṣliḥūn",
+    "translation": "And when it is said to them, 'Do not cause corruption on the earth,' they say, 'We are but reformers'",
+    "words": [
+      {
+        "arabic": "وَإِذَا",
+        "transliteration": "Wa idhā",
+        "translation": "And when",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Time Particle",
+          "components": "wa (and) + idhā (when)",
+          "function": "'Idhā' introduces a conditional temporal clause - whenever this happens",
+          "practical": "'Wa' (and) + 'idhā' (when/whenever) = and when. 'Idhā' introduces something that happens repeatedly or conditionally. Different from 'in' (if) - 'idhā' is for things that definitely happen or are expected to happen. So 'idhā qīla' = when it is said (and this DOES happen to them)."
+        }
+      },
+      {
+        "arabic": "قِيلَ",
+        "transliteration": "qīla",
+        "translation": "it is said / it was said",
+        "grammar": {
+          "type": "Fi'l - Past Tense Passive Verb",
+          "root": "ق-و-ل (q-w-l) - to say",
+          "form": "Form I passive",
+          "tense": "Past tense",
+          "voice": "Passive - the subject receives the action",
+          "reason": "Passive voice - IT IS SAID (by someone) to them. Focus is on what's said, not who says it.",
+          "practical": "From 'qāla' (he said). In passive: 'qīla' = it was said/is said. Passive verbs in Arabic change their internal vowels: qāla → qīla. The long 'ī' is characteristic of passive past tense. So 'idhā qīla' = when it is said. Who says it? Could be the Prophet, believers, or anyone advising them. The passive shows it doesn't matter WHO says it - they reject the advice regardless!"
+        }
+      },
+      {
+        "arabic": "لَهُمْ",
+        "transliteration": "lahum",
+        "translation": "to them",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "li (to) + hum (them)",
+          "practical": "'Li' (to/for) + 'hum' (them) = to them. Shows who receives the advice."
+        }
+      },
+      {
+        "arabic": "لَا",
+        "transliteration": "lā",
+        "translation": "do not",
+        "grammar": {
+          "type": "Harf - Negation/Prohibition Particle (Harf Nahy)",
+          "function": "Creates a prohibition - DON'T do something",
+          "effect": "Makes the following verb jussive mood",
+          "practical": "'Lā' for prohibition = DON'T (do something). When 'lā' comes before a present tense verb addressing someone, it's a command NOT to do something. This is called 'nahy' (prohibition)."
+        }
+      },
+      {
+        "arabic": "تُفْسِدُوا",
+        "transliteration": "tufsidū",
+        "translation": "you cause corruption / you spread corruption",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb in Jussive Mood",
+          "root": "ف-س-د (f-s-d) - to corrupt, to spoil, to cause mischief",
+          "form": "Form IV (if'āl) - causative",
+          "person": "Second person masculine plural (you all)",
+          "mood": "Jussive (majzūm) due to 'lā nahy'",
+          "reason": "Command them NOT to spread corruption. Form IV makes it causative - to CAUSE corruption.",
+          "practical": "From 'fasada' (to be corrupt/spoiled). Form IV 'afsada' = to CAUSE corruption, to spoil, to spread mischief. 'Tufsidū' = you (plural) cause corruption. In jussive mood due to 'lā', the final 'ūn' drops to 'ū'. So 'lā tufsidū' = don't spread corruption! The root f-s-d means corruption, damage, or evil - opposite of ṣ-l-ḥ (righteousness/reform). Fasād is any action that harms society, faith, or morality."
+        }
+      },
+      {
+        "arabic": "فِي",
+        "transliteration": "fī",
+        "translation": "in",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "practical": "'Fī' = in. Shows where they shouldn't cause corruption."
+        }
+      },
+      {
+        "arabic": "الْأَرْضِ",
+        "transliteration": "al-arḍi",
+        "translation": "the earth / the land",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "أ-ر-ض (a-r-ḍ) - earth, land",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "reason": "Specifies where corruption should not happen - on the EARTH.",
+          "practical": "'Arḍ' means earth, land, or ground. With 'al' = al-arḍ (the earth). The 'i' ending comes from the preposition 'fī'. So 'fī-l-arḍ' (fil-arḍ) = in the earth/on earth. This refers to human society and the world we live in. The command is: don't spread corruption in society! Hypocrites cause fasād by pretending to be Muslims while plotting against Islam, creating doubt, and sowing discord."
+        }
+      },
+      {
+        "arabic": "قَالُوا",
+        "transliteration": "qālū",
+        "translation": "they said",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb",
+          "root": "ق-و-ل (q-w-l) - to say",
+          "person": "Third person masculine plural",
+          "reason": "Describes their response - what THEY said in reply.",
+          "practical": "'Qālū' = they said. Their arrogant response to being told not to cause corruption. Instead of accepting the advice, they make excuses..."
+        }
+      },
+      {
+        "arabic": "إِنَّمَا",
+        "transliteration": "Innamā",
+        "translation": "Only / Indeed we are only / We are but",
+        "grammar": {
+          "type": "Harf - Restriction Particle (Harf Haṣr)",
+          "components": "inna (indeed) + mā (adds restriction)",
+          "function": "Creates exclusive meaning - ONLY, NOTHING BUT",
+          "reason": "They claim to be ONLY reformers (nothing else). It's a defensive, restrictive claim.",
+          "practical": "'Innamā' is a combination that means 'only' or 'indeed...only' or 'but'. It restricts and limits the meaning. Here they're saying: 'We are ONLY reformers' - defending themselves and denying they cause corruption. It's emphatic limitation. When you see 'innamā', it's saying: this is ALL we are, JUST this, NOTHING MORE. Their response is defensive and dismissive of the accusation."
+        }
+      },
+      {
+        "arabic": "نَحْنُ",
+        "transliteration": "naḥnu",
+        "translation": "we",
+        "grammar": {
+          "type": "Ism - Pronoun (separate/detached)",
+          "person": "First person plural",
+          "reason": "Emphatic pronoun - WE (specifically, us!) are reformers. Adds emphasis to their false claim.",
+          "practical": "'Naḥnu' = we. This separate pronoun adds emphasis: WE are reformers (implying: how dare you accuse US!). The emphatic pronoun shows their indignation and arrogance. They're offended that anyone would suggest they cause corruption!"
+        }
+      },
+      {
+        "arabic": "مُصْلِحُونَ",
+        "transliteration": "muṣliḥūn",
+        "translation": "reformers / those who reform",
+        "grammar": {
+          "type": "Ism - Active Participle (Ism Fā'il)",
+          "root": "ص-ل-ح (ṣ-l-ḥ) - to be righteous, to reform, to be good",
+          "form": "Form IV active participle",
+          "case": "Nominative (marfū') - ends in 'ūn'",
+          "pattern": "Muf'il pattern",
+          "reason": "They claim to be reformers - people who fix and improve things (opposite of causing corruption).",
+          "practical": "From 'ṣalaḥa' (to be good/righteous). Form IV 'aṣlaḥa' = to reform, to fix, to make better. 'Muṣliḥūn' (active participle) = reformers, those who reform. This is the opposite of 'mufsidūn' (corrupters)! Notice the irony: they're told 'lā tufsidū' (don't corrupt) but claim 'naḥnu muṣliḥūn' (we're reformers). They see their corruption as reform! This is the delusion of hypocrites - they think their evil is good. The root ṣ-l-ḥ appears in 'ṣalāḥ' (righteousness) and 'iṣlāḥ' (reform)."
+        }
+      }
+    ]
+  },
+  {
+    "verse": 12,
+    "arabic": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+    "transliteration": "Alā innahum humu-l-mufsidūna wa lākin lā yash'urūn",
+    "translation": "Unquestionably, it is they who are the corrupters, but they perceive (it) not",
+    "words": [
+      {
+        "arabic": "أَلَا",
+        "transliteration": "Alā",
+        "translation": "Unquestionably / Verily / Beware",
+        "grammar": {
+          "type": "Harf - Attention/Emphasis Particle (Harf Tanbīh)",
+          "function": "Calls strong attention - PAY ATTENTION! INDEED!",
+          "reason": "Allah strongly emphasizes what follows - this is DEFINITELY true, despite their denial.",
+          "practical": "'Alā' is a powerful particle meaning 'Indeed!' or 'Truly!' or 'Beware!' It demands attention to what follows. When Allah uses 'alā', He's saying: LISTEN CAREFULLY - this is the truth! After the hypocrites' false claim (we're reformers), Allah emphatically refutes them: NO! INDEED the truth is..."
+        }
+      },
+      {
+        "arabic": "إِنَّهُمْ",
+        "transliteration": "Innahum",
+        "translation": "Indeed they / Verily they",
+        "grammar": {
+          "type": "Harf + Ism - Emphatic Particle + Pronoun",
+          "components": "inna (indeed) + hum (they)",
+          "case": "Accusative (manṣūb) due to 'inna'",
+          "reason": "'Inna' emphasizes the statement. With 'hum' = indeed THEY. Double emphasis with 'alā + inna'!",
+          "practical": "'Inna' (indeed/verily) + 'hum' (they) = indeed they. We've seen 'inna' before - it emphasizes and makes the following noun accusative. Together with 'alā': 'Alā innahum' = Indeed! Verily they... This is POWERFUL double emphasis. Allah is refuting their claim with absolute certainty!"
+        }
+      },
+      {
+        "arabic": "هُمُ",
+        "transliteration": "humu",
+        "translation": "they",
+        "grammar": {
+          "type": "Ism - Pronoun (separate/detached)",
+          "person": "Third person plural",
+          "reason": "Another emphatic pronoun! Triple emphasis: alā + inna + hum (separate). THEY specifically, not others!",
+          "practical": "Another 'hum' (they)! This is the third level of emphasis: (1) alā, (2) inna, (3) separate pronoun hum. It's like saying: PAY ATTENTION! INDEED! THEY - yes THEY specifically - are... This massive emphasis contrasts their claim. They say 'we're reformers' but Allah says with triple emphasis: NO! THEY are the corrupters!"
+        }
+      },
+      {
+        "arabic": "الْمُفْسِدُونَ",
+        "transliteration": "al-mufsidūn",
+        "translation": "the corrupters / the mischief-makers",
+        "grammar": {
+          "type": "Ism - Active Participle",
+          "root": "ف-س-د (f-s-d) - to corrupt",
+          "form": "Form IV active participle",
+          "case": "Nominative (marfū') - ends in 'ūn'",
+          "pattern": "Muf'il pattern",
+          "reason": "The truth: they ARE the corrupters. 'Al' makes it definite and exclusive - THE ONLY corrupters.",
+          "practical": "From 'afsada' (to corrupt) - same root we saw in 'tufsidū' (don't corrupt)! 'Mufsidūn' = corrupters, those who cause corruption. With 'al': 'al-mufsidūn' = THE corrupters. The irony is complete: they're told 'lā tufsidū' (don't corrupt), they claim 'naḥnu muṣliḥūn' (we're reformers), but Allah declares 'humu-l-mufsidūn' (THEY are THE corrupters)! The definite article 'al' emphasizes: they ARE the very people causing corruption, even though they deny it!"
+        }
+      },
+      {
+        "arabic": "وَلَـٰكِن",
+        "transliteration": "Wa lākin",
+        "translation": "But / However",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Contrastive Particle",
+          "components": "wa (and) + lākin (but/however)",
+          "function": "Introduces a contrasting statement",
+          "reason": "Contrasts the reality (they ARE corrupters) with their awareness (they don't realize it).",
+          "practical": "'Lākin' (or 'lākinna') means 'but' or 'however' - shows contrast. Here with 'wa': 'wa lākin' = but/however. Sets up the tragedy: they ARE corrupters, BUT... (they don't know it). 'Lākin' is different from 'wa' alone - it specifically shows opposition or contrast between two statements."
+        }
+      },
+      {
+        "arabic": "لَّا",
+        "transliteration": "lā",
+        "translation": "not",
+        "grammar": {
+          "type": "Harf - Negation Particle",
+          "practical": "'Lā' = not. Negates the following verb."
+        }
+      },
+      {
+        "arabic": "يَشْعُرُونَ",
+        "transliteration": "yash'urūna",
+        "translation": "they perceive / they realize",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb",
+          "root": "ش-ع-ر (sh-'-r) - to feel, to perceive",
+          "person": "Third person masculine plural",
+          "reason": "They don't perceive or realize the truth about themselves. Complete self-delusion.",
+          "practical": "We saw this verb in verse 9! 'Yash'urūna' = they perceive/realize/feel. With 'lā': 'lā yash'urūna' = they don't perceive. The complete tragedy: they ARE the corrupters, but they don't even REALIZE it! They think they're doing good while causing harm. This is the danger of spiritual blindness - you can't fix a problem you don't see. Hypocrites are so deluded they believe their own lies!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 13,
+    "arabic": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ ۗ أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَـٰكِن لَّا يَعْلَمُونَ",
+    "transliteration": "Wa idhā qīla lahum āminū kamā āmana-n-nāsu qālū anu'minu kamā āmana-s-sufahā'u alā innahum humu-s-sufahā'u wa lākin lā ya'lamūn",
+    "translation": "And when it is said to them, 'Believe as the people have believed,' they say, 'Should we believe as the foolish have believed?' Unquestionably, it is they who are the foolish, but they know (it) not",
+    "words": [
+      {
+        "arabic": "وَإِذَا",
+        "transliteration": "Wa idhā",
+        "translation": "And when",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Time Particle",
+          "practical": "Same structure as verse 11 - 'and when' introduces another example of their behavior."
+        }
+      },
+      {
+        "arabic": "قِيلَ",
+        "transliteration": "qīla",
+        "translation": "it is said",
+        "grammar": {
+          "type": "Fi'l - Past Tense Passive Verb",
+          "root": "ق-و-ل (q-w-l) - to say",
+          "practical": "Passive: 'it is said'. Same pattern as verse 11."
+        }
+      },
+      {
+        "arabic": "لَهُمْ",
+        "transliteration": "lahum",
+        "translation": "to them",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "practical": "'Lahum' = to them. Recipients of the command."
+        }
+      },
+      {
+        "arabic": "آمِنُوا",
+        "transliteration": "āminū",
+        "translation": "Believe!",
+        "grammar": {
+          "type": "Fi'l - Imperative Verb (Fi'l Amr)",
+          "root": "أ-م-ن (a-m-n) - to believe",
+          "form": "Form IV imperative",
+          "person": "Second person masculine plural",
+          "mood": "Imperative (command)",
+          "reason": "Direct command to the hypocrites: BELIEVE! (truly, not just with your tongues)",
+          "practical": "From 'āmana' (to believe). 'Āminū' is the command form = Believe! (you all). The imperative tells them to truly believe, not just claim it. Notice they're told to believe 'as the people believed' - meaning with sincerity like true believers. The command is an invitation to genuine faith."
+        }
+      },
+      {
+        "arabic": "كَمَا",
+        "transliteration": "kamā",
+        "translation": "as / just as / like",
+        "grammar": {
+          "type": "Harf + Harf - Preposition + Particle",
+          "components": "ka (like) + mā (what/as)",
+          "function": "Creates comparison - believe LIKE/AS...",
+          "reason": "Sets up a comparison - believe in the SAME WAY that others believed.",
+          "practical": "'Ka' (like/as) + 'mā' (what/that which) = 'kamā' (just as/like/as). This creates comparison: believe AS the people believed. It's saying: match their level and sincerity of belief! Don't just claim faith - believe truly like real believers do!"
+        }
+      },
+      {
+        "arabic": "آمَنَ",
+        "transliteration": "āmana",
+        "translation": "believed / have believed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb",
+          "root": "أ-م-ن (a-m-n) - to believe",
+          "person": "Third person masculine singular",
+          "reason": "Describes how others (the people/believers) have believed.",
+          "practical": "'Āmana' = he believed / believed. With a collective subject (an-nās), it means 'they believed'. So 'kamā āmana-n-nās' = as the people believed."
+        }
+      },
+      {
+        "arabic": "النَّاسُ",
+        "transliteration": "an-nāsu",
+        "translation": "the people",
+        "grammar": {
+          "type": "Ism - Noun",
+          "case": "Nominative (marfū') - subject",
+          "reason": "Subject of 'āmana' - THE PEOPLE are the ones who believed (sincerely).",
+          "practical": "'An-nās' (the people) as subject with dammah (-u). Refers to the true believers - the Companions and sincere Muslims. The command is: believe like THEY believed - with full hearts!"
+        }
+      },
+      {
+        "arabic": "قَالُوا",
+        "transliteration": "qālū",
+        "translation": "they said",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb",
+          "practical": "'Qālū' = they said. Their arrogant, mocking response."
+        }
+      },
+      {
+        "arabic": "أَنُؤْمِنُ",
+        "transliteration": "anu'minu",
+        "translation": "Should we believe? / Shall we believe?",
+        "grammar": {
+          "type": "Harf + Fi'l - Question Particle + Present Verb",
+          "root": "أ-م-ن (a-m-n) - to believe",
+          "components": "a (question particle hamza) + nu'minu (we believe)",
+          "form": "Form IV present, first person plural",
+          "mood": "Indicative",
+          "reason": "Rhetorical question showing contempt: 'Should WE believe?!' (implying: no way!)",
+          "practical": "Hamza 'a' makes it a question + 'nu'minu' (we believe). Together: 'anu'minu' = Should we believe? / Do we believe? This is a RHETORICAL question dripping with arrogance and mockery. They're saying: 'You want US to believe?!' The tone is contemptuous - they consider themselves too smart to truly believe."
+        }
+      },
+      {
+        "arabic": "كَمَا",
+        "transliteration": "kamā",
+        "translation": "as / like",
+        "grammar": {
+          "type": "Harf - Comparison Particle",
+          "practical": "'Kamā' = as/like. Sets up their mocking comparison."
+        }
+      },
+      {
+        "arabic": "آمَنَ",
+        "transliteration": "āmana",
+        "translation": "believed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb",
+          "root": "أ-م-ن (a-m-n)",
+          "practical": "'Āmana' = believed. Same verb, but now with a contemptuous subject..."
+        }
+      },
+      {
+        "arabic": "السُّفَهَاءُ",
+        "transliteration": "as-sufahā'u",
+        "translation": "the fools / the foolish ones",
+        "grammar": {
+          "type": "Ism - Noun/Adjective (plural)",
+          "root": "س-ف-ه (s-f-h) - to be foolish, to be ignorant",
+          "case": "Nominative (marfū') - subject",
+          "pattern": "Fu'alā' pattern (plural of safīh)",
+          "reason": "They insultingly call true believers 'the foolish'. This shows their arrogance and spiritual blindness.",
+          "practical": "From 'safaha' or 'safiha' (to be foolish/ignorant). 'Safīh' (singular) = foolish person. Plural: 'sufahā'' = fools, foolish ones. They mockingly call sincere believers 'sufahā'' (fools)! In their arrogance, they think belief is foolish and they're too intelligent for it. This is the ultimate irony - true wisdom is in belief, and real foolishness is in disbelief. The pattern fu'alā' is used for plural adjectives and broken plurals."
+        }
+      },
+      {
+        "arabic": "أَلَا",
+        "transliteration": "Alā",
+        "translation": "Unquestionably / Indeed",
+        "grammar": {
+          "type": "Harf - Emphasis/Attention Particle",
+          "practical": "'Alā' = Indeed! Beware! Allah's emphatic response to their mockery."
+        }
+      },
+      {
+        "arabic": "إِنَّهُمْ",
+        "transliteration": "innahum",
+        "translation": "indeed they",
+        "grammar": {
+          "type": "Harf + Ism - Emphatic Particle + Pronoun",
+          "practical": "'Innahum' = indeed they. Double emphasis (alā + inna)."
+        }
+      },
+      {
+        "arabic": "هُمُ",
+        "transliteration": "humu",
+        "translation": "they",
+        "grammar": {
+          "type": "Ism - Pronoun (emphatic)",
+          "practical": "Triple emphasis! Alā + inna + hum. THEY are the fools, not the believers!"
+        }
+      },
+      {
+        "arabic": "السُّفَهَاءُ",
+        "transliteration": "as-sufahā'u",
+        "translation": "the foolish ones",
+        "grammar": {
+          "type": "Ism - Noun/Adjective",
+          "case": "Nominative (marfū')",
+          "reason": "Allah turns their insult back on them: THEY are the truly foolish ones!",
+          "practical": "Same word 'sufahā'' (fools) - but Allah declares: THEY are the fools! The irony is complete: they call believers fools, but Allah says with triple emphasis: NO - THEY are the fools! True foolishness is rejecting Allah's guidance."
+        }
+      },
+      {
+        "arabic": "وَلَـٰكِن",
+        "transliteration": "wa lākin",
+        "translation": "but",
+        "grammar": {
+          "type": "Harf - Contrastive Conjunction",
+          "practical": "'Wa lākin' = but. Same pattern as verse 12 - they ARE fools, but..."
+        }
+      },
+      {
+        "arabic": "لَّا",
+        "transliteration": "lā",
+        "translation": "not",
+        "grammar": {
+          "type": "Harf - Negation Particle",
+          "practical": "'Lā' = not."
+        }
+      },
+      {
+        "arabic": "يَعْلَمُونَ",
+        "transliteration": "ya'lamūna",
+        "translation": "they know",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb",
+          "root": "ع-ل-م ('-l-m) - to know",
+          "person": "Third person masculine plural",
+          "reason": "They don't KNOW they're the foolish ones. Ignorance of one's own ignorance is the worst kind.",
+          "practical": "From ''alima' (to know). 'Ya'lamūna' = they know. With 'lā': 'lā ya'lamūna' = they don't know. This is even worse than 'lā yash'urūna' (don't perceive). In verse 12 they didn't perceive (feel/sense), here they don't KNOW (intellectually understand). They lack both perception AND knowledge of their true state. Complete ignorance! The root '-l-m gives us ''ilm' (knowledge) - one of the most important concepts in Islam."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1966 @@
+{
+  "surah": 2,
+  "name": "Al-Baqarah (The Cow)",
+  "verses": [
+    {
+      "verse": 151,
+      "arabic": "كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا تَعْلَمُونَ",
+      "transliteration": "Kamā arsalnā fīkum rasūlan minkum yatlū 'alaykum āyātinā wa yuzakkīkum wa yu'allimukumu al-kitāba wal-ḥikmata wa yu'allimukum mā lam takūnū ta'lamūn",
+      "translation": "Just as We have sent among you a Messenger from yourselves reciting to you Our verses and purifying you and teaching you the Book and wisdom and teaching you that which you did not know",
+      "words": [
+        {
+          "arabic": "كَمَآ",
+          "transliteration": "kamā",
+          "translation": "just as / like",
+          "grammar": {
+            "type": "Harf - Particle of Comparison (Harf Tashbīh)",
+            "root": "N/A - Particle",
+            "components": "ka (like) + mā (what/that which)",
+            "reason": "Used to draw a comparison or parallel. Here it connects Allah's favor of sending the Prophet ﷺ to the previous favors mentioned (being saved from Pharaoh, etc.).",
+            "practical": "This combines 'ka' (like) and 'mā' (what) to mean 'just as' or 'in the same way that'. It's drawing a powerful connection: just as Allah blessed you before, He's blessing you now with a Messenger. When you see 'kamā', expect a comparison or parallel being drawn. It's saying: remember all those blessings? Well, THIS blessing is similar in magnitude!"
+          }
+        },
+        {
+          "arabic": "أَرْسَلْنَا",
+          "transliteration": "arsalnā",
+          "translation": "We sent",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "ر-س-ل (r-s-l) - to send, to dispatch",
+            "form": "Form IV (if'āl)",
+            "person": "First person plural (We)",
+            "tense": "Past tense (completed action)",
+            "reason": "The 'nā' at the end indicates 'We' (Allah using the royal/majestic plural). Past tense shows this sending has already occurred - the Prophet ﷺ has been sent.",
+            "practical": "From the root r-s-l which gives us 'rasūl' (messenger). Form IV 'arsala' means to send/dispatch. The 'nā' attached at the end means 'We did it'. So 'arsalnā' = 'We sent'. Notice how the subject is built into the verb - that's the beauty of Arabic efficiency! When Allah says 'We', it's the majestic plural showing His greatness, not multiple gods (never!)."
+          }
+        },
+        {
+          "arabic": "فِيكُمْ",
+          "transliteration": "fīkum",
+          "translation": "among you",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "fī (in/among) + kum (you plural)",
+            "reason": "Shows WHERE the Messenger was sent - not to foreigners, but among the Arabs themselves. The 'kum' is the plural 'you'.",
+            "practical": "'Fī' means 'in' or 'among', and 'kum' means 'you all'. Together: 'among you'. This is significant - Allah didn't send a foreigner they couldn't understand; He sent one of THEM. The Prophet ﷺ was an Arab among Arabs, speaking their language, understanding their culture. This made the message more accessible and the miracle of the Quran even more astounding - he was one of them, yet brought something they could never match!"
+          }
+        },
+        {
+          "arabic": "رَسُولًا",
+          "transliteration": "rasūlan",
+          "translation": "a Messenger",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object/Maf'ūl bihi)",
+            "root": "ر-س-ل (r-s-l) - to send",
+            "case": "Accusative (manṣūb) - indicated by tanwīn fatha (an)",
+            "gender": "Masculine",
+            "reason": "This is the direct object of the verb 'arsalnā' (We sent). What did We send? A Messenger. Objects take accusative case (fatha/an ending).",
+            "practical": "From the same root r-s-l (send). A 'rasūl' is one who is sent - a messenger. The 'an' ending (tanwīn) makes it indefinite: 'a messenger', but also adds emphasis and magnificence. Though grammatically indefinite, we know exactly who this is - Prophet Muhammad ﷺ! Remember: object of the verb = accusative case = 'an' sound at the end. The 'ū' in the middle is part of the word pattern for 'one who does' something (here: one who is sent)."
+          }
+        },
+        {
+          "arabic": "مِّنكُمْ",
+          "transliteration": "minkum",
+          "translation": "from you / from among yourselves",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "min (from) + kum (you plural)",
+            "reason": "Emphasizes the messenger is FROM among them - not a foreign stranger. This parallels verse 2:129 where Ibrahim عليه السلام made this exact du'a.",
+            "practical": "'Min' means 'from' and 'kum' means 'you all'. So 'minkum' = 'from you/from among you'. This emphasizes he's ONE OF THEM - your own brother, your own tribesman. Notice how it says both 'fīkum' (among you) and 'minkum' (from you)? That's double emphasis! He lives WITH you, and he's FROM you. The Prophet ﷺ wasn't a mysterious stranger - he was Muhammad ibn Abdullah, someone they knew and trusted ('Al-Amin' - the Trustworthy)."
+          }
+        },
+        {
+          "arabic": "يَتْلُوا",
+          "transliteration": "yatlū",
+          "translation": "he recites / he conveys",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+            "root": "ت-ل-و (t-l-w) - to recite, to follow, to convey",
+            "form": "Form I",
+            "person": "Third person masculine singular (he)",
+            "tense": "Present/ongoing action",
+            "reason": "Describes the first function of the Messenger - reciting Allah's revelations. The present tense shows this is his continuous mission.",
+            "practical": "From 'talā' meaning to recite/follow. 'Yatlū' = 'he recites' (continuously). This is special recitation - not just reading, but careful, measured conveyance of Allah's words exactly as revealed. The 'ya-' at the beginning indicates 'he does' (third person), and it's happening now/continuously. This was the Prophet's ﷺ first job: receive revelation and recite it to people exactly as it came. Notice this comes FIRST before teaching and purifying - you must first hear the words of Allah!"
+          }
+        },
+        {
+          "arabic": "عَلَيْكُمْ",
+          "transliteration": "'alaykum",
+          "translation": "upon you / to you",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "'alā (upon/on) + kum (you plural)",
+            "reason": "Shows WHO receives the recitation. ''Alā' with verbs of conveying means 'to' someone. The 'kum' shows it's addressed to them directly.",
+            "practical": "''Alā' means 'upon/on' and 'kum' is 'you all'. Together: 'upon you' or 'to you'. When someone recites ''alaykum', they're directing the recitation AT you, making you the audience. It's like saying 'he recites TO you' - not to others, but specifically TO YOU. This shows how personal the message is. The Prophet ﷺ wasn't reciting to empty air - he was conveying Allah's message directly to his people."
+          }
+        },
+        {
+          "arabic": "ءَايَـٰتِنَا",
+          "transliteration": "āyātinā",
+          "translation": "Our verses / Our signs",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object)",
+            "root": "أ-ي-ي (a-y-y) - to come, sign, verse",
+            "case": "Accusative (manṣūb) - indicated by fatha",
+            "number": "Plural",
+            "components": "āyāt (verses) + nā (Our)",
+            "reason": "This is what's being recited. The 'nā' attached shows possession - these are Allah's verses, not the Prophet's ﷺ own words.",
+            "practical": "'Āyāt' (plural of 'āyah') means verses or signs. The 'nā' at the end means 'Our/Ours'. So 'āyātinā' = 'Our verses'. This is crucial: the Prophet ﷺ recites ALLAH'S words, not his own thoughts. Every verse of Quran is 'min 'indillāh' (from Allah). When you see this possessive 'nā', remember: these are divine words, revealed from above, not human composition. That's why they're miraculous! The word 'āyah' is beautiful - it means both 'verse' and 'sign/miracle', because each verse IS a miracle."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction (Harf 'Aṭf)",
+            "root": "N/A - Particle",
+            "function": "Connects multiple functions of the Messenger",
+            "reason": "Links the first duty (reciting) with the second duty (purifying). Shows these functions happen together.",
+            "practical": "The simple 'and'. Here it's adding the next role of the Prophet ﷺ. He doesn't JUST recite - he also purifies. The 'wa' builds a complete job description: reciter, purifier, teacher. Each 'wa' adds another dimension to his blessed mission."
+          }
+        },
+        {
+          "arabic": "يُزَكِّيكُمْ",
+          "transliteration": "yuzakkīkum",
+          "translation": "he purifies you",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri') + Pronoun",
+            "root": "ز-ك-و (z-k-w) - to purify, to make grow, to cleanse",
+            "form": "Form II (taf'īl) - intensive/causative",
+            "person": "Third person masculine singular (he)",
+            "tense": "Present/ongoing",
+            "components": "yuzakkī (he purifies) + kum (you)",
+            "reason": "The second function - spiritual purification. Form II shows intensity and repetition. The 'kum' shows he purifies THEM.",
+            "practical": "From z-k-w (purity/growth) - same root as 'zakāh'! Form II 'zakkā' means to purify someone/something thoroughly and repeatedly. 'Yu' = he does, 'zakkī' = purifies intensely, 'kum' = you all. So 'yuzakkīkum' = he purifies you (deeply and continuously). This is his second job: after reciting Allah's words, he purifies their hearts and souls from shirk, bad character, and sins. Notice purification comes BEFORE teaching - you need a pure heart to truly learn! The doubling of the 'k' sound (zakkī) shows the intensity."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds third duty",
+            "practical": "Another 'and' - building the list of the Prophet's ﷺ roles."
+          }
+        },
+        {
+          "arabic": "يُعَلِّمُكُمُ",
+          "transliteration": "yu'allimukumu",
+          "translation": "he teaches you",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb + Pronoun",
+            "root": "ع-ل-م ('a-l-m) - to know, to learn",
+            "form": "Form II (taf'īl) - causative/intensive",
+            "person": "Third person masculine singular",
+            "tense": "Present/ongoing",
+            "components": "yu'allimu (he teaches) + kumu (you)",
+            "reason": "Third function - teaching. Form II of 'alima (to know) becomes 'allama (to teach/cause to know). The 'kumu' shows he teaches THEM.",
+            "practical": "From 'ilm (knowledge). Form II 'allama' means to teach/to cause someone to know. 'Yu' = he does, ''allimu' = teaches, 'kumu' = you all. Together: 'he teaches you'. Notice the pattern yu'allimukumu - the doubling of 'l' (allim) shows Form II intensity. The progression is beautiful: (1) recite Allah's words, (2) purify their hearts, (3) NOW teach them deeply. You can't truly learn with an impure heart! Teaching here isn't just transferring info - it's making them UNDERSTAND and EMBODY the knowledge."
+          }
+        },
+        {
+          "arabic": "ٱلْكِتَـٰبَ",
+          "transliteration": "al-kitāba",
+          "translation": "the Book",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object)",
+            "root": "ك-ت-ب (k-t-b) - to write",
+            "case": "Accusative (manṣūb) - indicated by fatha",
+            "gender": "Masculine",
+            "reason": "The first thing he teaches - the Book (the Quran). Object of 'yu'allimukumu', so takes accusative case.",
+            "practical": "From k-t-b (write) - 'al-kitāb' means THE Book, the Quran. The 'a' ending (al-kitāba) shows it's the object being taught. Notice the sequence: he teaches you (1) the Book first, then (2) wisdom. The Book is the foundation - Allah's revealed words. Everything else builds on this. 'Al' makes it definite - not just any book, but THE Book, the Ultimate Scripture, the Final Revelation. When the Prophet ﷺ taught the Companions, he taught them Quran first and foremost."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Connects what's being taught",
+            "practical": "Links the Book with wisdom - both are taught together."
+          }
+        },
+        {
+          "arabic": "ٱلْحِكْمَةَ",
+          "transliteration": "al-ḥikmata",
+          "translation": "the wisdom",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object)",
+            "root": "ح-ك-م (ḥ-k-m) - to judge, to be wise",
+            "case": "Accusative (manṣūb) - indicated by fatha",
+            "gender": "Feminine",
+            "reason": "The second thing taught. Also object of the verb, hence accusative. 'Ḥikmah' is the application and understanding of the Book.",
+            "practical": "From ḥ-k-m (wisdom/judgment). 'Al-ḥikmah' means THE wisdom. Scholars say this refers to the Sunnah (the Prophet's ﷺ teachings and practice) - how to APPLY the Book. The 'ta' ending (ة) makes it feminine. The 'a' sound (ḥikmata) shows accusative case (being taught). So the Prophet ﷺ taught both: (1) what Allah revealed (Kitāb), and (2) how to understand and apply it (ḥikmah). This is why we follow both Quran and Sunnah - both were taught by the same teacher ﷺ! Wisdom means putting knowledge in the right place."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds additional teaching",
+            "practical": "Yet another 'and' - there's even MORE he teaches!"
+          }
+        },
+        {
+          "arabic": "يُعَلِّمُكُم",
+          "transliteration": "yu'allimukum",
+          "translation": "he teaches you",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb + Pronoun",
+            "root": "ع-ل-م ('a-l-m) - to know",
+            "form": "Form II - causative",
+            "person": "Third person masculine singular",
+            "components": "yu'allimu (he teaches) + kum (you)",
+            "reason": "The verb is repeated to emphasize he teaches them even MORE beyond the Book and wisdom.",
+            "practical": "Same word as before: 'he teaches you'. But why repeat it? Because this time it's about teaching them things they had NO CLUE about! The first 'yu'allimukumu' was about the Book and wisdom. This second one introduces something even more comprehensive - EVERYTHING they didn't know. The repetition emphasizes just how much the Prophet ﷺ taught his Ummah. He was their teacher in literally everything!"
+          }
+        },
+        {
+          "arabic": "مَّا",
+          "transliteration": "mā",
+          "translation": "what / that which",
+          "grammar": {
+            "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+            "root": "N/A - Pronoun",
+            "function": "Introduces what was unknown",
+            "reason": "Points to unspecified things they didn't know - leaving it open shows the vastness of what he taught.",
+            "practical": "'Mā' means 'what' or 'that which'. It's beautifully vague here - not specifying exactly WHAT they didn't know, because the list is SO LONG! It includes: details of belief, laws, manners, history of prophets, stories of nations, Day of Judgment, Paradise, Hell, angels, and SO much more. 'Mā' opens the door to endless knowledge. Whatever you didn't know before Islam - HE taught it to you!"
+          }
+        },
+        {
+          "arabic": "لَمْ",
+          "transliteration": "lam",
+          "translation": "not",
+          "grammar": {
+            "type": "Harf - Negation Particle (Harf Nafy and Jazm)",
+            "root": "N/A - Particle",
+            "function": "Negates the past (makes present verb into past negative)",
+            "reason": "'Lam' is a special particle that negates past actions. It changes the verb after it and makes it jussive (majzūm).",
+            "practical": "'Lam' is the 'not' for past tense. When you say 'lam' + present verb, it means 'did not' do something in the past. So 'lam takūnū' = 'you did not use to be'. This is different from 'mā' which is general negation. 'Lam' specifically negates past actions and causes the verb after it to change form (lose the final nūn). Remember: lam + present verb = past negative!"
+          }
+        },
+        {
+          "arabic": "تَكُونُوا",
+          "transliteration": "takūnū",
+          "translation": "you were / you used to be",
+          "grammar": {
+            "type": "Fi'l - Present Verb in Past Meaning (Muḍāri' Majzūm)",
+            "root": "ك-و-ن (k-w-n) - to be, to exist",
+            "form": "Form I",
+            "person": "Second person masculine plural (you all)",
+            "mood": "Jussive (majzūm) - because of 'lam'",
+            "reason": "The verb 'kāna' (to be) in present form becomes past because of 'lam'. The final 'na' is dropped due to jazm, leaving 'takūnū'.",
+            "practical": "From k-w-n (to be). 'Kāna' is the past 'was/were', but when made present 'yakūnu/takūnu' and put after 'lam', it means 'did not use to be'. 'Ta-' at the beginning = you all (second person). 'Kūnū' = are/were (plural). Notice it's 'takūnū' not 'takūnūna' - the final 'na' drops because 'lam' causes jazm (jussive mood). So 'lam takūnū' = 'you were not / you did not use to be'. This describes their state before Islam - they WEREN'T in a state of knowing!"
+          }
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "transliteration": "ta'lamūn",
+          "translation": "you know",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+            "root": "ع-ل-م ('a-l-m) - to know",
+            "form": "Form I",
+            "person": "Second person masculine plural (you)",
+            "tense": "Present",
+            "reason": "Describes their state of knowing. With 'lam takūnū' before it, the full meaning is 'you did not use to know'.",
+            "practical": "From 'ilm (knowledge). 'Ta'lamūna' = you all know (continuously). But after 'lam takūnū', it becomes 'you were not knowing / you did not know'. The 'ta-' prefix = you (second person). The '-ūn' ending = plural masculine. So the complete phrase 'mā lam takūnū ta'lamūn' = 'what you did not use to know'. The beauty here is: before the Prophet ﷺ came, they were in darkness, ignorant of true guidance. He taught them EVERYTHING they didn't know. That's the magnitude of his blessing! Remember: ta...ūna pattern = you all (do something)."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 152,
+      "arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "transliteration": "Fadhkurūnī adhkurkum washkurū lī wa lā takfurūn",
+      "translation": "So remember Me; I will remember you. And be grateful to Me and do not deny Me",
+      "words": [
+        {
+          "arabic": "فَ",
+          "transliteration": "fa",
+          "translation": "so / therefore",
+          "grammar": {
+            "type": "Harf - Conjunction and Causation (Harf 'Aṭf and Ta'qīb)",
+            "root": "N/A - Particle",
+            "function": "Shows consequence and sequence",
+            "reason": "Connects the previous blessings to what should follow - since Allah gave you all these favors, THEREFORE remember Him!",
+            "practical": "'Fa' means 'so' or 'therefore'. It shows cause and effect: BECAUSE of all those blessings mentioned in the previous verse, SO/THEREFORE do this! It's Allah saying: I sent you a Messenger, purified you, taught you - NOW here's your response! 'Fa' introduces the logical consequence. When you see 'fa' at the beginning of a verse or sentence, think: this is the RESULT or RESPONSE to what came before."
+          }
+        },
+        {
+          "arabic": "ٱذْكُرُونِى",
+          "transliteration": "adhkurūnī",
+          "translation": "remember Me",
+          "grammar": {
+            "type": "Fi'l - Command Verb (Fi'l Amr) + Pronoun",
+            "root": "ذ-ك-ر (dh-k-r) - to remember, to mention",
+            "form": "Form I - Imperative/Command",
+            "person": "Second person masculine plural (you all)",
+            "components": "udhkurū (remember!) + nī (Me)",
+            "reason": "Direct command from Allah. The imperative form orders them to remember. The 'nī' shows the object - remember ME (Allah).",
+            "practical": "From dhikr (remembrance). 'Udhkurū' is the command form: 'Remember!' (to a group). The 'nī' at the end means 'Me'. So 'udhkurūnī' = 'Remember Me!' This is Allah commanding us to remember Him through dhikr, prayer, recitation, thinking about His blessings, etc. Commands in Arabic are direct and powerful - when Allah orders something, there's no negotiation! Notice how 'remember ME' - it's personal. Not 'remember religion' or 'remember rules' - remember ALLAH Himself! The intimate 'nī' (Me) shows the personal relationship."
+          }
+        },
+        {
+          "arabic": "أَذْكُرْكُمْ",
+          "transliteration": "adhkurkum",
+          "translation": "I will remember you",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb in Future Meaning (Fi'l Muḍāri') + Pronoun",
+            "root": "ذ-ك-ر (dh-k-r) - to remember",
+            "form": "Form I",
+            "person": "First person singular (I)",
+            "components": "adhkuru (I remember/will remember) + kum (you all)",
+            "reason": "Allah's promise in response to their action. If you remember Me, I will remember you. The 'a-' prefix indicates first person (I).",
+            "practical": "Same root: dhikr. 'Adhkuru' = I remember/I will remember. 'Kum' = you all. Together: 'I will remember you'. What an incredible promise! If you - a weak, small human - remember Allah, then Allah - the Lord of the Universe - will remember YOU! SubhanAllah! The 'a-' at the beginning means 'I do'. When you remember Allah in your heart and tongue, Allah mentions you to the angels! This is the ultimate trade: your limited dhikr for His infinite remembrance. Notice the conciseness: remember Me = I remember you. Perfect balance, perfect exchange!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds second command",
+            "practical": "Links remembrance with gratitude - both are required responses to Allah's blessings."
+          }
+        },
+        {
+          "arabic": "ٱشْكُرُوا",
+          "transliteration": "ushkurū",
+          "translation": "be grateful / give thanks",
+          "grammar": {
+            "type": "Fi'l - Command Verb (Fi'l Amr)",
+            "root": "ش-ك-ر (sh-k-r) - to thank, to be grateful",
+            "form": "Form I - Imperative",
+            "person": "Second person masculine plural",
+            "reason": "Second command - be grateful for the blessings. Command form shows this is obligatory, not optional.",
+            "practical": "From shukr (gratitude). 'Ushkurū' is the command: 'Be grateful!' or 'Give thanks!' This is the second obligation after dhikr. After remembering Allah, THANK Him for all His blessings. Shukr isn't just saying 'thank you' with your tongue - it's gratitude with your heart, tongue, AND limbs (using blessings in obedience). The imperative form makes this a MUST, not a suggestion. Notice how simple: ushkurū - just 'Be grateful!' No excuses accepted!"
+          }
+        },
+        {
+          "arabic": "لِى",
+          "transliteration": "lī",
+          "translation": "to Me",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "li (to/for) + ī (Me, first person singular pronoun)",
+            "reason": "Specifies WHO to be grateful to. Direct your gratitude to Allah alone, not to people or things.",
+            "practical": "'Li' means 'to' or 'for', and 'ī' means 'me'. Together: 'to Me' or 'for Me'. This is crucial - be grateful TO ALLAH specifically! Not just grateful in general, but directing your shukr to its proper target: the One who gave you everything. The 'ī' is the shortened form of 'ī' (me/my), used after prepositions. So 'ushkurū lī' = 'Be grateful to ME!' Allah is emphasizing: your thanks should go to the Source, the Giver, the One who blessed you with the Messenger and everything else!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds the prohibition",
+            "practical": "After positive commands (remember, thank), now comes the prohibition (don't disbelieve)."
+          }
+        },
+        {
+          "arabic": "لَا",
+          "transliteration": "lā",
+          "translation": "not / do not",
+          "grammar": {
+            "type": "Harf - Prohibition Particle (Harf Nahy)",
+            "root": "N/A - Particle",
+            "function": "Negates commands - prohibits action",
+            "reason": "When 'lā' comes before a present tense verb in command context, it means 'don't do this!' It's a prohibition.",
+            "practical": "'Lā' with a present tense verb creates prohibition: 'Don't!' This is the negative command. While 'ushkurū' said 'DO be grateful', now 'lā takfurūn' says 'DON'T be ungrateful'. Prohibition is as important as command - avoiding sin is as crucial as doing good. When you see 'lā' + present verb in command style, that's Allah saying: STOP! Don't do this!"
+          }
+        },
+        {
+          "arabic": "تَكْفُرُونِ",
+          "transliteration": "takfurūn",
+          "translation": "you deny Me / you disbelieve in Me",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri' Majzūm) + Pronoun",
+            "root": "ك-ف-ر (k-f-r) - to disbelieve, to deny, to be ungrateful",
+            "form": "Form I",
+            "person": "Second person masculine plural",
+            "mood": "Jussive (majzūm) - because of prohibitive 'lā'",
+            "components": "takfurū (you disbelieve) + ni (Me, but nī becomes n before pause)",
+            "reason": "The action being prohibited. 'Kufr' means both disbelief and ingratitude - opposite of shukr. The final 'na' drops due to jazm.",
+            "practical": "From kufr (disbelief/ingratitude). 'Takfurūna' normally = you all disbelieve, but after prohibitive 'lā', it becomes 'takfurūn' (the 'na' drops) = don't disbelieve! The 'n' at the very end is actually 'nī' (Me) shortened. So 'lā takfurūn(ī)' = 'don't disbelieve in Me / don't be ungrateful to Me'. Beautiful contrast: ushkurū lī (be grateful to Me) vs. lā takfurūn(ī) (don't be ungrateful to Me). Kufr and shukr are opposites. The verse creates perfect balance: positive commands (remember, thank) + negative prohibition (don't deny). That's comprehensive guidance!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 153,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Yā ayyuhā alladhīna āmanū asta'īnū biṣ-ṣabri waṣ-ṣalāh, inna Allāha ma'a aṣ-ṣābirīn",
+      "translation": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient",
+      "words": [
+        {
+          "arabic": "يَـٰٓأَيُّهَا",
+          "transliteration": "yā ayyuhā",
+          "translation": "O you",
+          "grammar": {
+            "type": "Harf + Ism - Vocative Particle (Harf Nidā') + Pronoun",
+            "root": "N/A - Call/address particles",
+            "components": "yā (O!) + ayyuhā (general address for masculine)",
+            "reason": "Used to call attention - like saying 'Hey you!' but respectfully. 'Yā' calls, 'ayyuhā' generalizes the address.",
+            "practical": "'Yā' is like saying 'O!' or 'Hey!' in English - it's the call particle. 'Ayyuhā' is the formal way to say 'you' when addressing a group. Together 'yā ayyuhā' = 'O you!' This is how Allah addresses believers throughout the Quran - with respect and attention. When you see this, PAY ATTENTION! Allah is about to tell you something important. It's like when a teacher says 'Listen up!' before important instruction. The 'hā' at the end adds emphasis and makes it more attention-grabbing."
+          }
+        },
+        {
+          "arabic": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation": "those who",
+          "grammar": {
+            "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+            "root": "N/A - Relative pronoun",
+            "gender": "Masculine plural",
+            "reason": "Specifies WHO is being addressed - those who have the quality mentioned next (believers).",
+            "practical": "The familiar 'alladhīna' = 'those who'. It starts a description. Which 'you' is Allah addressing? Not everyone - specifically 'those who' have the quality coming next. This shows the Quran speaks to different audiences. Some verses address all humanity, some address disbelievers, and these verses address BELIEVERS specifically. When you read 'yā ayyuhā alladhīna', you should feel: 'This is for ME - I'm a believer, so Allah is talking to ME!' It's personal!"
+          }
+        },
+        {
+          "arabic": "ءَامَنُوا",
+          "transliteration": "āmanū",
+          "translation": "they believed / have believed",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "أ-م-ن (a-m-n) - to believe, to have faith",
+            "form": "Form IV (if'āl)",
+            "person": "Third person masculine plural",
+            "tense": "Past tense",
+            "reason": "Describes the defining characteristic - they have believed. Past tense indicates completed action (they already accepted faith).",
+            "practical": "From īmān (faith). 'Āmanū' = they believed (past tense). The 'ū' at the end shows plural: they (as a group) believed. So 'alladhīna āmanū' = 'those who have believed' = the BELIEVERS. This is one of the most common phrases in the Quran - it's how Allah addresses the Muslim Ummah! The past tense shows faith is already established in their hearts. Now Allah will guide them on how to live as believers. Notice: Allah doesn't just say 'believers' - He describes them actively as 'those who CHOSE to believe.' It emphasizes it was their choice and action!"
+          }
+        },
+        {
+          "arabic": "ٱسْتَعِينُوا",
+          "transliteration": "ista'īnū",
+          "translation": "seek help / seek assistance",
+          "grammar": {
+            "type": "Fi'l - Command Verb (Fi'l Amr)",
+            "root": "ع-و-ن ('a-w-n) - to help, to assist",
+            "form": "Form X (istif'āl) - seeking/requesting",
+            "person": "Second person masculine plural",
+            "reason": "Command to believers. Form X means to seek or ask for something. Here: seek help/assistance.",
+            "practical": "From 'awn (help). Form X 'ista'āna' means to SEEK help, to ASK for assistance. The 'ista-' prefix always indicates seeking/requesting something. 'Ista'īnū' is the command: 'Seek help!' The beauty here is: you're not commanding yourself to be strong alone - you're commanded to SEEK HELP! Islam acknowledges we need support. But notice it doesn't say 'seek help from people' - it says seek help BY USING these two tools (sabr and salah). When life gets tough, these are your weapons! Remember: ista- prefix = seeking to get something."
+          }
+        },
+        {
+          "arabic": "بِٱلصَّبْرِ",
+          "transliteration": "biṣ-ṣabr",
+          "translation": "through patience / with patience",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Noun",
+            "root": "ص-ب-ر (ṣ-b-r) - to be patient, to persevere",
+            "components": "bi (with/through) + al (the) + ṣabr (patience)",
+            "case": "Genitive (majrūr) - ends in 'i' because of 'bi'",
+            "reason": "Shows the MEANS of seeking help - BY USING patience. The 'bi' here indicates instrumentality (by means of).",
+            "practical": "Aṣ-ṣabr means patience, perseverance, steadfastness. The 'bi' shows the TOOL or METHOD - seek help BY MEANS OF patience. The 'i' ending (biṣ-ṣabri) shows genitive case due to preposition. Sabr isn't just 'waiting around' - it's active perseverance, holding firm on truth despite difficulty, restraining yourself from complaining and sin. This is the FIRST tool Allah mentions for dealing with hardship. Before you even raise your hands in prayer, have SABR in your heart. Notice 'bi + al' becomes 'bi-ṣ-ṣabr' (the 'al' merges). The double 'ṣ' is due to sun letter assimilation."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Connects two means of seeking help",
+            "practical": "Links patience with prayer - you need BOTH tools, not just one!"
+          }
+        },
+        {
+          "arabic": "ٱلصَّلَوٰةِ",
+          "transliteration": "aṣ-ṣalāh",
+          "translation": "the prayer",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ص-ل-و (ṣ-l-w) - to pray",
+            "case": "Genitive (majrūr) - implied 'bi' before it",
+            "gender": "Feminine",
+            "reason": "Second means of seeking help. Also governed by 'bi' (and by means of prayer). The genitive 'i' sound is hidden due to special ending.",
+            "practical": "Aṣ-ṣalāh = the prayer, specifically the ritual Islamic prayer (five daily prayers). This is the SECOND tool. After having sabr internally, you externally turn to prayer. Prayer is direct connection with Allah - you're literally asking the Creator for help! The 'bi' from before applies here too: seek help by means of PRAYER. SubhanAllah - what beautiful advice! When you face hardship: (1) be patient, (2) pray. Don't despair, don't give up, don't complain. Instead: sabr + salah = Allah's help! These two weapons can conquer any difficulty. Notice these are THE patience and THE prayer - definite, specific, known methods."
+          }
+        },
+        {
+          "arabic": "إِنَّ",
+          "transliteration": "inna",
+          "translation": "indeed / verily",
+          "grammar": {
+            "type": "Harf - Emphasis Particle (Harf Tawkīd and Nasb)",
+            "root": "N/A - Particle",
+            "function": "Emphasizes what follows and causes grammatical changes",
+            "reason": "'Inna' is one of the sisters (inna wa akhawātuhā) that emphasizes and changes case. It makes the subject accusative.",
+            "practical": "'Inna' means 'indeed' or 'verily' - it EMPHASIZES what's coming next. When Allah uses 'inna', He's saying: PAY ATTENTION, this is CERTAIN truth! 'Inna' also has grammatical effect - it makes the next word (the subject) take accusative case. Think of 'inna' as a highlighter - it highlights the importance of the statement. Here Allah is about to tell you something super important: WHERE He is! This isn't just information; it's emphasized, guaranteed, absolutely certain truth. Remember: inna = indeed/verily + emphasis + grammatical effect on sentence."
+          }
+        },
+        {
+          "arabic": "ٱللَّهَ",
+          "transliteration": "Allāha",
+          "translation": "Allah",
+          "grammar": {
+            "type": "Ism - Proper Noun (Ism al-Jalālah)",
+            "root": "N/A - The Divine Name",
+            "case": "Accusative (manṣūb) - ends in 'a' because of 'inna'",
+            "reason": "The subject after 'inna', so takes accusative instead of nominative. This is the special name of Allah - Ism al-Jalālah.",
+            "practical": "'Allāh' is the supreme name of God - the One and Only Creator. Notice it ends in 'a' (Allāha) instead of 'u' - that's because 'inna' made it accusative. Normally subjects get dammah (u), but after 'inna', they get fathah (a). This is the beautiful name that means The God - the only One worthy of worship. Here Allah speaks about Himself in third person, which adds majesty and objectivity to the statement. It's like saying: 'Indeed, THE ALMIGHTY is...' - emphasizing His greatness. The heart of every Muslim should jump when seeing this Name!"
+          }
+        },
+        {
+          "arabic": "مَعَ",
+          "transliteration": "ma'a",
+          "translation": "with",
+          "grammar": {
+            "type": "Ẓarf - Adverb of Place/Accompaniment",
+            "root": "N/A - Adverb",
+            "function": "Indicates being together with, accompanying",
+            "reason": "Shows Allah's presence and support WITH a specific group. This is the predicate (khabar) of 'inna'.",
+            "practical": "'Ma'a' means 'with' - indicating presence, companionship, support. This is the predicate telling us WHERE/HOW Allah is. When you have sabr and salah, Allah is WITH you! Not just watching from above - WITH you in support, aid, guidance, and victory. This is one of the most comforting words in the Quran. Imagine: the Lord of the Universe is WITH you personally! 'Ma'a' indicates special closeness and support. He's not just aware of you - He's SUPPORTING you, helping you, guaranteeing your success. What can you fear if Allah is ma'ak (with you)?"
+          }
+        },
+        {
+          "arabic": "ٱلصَّـٰبِرِينَ",
+          "transliteration": "aṣ-ṣābirīn",
+          "translation": "the patient ones",
+          "grammar": {
+            "type": "Ism - Noun/Adjective (Active Participle)",
+            "root": "ص-ب-ر (ṣ-b-r) - to be patient",
+            "form": "Active participle (Ism Fā'il) - pattern: fā'il (one who does)",
+            "case": "Genitive (majrūr) - ends in 'īn' after 'ma'a'",
+            "number": "Plural masculine",
+            "reason": "Describes WHO Allah is with - those characterized by patience. The 'īn' ending shows plural genitive after 'ma'a'.",
+            "practical": "From ṣabr (patience). 'Aṣ-ṣābirīn' = the patient ones, those who practice sabr consistently. The pattern 'ṣābir' means 'one who is patient' - it's describing their character. The 'īn' ending makes it plural and genitive (due to 'ma'a'). So Allah promises: if you are among 'aṣ-ṣābirīn' (the patient ones), then Allah is WITH YOU! This isn't temporary - 'ṣābirīn' describes people whose CHARACTERISTIC is patience. They don't just have sabr once - they are PATIENT PEOPLE. That's why Allah's companionship is with them - their consistent sabr earns consistent divine support. Beautiful motivation: be among aṣ-ṣābirīn, and you'll have Allah's ma'iyyah (His being with you)!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 154,
+      "arabic": "وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَـٰكِن لَّا تَشْعُرُونَ",
+      "transliteration": "Wa lā taqūlū liman yuqtalu fī sabīlillāhi amwāt, bal aḥyā'un wa lākin lā tash'urūn",
+      "translation": "And do not say about those who are killed in the way of Allah, 'They are dead.' Rather, they are alive, but you perceive it not",
+      "words": [
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Connects this command to previous instructions",
+            "practical": "Links the new prohibition to the guidance about patience and prayer."
+          }
+        },
+        {
+          "arabic": "لَا",
+          "transliteration": "lā",
+          "translation": "not / do not",
+          "grammar": {
+            "type": "Harf - Prohibition Particle (Harf Nahy)",
+            "root": "N/A - Particle",
+            "function": "Prohibits the action that follows",
+            "reason": "Creates a negative command - forbids believers from saying something.",
+            "practical": "'Lā' before present tense verb = prohibition = 'Don't do this!' Allah is about to prohibit believers from saying something specific. This isn't just advice - it's a divine prohibition. Whatever comes next is something we must AVOID saying."
+          }
+        },
+        {
+          "arabic": "تَقُولُوا",
+          "transliteration": "taqūlū",
+          "translation": "you say",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri' Majzūm)",
+            "root": "ق-و-ل (q-w-l) - to say, to speak",
+            "form": "Form I",
+            "person": "Second person masculine plural",
+            "mood": "Jussive (majzūm) - final 'na' dropped due to 'lā'",
+            "reason": "The action being prohibited. With 'lā', it becomes: 'Don't say!' The jazm mood shows prohibition.",
+            "practical": "From qawl (speech/saying). 'Taqūlūna' = you all say, but after prohibitive 'lā', it becomes 'taqūlū' (final 'na' drops). So 'lā taqūlū' = 'don't say!' The 'ta-' prefix = you all (second person). What are we prohibited from saying? Keep reading! Allah is controlling our speech - teaching us what NOT to say. This shows words matter deeply in Islam. You can sin with your tongue, so Allah guides even your speech. The command is for all believers (taqūlū - plural) - this prohibition is universal."
+          }
+        },
+        {
+          "arabic": "لِمَن",
+          "transliteration": "liman",
+          "translation": "about those who / regarding those who",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Relative Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "li (about/for) + man (those who/whoever)",
+            "reason": "Specifies about WHOM we shouldn't speak incorrectly. 'Man' is the relative pronoun for people.",
+            "practical": "'Li' means 'for/about', and 'man' means 'who/whoever/those who'. Together: 'about those who' or 'regarding those who'. This introduces the specific group we're prohibited from mislabeling. 'Man' is beautifully general - it covers ALL people who fit the description coming next (being killed in Allah's path). Notice how 'li + man' stays separate (unlike bi + al becoming bil). The verse is building up: Don't say... about those who... (keep reading to find out what!)."
+          }
+        },
+        {
+          "arabic": "يُقْتَلُ",
+          "transliteration": "yuqtal",
+          "translation": "they are killed / is killed",
+          "grammar": {
+            "type": "Fi'l - Present Passive Verb (Fi'l Muḍāri' Majhūl)",
+            "root": "ق-ت-ل (q-t-l) - to kill",
+            "form": "Form I - Passive voice",
+            "person": "Third person masculine singular",
+            "tense": "Present/habitual",
+            "reason": "Passive voice shows they are killed (not that they kill). Present tense indicates this applies whenever it happens.",
+            "practical": "From qatl (killing). 'Qatala' = he killed, but 'yuqtalu' is passive = he IS KILLED / they ARE KILLED. The 'u' vowel pattern (yuqtal) indicates passive voice in present tense. This describes the group: those who ARE KILLED (not who kill). The present tense makes it general - whenever and wherever this happens. Passive voice emphasizes the state (being killed) rather than who does it. So 'man yuqtalu' = those who are killed / whoever is killed. The description is getting more specific!"
+          }
+        },
+        {
+          "arabic": "فِى",
+          "transliteration": "fī",
+          "translation": "in",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "root": "N/A - Particle",
+            "function": "Indicates location or sphere of action",
+            "reason": "Shows WHERE or IN WHAT CONTEXT they are killed - in the path/cause of Allah.",
+            "practical": "'Fī' means 'in' - showing the context or circumstance. Not just anyone who is killed, but those killed IN a specific path. This preposition is crucial - it qualifies and specifies the type of killing being discussed. Without 'fī sabīlillāh', this would apply to all deaths. But 'fī' limits it to deaths IN THE PATH OF ALLAH - martyrdom for His cause!"
+          }
+        },
+        {
+          "arabic": "سَبِيلِ",
+          "transliteration": "sabīli",
+          "translation": "the way / the path",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "س-ب-ل (s-b-l) - way, path, road",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'fī'",
+            "gender": "Masculine",
+            "reason": "The 'i' ending shows genitive case because of preposition 'fī'. Part of the construct (iḍāfah): sabīl + Allah = path of Allah.",
+            "practical": "'Sabīl' means way, path, or road. Here it's in iḍāfah (construct state) with Allah's name coming next, making it 'sabīlillāh' = the path of Allah, the way of Allah. The 'i' ending indicates it's in genitive case (after 'fī'). 'Fī sabīlillāh' is a famous phrase meaning 'in the cause/path of Allah' - doing something purely for Allah's sake, especially fighting to defend Islam or struggling for the truth. This phrase transforms ordinary actions into worship when done with right intention!"
+          }
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "transliteration": "Allāh",
+          "translation": "of Allah",
+          "grammar": {
+            "type": "Ism - Proper Noun (Ism al-Jalālah)",
+            "root": "N/A - Divine Name",
+            "case": "Genitive (majrūr) - ends in 'i' due to iḍāfah",
+            "reason": "Second part of iḍāfah (possessive construct). Sabīl (path) OF Allah. Genitive shows possession/attribution.",
+            "practical": "The supreme name 'Allāh' here in genitive case (Allāhi) because it's the second part of iḍāfah. 'Sabīlillāh' = the path OF Allah. Notice how 'sabīli + Allāh' becomes 'sabīlillāh' when written together - the 'al' of Allah merges. Now the description is complete: those killed IN THE PATH OF ALLAH. These are martyrs (shuhadā'), people who die fighting for truth, defending Islam, or struggling in Allah's cause. Not ordinary deaths - special deaths for a noble cause. And about THESE special people, Allah prohibits us from saying something..."
+          }
+        },
+        {
+          "arabic": "أَمْوَٰتٌۢ",
+          "transliteration": "amwāt",
+          "translation": "dead / dead ones",
+          "grammar": {
+            "type": "Ism - Noun (Predicate/Khabar)",
+            "root": "م-و-ت (m-w-t) - to die",
+            "form": "Plural of 'mayyit' (dead person) - pattern: af'āl",
+            "case": "Nominative (marfū') - indicated by tanwīn dammah",
+            "number": "Plural",
+            "reason": "This is what we're prohibited from saying - the predicate describing martyrs. Nominative because it's the khabar (predicate).",
+            "practical": "From mawt (death). 'Amwāt' is the plural of 'mayyit' meaning dead people/dead ones. The tanwīn (un sound) makes it indefinite: 'dead ones' or simply 'dead'. THIS is what we're forbidden to say! Don't call martyrs 'amwāt' (dead)! The full prohibition: 'lā taqūlū liman yuqtalu fī sabīlillāhi amwāt' = Don't say about those killed in Allah's path: 'they are dead'. Why not? Because it's INCORRECT! They're not dead in the true sense. Their bodies stopped, but THEY are alive in a special way with Allah. This corrects our limited perception!"
+          }
+        },
+        {
+          "arabic": "بَلْ",
+          "transliteration": "bal",
+          "translation": "rather / but rather / on the contrary",
+          "grammar": {
+            "type": "Harf - Particle of Correction (Harf Iḍrāb)",
+            "root": "N/A - Particle",
+            "function": "Negates what came before and asserts the opposite",
+            "reason": "'Bal' is used to correct a misconception or wrong statement. It means 'No! Actually...' or 'On the contrary...'",
+            "practical": "'Bal' is the contradiction/correction particle. It says: 'No, not that! Rather THIS!' After prohibiting calling them 'amwāt', Allah uses 'bal' to give the TRUTH. It's like saying: 'Don't call them dead! On the contrary...' 'Bal' completely negates the previous claim and replaces it with the correct reality. When you see 'bal' in Quran, pay attention - a misconception is being corrected with absolute truth! It's a powerful word that shifts the whole perspective."
+          }
+        },
+        {
+          "arabic": "أَحْيَآءٌۭ",
+          "transliteration": "aḥyā'",
+          "translation": "alive / living ones",
+          "grammar": {
+            "type": "Ism - Noun (Predicate/Khabar)",
+            "root": "ح-ي-ي (ḥ-y-y) - to live, to be alive",
+            "form": "Plural of 'ḥayy' (alive person) - pattern: af'āl",
+            "case": "Nominative (marfū') - indicated by tanwīn dammah",
+            "number": "Plural",
+            "reason": "The correct description - the true reality about martyrs. Opposite of 'amwāt'. Nominative as predicate.",
+            "practical": "From ḥayāh (life). 'Aḥyā'' is plural of 'ḥayy' meaning alive/living ones. The tanwīn (un sound) = 'living ones' or simply 'alive'. THIS is the truth! After 'bal' (rather/on the contrary), comes the correction: 'aḥyā'' (ALIVE)! Not dead - ALIVE! The contrast is stark: amwāt (dead) vs. aḥyā' (alive). Martyrs are ALIVE with Allah in a special life we can't fully comprehend. Their souls live, enjoy blessings, and are in the presence of Allah. This is stated explicitly in Quran multiple times. SubhanAllah - what a noble status! They seem dead to us, but in reality, they're more alive than we are!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and / but",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds additional information",
+            "practical": "Connects the statement about their life to our limited perception."
+          }
+        },
+        {
+          "arabic": "لَـٰكِن",
+          "transliteration": "lākin",
+          "translation": "but / however",
+          "grammar": {
+            "type": "Harf - Adversative Particle (Harf Istidrak)",
+            "root": "N/A - Particle",
+            "function": "Introduces a contrasting or limiting statement",
+            "reason": "'Lākin' (but/however) shows contrast - they ARE alive, BUT we don't perceive it. It acknowledges our limitation.",
+            "practical": "'Lākin' means 'but' or 'however' - it introduces a contrast or limitation. They're alive, BUT... what's the 'but'? That we don't perceive it! This particle bridges the apparent contradiction: if they're alive, why do they look dead? 'Lākin' answers: it's our limitation, not their reality. We're limited to worldly perception, so we see death. But the REALITY (which Allah knows and reveals) is they're alive! 'Lākin' acknowledges both sides: the reality (alive) and our perception (seems dead). Beautiful use of language!"
+          }
+        },
+        {
+          "arabic": "لَّا",
+          "transliteration": "lā",
+          "translation": "not",
+          "grammar": {
+            "type": "Harf - Negation Particle (Harf Nafy)",
+            "root": "N/A - Particle",
+            "function": "Negates the verb that follows",
+            "reason": "Negates perception - you do NOT perceive/feel their life.",
+            "practical": "'Lā' here is simple negation = 'not'. It negates the verb coming next. So 'lā tash'urūn' = you do NOT perceive/feel. This explains why people mistakenly call martyrs 'dead' - they DON'T PERCEIVE their life. It's not a lie exactly; it's limited perception. Our five senses can't detect their life in the barzakh (realm between death and resurrection). But just because we can't sense it doesn't mean it isn't real!"
+          }
+        },
+        {
+          "arabic": "تَشْعُرُونَ",
+          "transliteration": "tash'urūn",
+          "translation": "you perceive / you feel / you are aware",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+            "root": "ش-ع-ر (sh-'a-r) - to feel, to perceive, to be aware",
+            "form": "Form I",
+            "person": "Second person masculine plural",
+            "tense": "Present",
+            "reason": "Describes the ongoing inability to perceive martyrs' life. Present tense shows this is a continuous state of non-perception.",
+            "practical": "From shu'ūr (feeling/perception/awareness). 'Tash'urūna' = you all feel/perceive/sense. But with 'lā' before it: 'lā tash'urūn' = you do NOT perceive! The 'ta-' = you (second person). The '-ūn' = plural. This refers to ALL of us humans - we simply cannot perceive the life of martyrs with our limited senses. 'Sh'ūr' includes all types of perception: seeing, hearing, feeling, sensing. NONE of our senses can detect their life - but that doesn't negate it! The verse is teaching us humility: your perception is LIMITED. There's a reality beyond what you can sense. Trust Allah's word over your limited senses!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 155,
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Wa lanabluwannakum bishayin mina al-khawfi wal-jū'i wa naqṣin mina al-amwāli wal-anfusi wath-thamarāt, wa bashshiri aṣ-ṣābirīn",
+      "translation": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient",
+      "words": [
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Connects to previous discussion about trials",
+            "practical": "Links this verse about tests to the discussion of martyrdom and patience."
+          }
+        },
+        {
+          "arabic": "لَنَبْلُوَنَّكُم",
+          "transliteration": "lanabluwannakum",
+          "translation": "We will surely test you",
+          "grammar": {
+            "type": "Fi'l - Present Verb with Emphasis (Fi'l Muḍāri' Mu'akkad) + Pronoun",
+            "root": "ب-ل-و (b-l-w) - to test, to try",
+            "form": "Form I",
+            "person": "First person plural (We)",
+            "components": "la (indeed/surely) + nabluwanna (We will certainly test) + kum (you)",
+            "reason": "The 'la' and double 'nna' add strong emphasis - this test WILL definitely happen. The 'kum' shows the believers are being tested.",
+            "practical": "From ibtilā' (test/trial). 'Nablū' = We test. The 'la' at the beginning + the stressed 'nna' in the middle = double emphasis! 'La...nna' structure = absolute certainty! So 'lanabluwannakum' = We will SURELY, DEFINITELY test you! There's NO escape from tests. The 'kum' at end = you all. Allah is telling believers directly: tests WILL come - guaranteed! This isn't a threat; it's preparation. Allah is warning us IN ADVANCE so we can prepare with sabr. Notice Allah says 'We will test' (not 'We may test') - tests are CERTAIN. The double emphasis shows no one escapes trials. That's life! The question isn't IF you'll be tested, but HOW you'll respond!"
+          }
+        },
+        {
+          "arabic": "بِشَىْءٍۢ",
+          "transliteration": "bishayin",
+          "translation": "with something",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Noun",
+            "root": "ش-ي-ء (sh-y-a) - thing",
+            "components": "bi (with/by) + shay' (thing)",
+            "case": "Genitive (majrūr) - indicated by tanwīn kasrah (in)",
+            "reason": "The 'bi' shows the means of testing. 'Shay'' is general - something/anything. Genitive due to 'bi'.",
+            "practical": "'Shay'' means thing/something. With 'bi' = 'with something'. The tanwīn 'in' sound shows genitive case. Notice Allah says 'SOMETHING' (shay') - not everything! It's indefinite and somewhat vague, which is mercy! You won't be tested with EVERYTHING all at once - just 'something'. And that something is LIMITED (coming next: 'min' = a portion of). This is Allah's mercy: the test is PARTIAL, not total. You won't lose everything - just something. Even in warning about trials, Allah shows gentleness and ease!"
+          }
+        },
+        {
+          "arabic": "مِّنَ",
+          "transliteration": "mina",
+          "translation": "of / from",
+          "grammar": {
+            "type": "Harf - Preposition (Harf Jarr)",
+            "root": "N/A - Particle",
+            "function": "Indicates partitiveness - a portion of something",
+            "reason": "'Min' here shows part of a whole - SOME fear, not all fear; SOME hunger, not complete starvation.",
+            "practical": "'Min' means 'from' or 'of', but here it indicates PART of something - 'some of'. This is more mercy! Not complete overwhelming fear, but SOME fear. Not total starvation, but SOME hunger. The test is MEASURED, CONTROLLED, PARTIAL. Allah could test with complete destruction, but instead He tests with manageable portions. 'Min' here is called 'min li-tabī'ḍ' (min of partitiveness) - it means you'll experience a PORTION, not the whole. This makes the trial bearable! SubhanAllah - even the test is designed with mercy!"
+          }
+        },
+        {
+          "arabic": "ٱلْخَوْفِ",
+          "transliteration": "al-khawf",
+          "translation": "the fear",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "خ-و-ف (kh-w-f) - to fear",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+            "gender": "Masculine",
+            "reason": "The first type of test mentioned. Genitive because of 'min'. Fear of enemies, fear of future, fear of loss.",
+            "practical": "'Al-khawf' = the fear. From khāfa (to be afraid). This is the FIRST test mentioned: fear. Fear of what? Fear of enemies, fear for your safety, fear for loved ones, fear of poverty, general anxiety and worry. Notice it's 'mina al-khawf' = SOME fear, not constant terror. You'll experience fear - it's part of life's tests. But it's measured, not overwhelming. The 'i' ending (al-khawfi) shows genitive case after 'min'. Fear is often the first test because it attacks the heart before any physical harm comes!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds next type of test",
+            "practical": "Connects different types of trials believers will face."
+          }
+        },
+        {
+          "arabic": "ٱلْجُوعِ",
+          "transliteration": "al-jū'",
+          "translation": "the hunger",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ج-و-ع (j-w-'a) - to be hungry",
+            "case": "Genitive (majrūr) - ends in 'i' due to implied 'min'",
+            "gender": "Masculine",
+            "reason": "Second type of test. Also partitive (some hunger). Genitive after implied 'min'.",
+            "practical": "'Al-jū'' = the hunger. From jā'a (to be hungry). Second test: HUNGER - lack of food, difficulty getting sustenance, poverty affecting meals. Again, it's 'min al-jū'' (implied) = SOME hunger, not death by starvation. Maybe you miss meals, maybe food is scarce, maybe you can't afford what you want. This tests your sabr and trust in Allah's provision. Both fear and hunger are internal experiences (psychological and physical need) before the external losses mentioned next. The progression is deliberate!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds third type of test",
+            "practical": "Continues building the list of potential trials."
+          }
+        },
+        {
+          "arabic": "نَقْصٍۢ",
+          "transliteration": "naqṣ",
+          "translation": "loss / decrease / deficiency",
+          "grammar": {
+            "type": "Ism - Verbal Noun (Maṣdar)",
+            "root": "ن-ق-ص (n-q-ṣ) - to decrease, to diminish, to lack",
+            "case": "Genitive (majrūr) - tanwīn kasrah due to implied 'bi'",
+            "gender": "Masculine",
+            "reason": "This introduces the external losses (as opposed to internal fear/hunger). Genitive with tanwīn.",
+            "practical": "'Naqṣ' = decrease, loss, deficiency, reduction. From naqaṣa (to diminish). This is the umbrella term for the EXTERNAL losses coming next. The tanwīn 'in' sound (naqṣin) shows it's indefinite and genitive. While fear and hunger are internal experiences, naqṣ introduces the EXTERNAL trials - actual loss of things you possess. And notice: it's also PARTIAL loss (naqṣin min = some loss of), not total destruction. You'll lose SOME, not ALL. This word prepares us: you WILL experience decrease in things you value!"
+          }
+        },
+        {
+          "arabic": "مِّنَ",
+          "transliteration": "mina",
+          "translation": "of / from",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "function": "Shows partitiveness again - some loss of these things",
+            "practical": "Again indicates partial loss, not complete destruction."
+          }
+        },
+        {
+          "arabic": "ٱلْأَمْوَٰلِ",
+          "transliteration": "al-amwāl",
+          "translation": "the wealth / the possessions",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "م-و-ل (m-w-l) - wealth, property",
+            "form": "Plural of 'māl' - pattern: af'āl",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+            "number": "Plural",
+            "reason": "First thing you'll lose some of. Wealth includes money, property, business, assets.",
+            "practical": "'Al-amwāl' = the wealth/possessions. Plural of 'māl' (money/wealth/property). This covers ALL types of wealth: cash, property, business, investments, anything of value. 'Naqṣin mina al-amwāl' = SOME loss in wealth. You might lose some money, a business might fail, property might be damaged, investments might drop. It's not total bankruptcy (that would be no 'min'), but PARTIAL loss. This tests: do you trust Allah more than your bank account? Money is the first external loss mentioned because it's what people value most after their lives!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds another category of loss",
+            "practical": "Continues listing what might be lost."
+          }
+        },
+        {
+          "arabic": "ٱلْأَنفُسِ",
+          "transliteration": "al-anfus",
+          "translation": "the lives / the souls",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ن-ف-س (n-f-s) - soul, self, person",
+            "form": "Plural of 'nafs' - pattern: af'ul",
+            "case": "Genitive (majrūr) - ends in 'i' due to implied 'min'",
+            "number": "Plural",
+            "reason": "Loss of lives - people dying, loved ones passing, family members lost. The most precious thing after faith.",
+            "practical": "'Al-anfus' = the souls/lives/persons. Plural of 'nafs' (soul/self/life). This is the heaviest test: losing PEOPLE - your loved ones, family, friends, or even your own life (martyrdom). 'Naqṣin mina al-anfus' = SOME loss of lives. Not everyone dies at once, but you'll experience deaths. This is harder than losing money! After wealth comes the real test: can you have sabr when death takes someone you love? This connects back to verse 154 about martyrs - some believers will DIE in Allah's path. That's the ultimate loss in worldly terms, but actually the ultimate gain in real terms!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds final category",
+            "practical": "Completes the list of potential losses."
+          }
+        },
+        {
+          "arabic": "ٱلثَّمَرَٰتِ",
+          "transliteration": "ath-thamarāt",
+          "translation": "the fruits / the crops",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ث-م-ر (th-m-r) - fruit, result",
+            "form": "Plural of 'thamara' - pattern: fa'alāt",
+            "case": "Genitive (majrūr) - ends in 'i' due to implied 'min'",
+            "number": "Plural feminine",
+            "reason": "Loss of agricultural produce - crops, fruits, harvests. Represents loss of livelihood for farmers and general economic hardship.",
+            "practical": "'Ath-thamarāt' = the fruits/crops. Plural of 'thamara' (fruit). In classical context, this literally means agricultural produce - failed crops, damaged harvests, droughts affecting food supply. Metaphorically, it can mean loss of the 'fruits' of your labor - your efforts not producing results. 'Naqṣin mina ath-thamarāt' = SOME loss in crops/fruits. Your hard work might not yield what you expected. The harvest might fail. Your business effort might not produce profit. This tests: will you keep working and trusting Allah even when results don't come? Notice the comprehensive nature: internal trials (fear, hunger) + external losses (wealth, lives, livelihood). ALL aspects of life might be tested!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and / but",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Transitions from warning to good news",
+            "practical": "Shifts from the trials to the beautiful response for those who endure."
+          }
+        },
+        {
+          "arabic": "بَشِّرِ",
+          "transliteration": "bashshir",
+          "translation": "give good news / give glad tidings",
+          "grammar": {
+            "type": "Fi'l - Command Verb (Fi'l Amr)",
+            "root": "ب-ش-ر (b-sh-r) - to give good news",
+            "form": "Form II (taf'īl) - intensive",
+            "person": "Second person masculine singular (you)",
+            "reason": "Command to the Prophet ﷺ (or any believer) to give good news to a specific group. Form II emphasizes giving abundant, genuine good news.",
+            "practical": "From bushrā (good news). Form II 'bashshara' = to give good news, to give glad tidings. 'Bashshir' is the command: 'Give good news!' This is addressed to the Prophet ﷺ primarily, but by extension to all believers. After mentioning all these trials, Allah IMMEDIATELY gives GOOD NEWS! The 'wa' transitions beautifully: Yes, tests will come, BUT there's excellent news! The doubled 'sh' (bashshir) shows intensity - not just 'inform', but 'DELIVER JOYFUL NEWS!' Notice Allah doesn't leave us in despair after warning - He gives hope! That's divine mercy!"
+          }
+        },
+        {
+          "arabic": "ٱلصَّـٰبِرِينَ",
+          "transliteration": "aṣ-ṣābirīn",
+          "translation": "the patient ones",
+          "grammar": {
+            "type": "Ism - Noun (Active Participle/Direct Object)",
+            "root": "ص-ب-ر (ṣ-b-r) - to be patient",
+            "form": "Active participle - pattern: fā'il (one who does)",
+            "case": "Accusative (manṣūb) - ends in 'īn' as plural accusative",
+            "number": "Plural masculine",
+            "reason": "The object of 'bashshir' - give good news TO them. Those characterized by sabr. Accusative as direct object.",
+            "practical": "We saw this word in verse 153! 'Aṣ-ṣābirīn' = the patient ones, those characterized by patience. Same root ṣ-b-r. The 'īn' ending shows plural accusative (because they're the object of 'bashshir'). Now it all connects: verse 153 said 'seek help with sabr and salah, Allah is with aṣ-ṣābirīn.' Then verse 155 says 'tests WILL come, so give good news to aṣ-ṣābirīn!' The good news is FOR those who have sabr during trials! Who gets the bushrā (good news/glad tidings)? Those who remain patient when tested with fear, hunger, and loss. This is the ultimate encouragement: your sabr during hardship earns you glad tidings from Allah! What's the good news? Keep reading verse 156-157!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 156,
+      "arabic": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۭ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+      "transliteration": "Alladhīna idhā aṣābathum muṣībatun qālū innā lillāhi wa innā ilayhi rāji'ūn",
+      "translation": "Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return'",
+      "words": [
+        {
+          "arabic": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation": "those who",
+          "grammar": {
+            "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+            "root": "N/A - Relative pronoun",
+            "gender": "Masculine plural",
+            "reason": "Describes and defines 'aṣ-ṣābirīn' from the previous verse - WHO exactly are the patient ones? These people!",
+            "practical": "'Alladhīna' = those who. This continues from verse 155! Who are 'the patient ones' who receive good news? THESE are they - 'alladhīna' (those who) do what's described next. It's like Allah saying: 'Want to know who the patient ones are? Let Me describe them for you!' This verse defines true sabr - it's not just silently enduring, but enduring WITH the right words and the right belief. Pay attention to what comes next - this is the RESPONSE of truly patient people when calamity hits!"
+          }
+        },
+        {
+          "arabic": "إِذَآ",
+          "transliteration": "idhā",
+          "translation": "when",
+          "grammar": {
+            "type": "Ẓarf - Adverb of Time (Circumstantial Time)",
+            "root": "N/A - Particle",
+            "function": "Indicates WHEN something happens - sets up the condition/circumstance",
+            "reason": "'Idhā' introduces a time condition - WHEN this happens, then that follows. It's about certainty that something WILL occur.",
+            "practical": "'Idhā' means 'when' (not 'if'!). It assumes the thing WILL happen - it's a matter of WHEN, not IF. So 'idhā aṣābathum muṣībah' = WHEN (not if) calamity strikes you. Allah is saying: disasters WILL come to everyone - that's guaranteed. The question is: what will you say/do WHEN they come? Notice the certainty - Allah doesn't say 'IF disaster strikes' but 'WHEN disaster strikes.' This prepares believers: expect trials! 'Idhā' makes it inevitable, so don't be shocked when it happens!"
+          }
+        },
+        {
+          "arabic": "أَصَـٰبَتْهُم",
+          "transliteration": "aṣābathum",
+          "translation": "strikes them / befalls them",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī) + Pronoun",
+            "root": "ص-و-ب (ṣ-w-b) - to hit the target, to befall, to afflict",
+            "form": "Form IV (if'āl)",
+            "person": "Third person feminine singular (it)",
+            "components": "aṣābat (it struck) + hum (them)",
+            "reason": "The action that triggers the response. Past tense in meaning after 'idhā'. The 'ت' (ta) shows feminine subject. The 'hum' shows who was struck.",
+            "practical": "From ṣawb (hitting the mark). Form IV 'aṣāba' = to strike, to befall, to afflict. 'Aṣābat' = it struck/it befell. The 'ta' at the end is the feminine marker (because 'muṣībah' coming next is feminine). 'Hum' = them. So 'aṣābathum' = it struck THEM. This verb perfectly describes how calamity 'hits' you like an arrow hitting a target - sudden, unavoidable, striking directly. The verb is active and vivid - calamity doesn't just 'happen', it STRIKES! Past tense after 'idhā' is common pattern."
+          }
+        },
+        {
+          "arabic": "مُّصِيبَةٌۭ",
+          "transliteration": "muṣībah",
+          "translation": "disaster / calamity / affliction",
+          "grammar": {
+            "type": "Ism - Noun (Subject/Fā'il)",
+            "root": "ص-و-ب (ṣ-w-b) - to strike, to befall",
+            "form": "Noun of instance - pattern: fu'īlah",
+            "case": "Nominative (marfū') - indicated by tanwīn dammah",
+            "gender": "Feminine",
+            "reason": "The subject doing the striking. Nominative as the doer of the verb. Indefinite (tanwīn) shows ANY calamity.",
+            "practical": "'Muṣībah' = calamity, disaster, affliction, trial. From the same root as 'aṣāba' (to strike). It's the thing that strikes you - ANY difficult event. The tanwīn (un sound) makes it indefinite: 'A calamity' - meaning ANY type of muṣībah. Could be death of loved one, loss of wealth, sickness, failure, disappointment - ANY hardship! The word being indefinite is powerful - it covers ALL possible difficulties. No matter WHAT type of calamity strikes, the response is the same. Notice how the verse doesn't limit it - it's comprehensive!"
+          }
+        },
+        {
+          "arabic": "قَالُوٓا۟",
+          "transliteration": "qālū",
+          "translation": "they said",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "ق-و-ل (q-w-l) - to say",
+            "form": "Form I",
+            "person": "Third person masculine plural (they)",
+            "tense": "Past",
+            "reason": "Describes their reaction - what they SAY when calamity strikes. Past tense shows their immediate response.",
+            "practical": "From qawl (speech). 'Qālū' = they said. The 'ū' shows plural: THEY (as a group/characteristic) said. This is the ANSWER to the 'idhā' - WHEN calamity strikes, they SAY this! Notice the emphasis on WORDS. True sabr isn't just feeling patient inside - it's expressed in what you SAY. Your tongue reveals what's in your heart. What do the truly patient say? The next phrase is THE MOST FAMOUS response to calamity in Islam - memorize it!"
+          }
+        },
+        {
+          "arabic": "إِنَّا",
+          "transliteration": "innā",
+          "translation": "indeed we",
+          "grammar": {
+            "type": "Harf + Ism - Emphasis Particle + Pronoun",
+            "root": "N/A - Particle combination",
+            "components": "inna (indeed/verily) + nā (we)",
+            "reason": "'Inna' emphasizes + 'nā' (we/us) becomes the subject. The emphasis shows certainty and conviction in what they're about to declare.",
+            "practical": "'Inna' = indeed/verily (emphatic), 'nā' = we/us. Together: 'indeed we' or 'verily we'. The 'inna' makes the statement emphatic and certain - they're not just casually stating something, they're DECLARING with conviction! This is the beginning of 'Istirja'' - the statement of returning to Allah. When you say 'innā', you're emphasizing YOUR reality and relationship with Allah. You're making a declaration about YOURSELF!"
+          }
+        },
+        {
+          "arabic": "لِلَّهِ",
+          "transliteration": "lillāh",
+          "translation": "to Allah / belong to Allah",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Proper Noun",
+            "root": "N/A - Prepositional phrase",
+            "components": "li (to/for) + Allāh",
+            "case": "Genitive (majrūr) - Allāhi becomes Allāh after li",
+            "reason": "The predicate (khabar) of 'innā' - stating WHO they belong to. 'Li' here shows ownership/belonging.",
+            "practical": "'Li' means 'to' or 'for', indicating belonging/possession. 'Lillāh' = to Allah, for Allah, belonging to Allah. So 'innā lillāh' = 'indeed we belong to Allah'. This is PROFOUND! You're acknowledging that YOU are Allah's PROPERTY. He owns you. You came from Him. Everything about you - your life, your wealth, your family, your very existence - all belongs to Him! When calamity takes something from you, you remember: it was never really YOURS; it was always HIS! You're just a temporary custodian. This belief transforms how you handle loss!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Connects the first declaration to the second",
+            "practical": "Links belonging to Allah with returning to Allah - two sides of the same truth."
+          }
+        },
+        {
+          "arabic": "إِنَّآ",
+          "transliteration": "innā",
+          "translation": "indeed we",
+          "grammar": {
+            "type": "Harf + Ism - Emphasis Particle + Pronoun",
+            "components": "inna + nā",
+            "reason": "Repeated emphasis - the second declaration is also emphatic and certain. Both statements matter equally.",
+            "practical": "Again: 'indeed we'. The repetition of 'innā' shows BOTH parts are emphasized equally. First part (we belong to Allah) is emphasized, AND second part (we return to Him) is also emphasized. You're not just acknowledging ownership - you're also acknowledging the DESTINATION. Your journey ends with Him!"
+          }
+        },
+        {
+          "arabic": "إِلَيْهِ",
+          "transliteration": "ilayhi",
+          "translation": "to Him",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "ilā (to/towards) + hi (Him)",
+            "reason": "Shows the direction of return - TO Him (Allah). 'Ilā' indicates direction/destination.",
+            "practical": "'Ilā' means 'to' or 'towards' (showing direction). 'Hi' = Him. Together: 'to Him'. This shows the DESTINATION of your journey. You came FROM Him (you belong to Him), and you're going BACK TO Him. Life is a temporary journey, but death is return to the Owner. 'Ilayhi' reminds you: every loss in this world is bringing you closer to the ultimate meeting with Allah. That's actually something to look FORWARD to, not fear!"
+          }
+        },
+        {
+          "arabic": "رَٰجِعُونَ",
+          "transliteration": "rāji'ūn",
+          "translation": "ones who return / returners",
+          "grammar": {
+            "type": "Ism - Active Participle (Ism Fā'il)",
+            "root": "ر-ج-ع (r-j-'a) - to return, to go back",
+            "form": "Active participle - pattern: fā'il",
+            "case": "Nominative (marfū') - ends in 'ūn' as plural nominative",
+            "number": "Plural masculine",
+            "reason": "The predicate (khabar) of 'innā' - describes their state as 'returners'. The 'ūn' shows plural nominative.",
+            "practical": "From raj'a (return). 'Rāji'ūn' = ones who return, returners. The active participle pattern shows this is their STATE, their CHARACTERISTIC - they are RETURNERS. Not 'we will return someday', but 'we ARE returners' - it's happening, it's certain, it's who you are! The 'ūn' makes it plural and nominative. So 'innā ilayhi rāji'ūn' = 'indeed we are returners to Him' or 'indeed to Him we shall return'. This COMPLETE phrase 'Innā lillāhi wa innā ilayhi rāji'ūn' is what Muslims say when calamity strikes. It's acknowledging: I belong to Allah, and I'm returning to Him - so any loss in this temporary world is okay. SubhanAllah! What a powerful statement!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 157,
+      "arabic": "أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌۭ مِّن رَّبِّهِمْ وَرَحْمَةٌۭ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+      "transliteration": "Ulā'ika 'alayhim ṣalawātun min rabbihim wa raḥmah, wa ulā'ika humu al-muhtadūn",
+      "translation": "Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the rightly guided",
+      "words": [
+        {
+          "arabic": "أُو۟لَـٰٓئِكَ",
+          "transliteration": "ulā'ika",
+          "translation": "those / those ones",
+          "grammar": {
+            "type": "Ism - Demonstrative Pronoun (Ism Ishārah)",
+            "root": "N/A - Demonstrative",
+            "number": "Plural",
+            "gender": "Masculine",
+            "reason": "Points to the people described in verse 156 - those who say 'innā lillāhi wa innā ilayhi rāji'ūn'. Shows they are special.",
+            "practical": "'Ulā'ika' = those (plural demonstrative). It's pointing to the specific group just mentioned - those who respond to calamity with 'innā lillāhi wa innā ilayhi rāji'ūn'. When Allah uses 'ulā'ika', He's highlighting them: THESE people, THIS group - they're special! It's like pointing and saying: 'Pay attention to THEM!' The 'ka' at the end adds emphasis. After describing their beautiful response to trials, now Allah reveals their REWARD. This is the GOOD NEWS (bushrā) mentioned in verse 155!"
+          }
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "transliteration": "'alayhim",
+          "translation": "upon them",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "root": "N/A - Prepositional phrase",
+            "components": "'alā (upon/on) + him (them)",
+            "reason": "Shows WHO receives the blessings - upon THEM specifically. The preposition ''alā' indicates something descending upon them from above.",
+            "practical": "''Alā' means 'upon/on', 'him' = them. Together: 'upon them'. This is beautiful imagery - the blessings and mercy DESCEND upon them from above! Like rain falling on earth, Allah's ṣalawāt (blessings) fall UPON these patient people. The preposition ''alā' gives the image of something coming FROM ABOVE (from Allah in the heavens) and landing ON them. They're covered, enveloped, showered with divine gifts!"
+          }
+        },
+        {
+          "arabic": "صَلَوَٰتٌۭ",
+          "transliteration": "ṣalawāt",
+          "translation": "blessings / prayers",
+          "grammar": {
+            "type": "Ism - Noun (Subject/Mubtada')",
+            "root": "ص-ل-و (ṣ-l-w) - to pray, to bless",
+            "form": "Plural of 'ṣalāh' - pattern: fa'alāt",
+            "case": "Nominative (marfū') - indicated by tanwīn dammah",
+            "number": "Plural feminine",
+            "reason": "The subject - what is upon them. Plural shows multiple, abundant blessings. Tanwīn shows emphasis and magnitude.",
+            "practical": "'Ṣalawāt' is the plural of 'ṣalāh'. But here it doesn't mean 'prayers' - it means BLESSINGS from Allah! When ṣalāh comes from Allah, it means His blessings, mercy, praise, and honor upon someone. It's Allah 'praying for you' in the sense of blessing you, praising you, having mercy on you! The plural 'ṣalawāt' shows MULTIPLE, ABUNDANT blessings - not just one blessing but MANY! The tanwīn emphasizes their greatness. Notice the grammar: 'ṣalawātun 'alayhim' (blessings are upon them) - the blessings are the SUBJECT, they are UPON them. You're passive - Allah actively sends blessings to you!"
+          }
+        },
+        {
+          "arabic": "مِّن",
+          "transliteration": "min",
+          "translation": "from",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "root": "N/A - Particle",
+            "function": "Shows the SOURCE - from whom these blessings come",
+            "reason": "'Min' indicates origin/source. These blessings come FROM Allah, not from people or yourself.",
+            "practical": "'Min' = from. Shows the SOURCE of the blessings - they come FROM someone specific (coming next). This is crucial: the ṣalawāt aren't random or from yourself - they're FROM ALLAH! They originate from the highest source possible. 'Min' tells you: these blessings are divine in origin, guaranteed in delivery, perfect in nature. When blessings come 'min Rabbihim' (from their Lord), you know they're real, they're valuable, they're eternal!"
+          }
+        },
+        {
+          "arabic": "رَّبِّهِمْ",
+          "transliteration": "rabbihim",
+          "translation": "their Lord",
+          "grammar": {
+            "type": "Ism - Noun + Pronoun",
+            "root": "ر-ب-ب (r-b-b) - to lord, to nurture, to sustain",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+            "components": "rabb (Lord) + him (their)",
+            "reason": "Specifies the SOURCE - from THEIR Lord specifically. The possessive 'him' shows personal relationship.",
+            "practical": "'Rabb' = Lord, Master, Nurturer, Sustainer. 'Him' = their. Together: 'their Lord'. Notice it says 'THEIR Lord' - showing the intimate, personal relationship! Not just 'from Allah' or 'from God', but from THEIR Rabb - the One who created them, nurtures them, sustains them, knows them! The genitive 'i' (rabbihim) is due to 'min'. This personalization is beautiful - Allah is saying: I am YOUR Rabb, and I'm blessing YOU (My servants) when you show patience. The blessings come from someone who LOVES you and KNOWS you!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds another reward/gift",
+            "practical": "Links the first reward (ṣalawāt) with the second reward (raḥmah)."
+          }
+        },
+        {
+          "arabic": "رَحْمَةٌۭ",
+          "transliteration": "raḥmah",
+          "translation": "mercy",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ر-ح-م (r-ḥ-m) - to have mercy, to be compassionate",
+            "case": "Nominative (marfū') - indicated by tanwīn dammah",
+            "gender": "Feminine",
+            "reason": "Second thing upon them - mercy from Allah. Also subject in the nominal sentence. Tanwīn adds emphasis.",
+            "practical": "'Raḥmah' = mercy, compassion. From the same root as 'Ar-Raḥmān' (The Most Merciful). The tanwīn (un sound) shows indefinite magnitude - mercy that's beyond description! So they receive TWO things: (1) ṣalawāt (blessings, prayers, praise from Allah), and (2) raḥmah (mercy, compassion). SubhanAllah! Just for saying 'innā lillāhi wa innā ilayhi rāji'ūn' when calamity strikes, you get Allah's blessings AND His mercy! That's the good news (bushrā) for the patient! Notice 'raḥmah' is also from their Rabb (understood from previous phrase). These rewards are comprehensive - covering all needs!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds a third statement about them",
+            "practical": "After describing what descends upon them, now describes WHO they are."
+          }
+        },
+        {
+          "arabic": "أُو۟لَـٰٓئِكَ",
+          "transliteration": "ulā'ika",
+          "translation": "those",
+          "grammar": {
+            "type": "Ism - Demonstrative Pronoun",
+            "number": "Plural",
+            "reason": "Repeated for emphasis - pointing to the same group again. Emphasizes their special status even more!",
+            "practical": "'Ulā'ika' again! Repeating it emphasizes their special status. First use: 'Those get blessings and mercy.' Now second use: 'And THOSE (yes, the same people!) are...' The repetition is for impact - making sure you understand how special these patient people are!"
+          }
+        },
+        {
+          "arabic": "هُمُ",
+          "transliteration": "hum",
+          "translation": "they",
+          "grammar": {
+            "type": "Ism - Pronoun (Separated Pronoun/Ḍamīr Faṣl)",
+            "root": "N/A - Pronoun",
+            "function": "Adds restriction and emphasis - THEY (specifically, exclusively) are...",
+            "reason": "'Hum' here is a separated pronoun (ḍamīr faṣl) that emphasizes and restricts - THEY ALONE are the guided ones.",
+            "practical": "'Hum' = they. But this isn't just 'they are'. This is 'ḍamīr faṣl' (separated pronoun) which adds RESTRICTION and EMPHASIS! It means: THEY (and they specifically/exclusively) are the guided ones! Not others - THEM! It's like saying: 'Want to know who the truly guided people are? THESE people right here - the patient ones!' The 'hum' separates and emphasizes, making the statement powerful and exclusive. Grammar nerds: this is called 'qaṣr' (restriction) - limiting true guidance to this group!"
+          }
+        },
+        {
+          "arabic": "ٱلْمُهْتَدُونَ",
+          "transliteration": "al-muhtadūn",
+          "translation": "the guided ones / the rightly guided",
+          "grammar": {
+            "type": "Ism - Active Participle (Ism Fā'il)",
+            "root": "ه-د-ي (h-d-y) - to guide",
+            "form": "Form VIII active participle - pattern: muftaʿil",
+            "case": "Nominative (marfū') - ends in 'ūn' as predicate",
+            "number": "Plural masculine",
+            "reason": "The predicate describing who they are - the GUIDED ONES. Form VIII shows they accepted and embraced guidance.",
+            "practical": "From hidāyah (guidance). Form VIII 'ihtadā' means to be guided, to accept guidance, to follow guidance. 'Al-muhtadūn' = the guided ones, those who are on right guidance. The 'al' makes it definite: THE guided ones - the TRULY guided! So the complete statement: 'Those are THE truly guided ones!' SubhanAllah! You want guidance? Here's the formula: when calamity strikes, say 'innā lillāhi wa innā ilayhi rāji'ūn' with conviction. That's REAL guidance! True guidance isn't just knowing facts - it's responding correctly to trials. These patient people are the TRULY guided! Beautiful conclusion to these connected verses!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 158,
+      "arabic": "۞ إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ ۖ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًۭا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+      "transliteration": "Inna aṣ-Ṣafā wal-Marwata min sha'ā'irillāh, faman ḥajja al-bayta aw i'tamara falā junāḥa 'alayhi an yaṭṭawwafa bihimā, wa man taṭawwa'a khayran fa'inna Allāha shākirun 'alīm",
+      "translation": "Indeed, Safa and Marwah are among the symbols of Allah. So whoever makes Hajj to the House or performs Umrah - there is no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is Appreciative and Knowing",
+      "words": [
+        {
+          "arabic": "إِنَّ",
+          "transliteration": "inna",
+          "translation": "indeed",
+          "grammar": {
+            "type": "Harf - Emphasis Particle",
+            "function": "Emphasizes the statement - makes it definite and certain",
+            "practical": "'Inna' again = indeed/verily. Allah is emphasizing what He's about to say about Safa and Marwah. This isn't trivial information - it's important truth you must know!"
+          }
+        },
+        {
+          "arabic": "ٱلصَّفَا",
+          "transliteration": "aṣ-Ṣafā",
+          "translation": "Safa",
+          "grammar": {
+            "type": "Ism - Proper Noun (Place Name)",
+            "root": "ص-ف-و (ṣ-f-w) - to be pure, smooth",
+            "case": "Accusative (manṣūb) - due to 'inna'",
+            "reason": "The subject after 'inna' takes accusative. Safa is the first of two hills in Makkah.",
+            "practical": "'Aṣ-Ṣafā' is the name of a hill in Makkah where pilgrims begin the Sa'y (walking/running between Safa and Marwah). The name comes from ṣafā' meaning smooth stone/rock. After 'inna', it's in accusative (though the 'a' at end isn't visible in this word type). This is where Hajar (Hājar), mother of Ismā'īl, started searching for water. Historical context: some early Muslims hesitated to do Sa'y because these hills had idols in pre-Islamic times. This verse clarifies: they're part of Allah's rituals!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Connects the two hills - both are included."
+          }
+        },
+        {
+          "arabic": "ٱلْمَرْوَةَ",
+          "transliteration": "al-Marwah",
+          "translation": "Marwah",
+          "grammar": {
+            "type": "Ism - Proper Noun (Place Name)",
+            "root": "م-ر-و (m-r-w) - smooth stones",
+            "case": "Accusative (manṣūb) - due to 'inna'",
+            "reason": "Conjoined with Safa, also in accusative. The second hill.",
+            "practical": "'Al-Marwah' is the second hill where pilgrims end each lap of Sa'y. The name also relates to smooth stones. The distance between Safa and Marwah is about 450 meters. Walking between them seven times commemorates Hajar's search for water for baby Ismā'īl. When she ran between these hills desperately seeking help, Allah sent Jibrīl to bring forth the Zamzam well! That desperate search became a ritual for all Muslims till the Day of Judgment. SubhanAllah!"
+          }
+        },
+        {
+          "arabic": "مِن",
+          "transliteration": "min",
+          "translation": "among / of",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "function": "Shows they are PART OF a larger category (sha'ā'ir)",
+            "practical": "'Min' here means 'among' or 'of' - showing these two hills are PART OF the sha'ā'ir (symbols/rites) of Allah. They're not separate or foreign - they're included in Islamic worship!"
+          }
+        },
+        {
+          "arabic": "شَعَآئِرِ",
+          "transliteration": "sha'ā'ir",
+          "translation": "symbols / rites / rituals",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ش-ع-ر (sh-'a-r) - to perceive, to feel, symbol",
+            "form": "Plural of 'sha'īrah' - pattern: fa'ā'il",
+            "case": "Genitive (majrūr) - due to 'min'",
+            "number": "Plural feminine",
+            "reason": "Shows what category Safa and Marwah belong to. Genitive after 'min'.",
+            "practical": "'Sha'ā'ir' = symbols, signs, rites, rituals of religion. Plural of 'sha'īrah'. These are the visible, outward symbols that mark Islamic worship - like Hajj rituals, sacrifice, etc. Anything that symbolizes and manifests devotion to Allah. The word comes from 'shu'ūr' (awareness/feeling) - these rites make you AWARE of Allah and FEEL His presence! Sa'y between Safa and Marwah is one of these sacred sha'ā'ir. When you do it, you're not just walking - you're performing a divine symbol!"
+          }
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "transliteration": "Allāh",
+          "translation": "of Allah",
+          "grammar": {
+            "type": "Ism - Proper Noun",
+            "case": "Genitive (majrūr) - in iḍāfah with sha'ā'ir",
+            "reason": "Shows ownership/attribution - these are ALLAH'S symbols, not pagan symbols.",
+            "practical": "The Divine Name in genitive - 'sha'ā'iri Allāh' = the symbols OF ALLAH. This is key! Before Islam, these hills had pagan associations. Some Muslims worried: are we doing a pagan ritual? Allah clarifies: NO! These are MY symbols, MY rites! Islam purified them. The iḍāfah (possessive construct) attributes the sha'ā'ir to Allah Himself. When you perform Sa'y, you're doing ALLAH'S ritual, not anyone else's!"
+          }
+        },
+        {
+          "arabic": "فَمَنْ",
+          "transliteration": "faman",
+          "translation": "so whoever",
+          "grammar": {
+            "type": "Harf + Ism - Conjunction + Conditional Pronoun",
+            "components": "fa (so) + man (whoever)",
+            "function": "'Fa' shows consequence; 'man' is conditional - whoever does X, then Y follows",
+            "practical": "'Fa' = so/therefore. 'Man' = whoever (conditional). Together: 'So whoever...' This introduces the ruling based on what was just established. SINCE Safa and Marwah are Allah's symbols, THEREFORE whoever performs Hajj... The 'man' makes it universal - ANYONE who does Hajj!"
+          }
+        },
+        {
+          "arabic": "حَجَّ",
+          "transliteration": "ḥajja",
+          "translation": "performs Hajj / makes pilgrimage",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "ح-ج-ج (ḥ-j-j) - to go on pilgrimage, to argue/prove",
+            "form": "Form I",
+            "person": "Third person masculine singular (he)",
+            "reason": "Describes the condition - if someone performs Hajj. Past tense after 'man' is standard conditional structure.",
+            "practical": "From ḥajj (pilgrimage). 'Ḥajja' = he performed Hajj, he made pilgrimage. Hajj is the annual pilgrimage to Makkah in Dhul-Hijjah - one of the five pillars of Islam. The root ḥ-j-j also relates to 'proof/argument' - because you're responding to Allah's call and proving your devotion! After conditional 'man', the past tense means 'whoever does/performs'. So 'man ḥajja' = whoever performs Hajj."
+          }
+        },
+        {
+          "arabic": "ٱلْبَيْتَ",
+          "transliteration": "al-bayt",
+          "translation": "the House",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object)",
+            "root": "ب-ي-ت (b-y-t) - house, dwelling",
+            "case": "Accusative (manṣūb) - ends in 'a' as direct object",
+            "reason": "The object of 'ḥajja' - performs Hajj TO the House. The 'al' makes it THE House - the Ka'bah.",
+            "practical": "'Al-bayt' = the House, specifically THE HOUSE of Allah - the Ka'bah in Makkah! Not just any house - THE House par excellence! The 'a' ending (al-bayta) shows it's the object: performs Hajj TO the House. When Allah says 'the House' with the definite article, every Muslim knows: the Ka'bah! It's the first house built for worshiping Allah (built by Ibrahim and Ismā'īl). The direction we face in prayer. The center of our spiritual world!"
+          }
+        },
+        {
+          "arabic": "أَوِ",
+          "transliteration": "aw",
+          "translation": "or",
+          "grammar": {
+            "type": "Harf - Conjunction (Disjunctive/Choice)",
+            "function": "Shows alternative - either Hajj OR Umrah",
+            "practical": "'Aw' = or. Gives a choice/alternative: whether you do Hajj OR Umrah, the ruling applies to both! This makes the rule comprehensive."
+          }
+        },
+        {
+          "arabic": "ٱعْتَمَرَ",
+          "transliteration": "i'tamara",
+          "translation": "performs Umrah",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb",
+            "root": "ع-م-ر ('a-m-r) - to visit, to inhabit",
+            "form": "Form VIII (ifta'ala)",
+            "person": "Third person masculine singular",
+            "reason": "Second condition - or if someone performs Umrah. Form VIII indicates undertaking an action.",
+            "practical": "From 'umrah (the lesser pilgrimage). Form VIII 'i'tamara' = to perform Umrah, to undertake Umrah. Umrah can be done any time of year (unlike Hajj which is specific dates). It includes tawaf around Ka'bah and Sa'y between Safa and Marwah, but not the other Hajj rituals. So the verse says: whether you do full Hajj OR the smaller Umrah, in BOTH cases..."
+          }
+        },
+        {
+          "arabic": "فَلَا",
+          "transliteration": "falā",
+          "translation": "then no / then there is no",
+          "grammar": {
+            "type": "Harf - Conjunction + Negation",
+            "components": "fa (so/then) + lā (no/not)",
+            "function": "'Fa' shows result of condition; 'lā' negates",
+            "practical": "'Fa' = so/then (result of the condition). 'Lā' = no/not. Together: 'then there is no...' This is the ANSWER to the condition. If you do Hajj or Umrah, THEN there is no..."
+          }
+        },
+        {
+          "arabic": "جُنَاحَ",
+          "transliteration": "junāḥ",
+          "translation": "blame / sin",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ج-ن-ح (j-n-ḥ) - to incline, to lean, wing",
+            "case": "Accusative (manṣūb) - in 'lā' negation structure",
+            "reason": "What's being negated - no junāḥ (blame/sin). After 'lā nafy al-jins', it takes accusative.",
+            "practical": "'Junāḥ' literally means 'wing' or 'side', but idiomatically means blame, sin, fault, harm. 'Lā junāḥa' is a common Quranic phrase meaning 'there is no sin/blame' - it's permissible! The 'a' ending shows accusative in this negation structure. So 'falā junāḥa' = then there is no blame/sin. It's completely allowed!"
+          }
+        },
+        {
+          "arabic": "عَلَيْهِ",
+          "transliteration": "'alayhi",
+          "translation": "upon him",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "'alā + hi (him)",
+            "practical": "''Alayhi' = upon him. Shows WHO has no blame - the one performing Hajj/Umrah. 'Lā junāḥa 'alayhi' = there is no sin upon him = he's not sinning = it's permissible for him!"
+          }
+        },
+        {
+          "arabic": "أَن",
+          "transliteration": "an",
+          "translation": "to / that",
+          "grammar": {
+            "type": "Harf - Verbal Particle (Ḥarf Maṣdarī)",
+            "function": "Converts the verb after it into a verbal noun",
+            "practical": "'An' before a verb makes it into a noun phrase - 'to do something'. Here: 'to walk between them'. It's explaining what exactly has no blame."
+          }
+        },
+        {
+          "arabic": "يَطَّوَّفَ",
+          "transliteration": "yaṭṭawwaf",
+          "translation": "he walks / he circumambulates",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Subjunctive/Manṣūb)",
+            "root": "ط-و-ف (ṭ-w-f) - to go around, to circumambulate",
+            "form": "Form V (tafa''ala) - intensive/repeated action",
+            "person": "Third person masculine singular",
+            "mood": "Subjunctive (manṣūb) - because of 'an'",
+            "reason": "The action that has no blame. Form V shows intensive, repeated walking. Subjunctive due to 'an'.",
+            "practical": "From ṭawāf (circumambulation/going around). Form V 'taṭawwafa' means to walk repeatedly, to go back and forth. 'Yaṭṭawwaf' (the 't' doubled) = he walks/circumambulates. Here it refers to Sa'y - walking/running between Safa and Marwah seven times. The 'an yaṭṭawwaf' = 'to walk between them'. So: there's no sin in walking between them! Why does this need clarification? Because some Companions worried it might be imitating pre-Islamic practices. Allah says: No! It's perfectly fine - in fact, it's part of the ritual!"
+          }
+        },
+        {
+          "arabic": "بِهِمَا",
+          "transliteration": "bihimā",
+          "translation": "between them / with them",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Dual Pronoun",
+            "components": "bi (with/between) + himā (them two/dual)",
+            "reason": "'Bi' shows connection to the walking. 'Himā' is dual pronoun referring to Safa and Marwah (the two hills).",
+            "practical": "'Bi' = with/between. 'Himā' = them two (dual pronoun). Together: 'between the two of them'. The dual 'himā' specifically refers to the TWO hills (Safa and Marwah). So 'yaṭṭawwaf bihimā' = to walk between the two of them = to perform Sa'y! The complete phrase: 'There is no blame upon him in walking between them (Safa and Marwah).' Beautiful permission and encouragement to perform this sacred rite!"
+          }
+        },
+        {
+          "arabic": "وَمَن",
+          "transliteration": "wa man",
+          "translation": "and whoever",
+          "grammar": {
+            "type": "Harf + Ism - Conjunction + Conditional Pronoun",
+            "components": "wa (and) + man (whoever)",
+            "practical": "'Wa man' = and whoever. Introduces a new, related statement - about voluntary good deeds beyond obligations."
+          }
+        },
+        {
+          "arabic": "تَطَوَّعَ",
+          "transliteration": "taṭawwa'a",
+          "translation": "volunteers / does voluntarily",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb",
+            "root": "ط-و-ع (ṭ-w-'a) - to obey willingly, to volunteer",
+            "form": "Form V (tafa''ala)",
+            "person": "Third person masculine singular",
+            "reason": "Describes voluntary action - doing good beyond what's required. Form V often shows voluntary intensive action.",
+            "practical": "From ṭā'ah (obedience) and ṭaw' (willingness). Form V 'taṭawwa'a' = to volunteer, to do something willingly beyond obligation. This is about EXTRA good deeds - not mandatory, but voluntary! Going beyond the minimum. 'Man taṭawwa'a' = whoever volunteers, whoever does extra good works. This applies to extra Umrah, extra charity, extra anything good!"
+          }
+        },
+        {
+          "arabic": "خَيْرًۭا",
+          "transliteration": "khayran",
+          "translation": "good / any good",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object)",
+            "root": "خ-ي-ر (kh-y-r) - good, goodness",
+            "case": "Accusative (manṣūb) - ends in 'an' as object",
+            "reason": "The object being volunteered - any good deed. Indefinite (tanwīn) shows ANY good, unspecified.",
+            "practical": "'Khayr' = good, goodness. The tanwīn 'an' (khayran) makes it indefinite: 'any good' or 'some good'. So 'taṭawwa'a khayran' = volunteers any good = does any good deed voluntarily. It's beautifully open - ANY good you do extra counts! Extra prayer, charity, kindness, helping others, extra Sa'y - ANYTHING good! The indefinite nature shows Allah accepts ALL types of voluntary good!"
+          }
+        },
+        {
+          "arabic": "فَإِنَّ",
+          "transliteration": "fa'inna",
+          "translation": "then indeed",
+          "grammar": {
+            "type": "Harf - Conjunction + Emphasis Particle",
+            "components": "fa (then/so) + inna (indeed)",
+            "practical": "'Fa' shows the result. 'Inna' emphasizes. Together: 'then indeed...' - here comes the reward/response from Allah!"
+          }
+        },
+        {
+          "arabic": "ٱللَّهَ",
+          "transliteration": "Allāha",
+          "translation": "Allah",
+          "grammar": {
+            "type": "Ism - Proper Noun",
+            "case": "Accusative (manṣūb) - due to 'inna'",
+            "practical": "The Divine Name after 'inna', taking accusative case (Allāha). Subject about whom two qualities are mentioned next."
+          }
+        },
+        {
+          "arabic": "شَاكِرٌ",
+          "transliteration": "shākir",
+          "translation": "Appreciative / Grateful",
+          "grammar": {
+            "type": "Ism - Active Participle (Divine Attribute)",
+            "root": "ش-ك-ر (sh-k-r) - to thank, to appreciate",
+            "form": "Active participle - pattern: fā'il",
+            "case": "Nominative (marfū') - as predicate",
+            "reason": "Describes Allah's attribute - He is Shākir, the One who appreciates and rewards good deeds abundantly.",
+            "practical": "'Shākir' = one who thanks, one who appreciates. But when it's Allah's name, it means the One who APPRECIATES and REWARDS your deeds beyond their worth! Imagine: you do a tiny good deed, and Allah THANKS you for it! He multiplies your reward, appreciates your effort, acknowledges your intention. The tanwīn (shākirun) shows magnificence. SubhanAllah - the Creator appreciating the created! When you volunteer good, Allah doesn't just accept it - He APPRECIATES it and rewards you abundantly!"
+          }
+        },
+        {
+          "arabic": "عَلِيمٌ",
+          "transliteration": "'alīm",
+          "translation": "All-Knowing",
+          "grammar": {
+            "type": "Ism - Intensive Adjective (Divine Attribute)",
+            "root": "ع-ل-م ('a-l-m) - to know",
+            "form": "Intensive pattern: fa'īl",
+            "case": "Nominative (marfū') - as second predicate",
+            "reason": "Second attribute of Allah - He knows EVERYTHING about your deed: intention, effort, circumstances.",
+            "practical": "''Alīm' = All-Knowing, the One whose knowledge is complete and perfect. From 'ilm (knowledge). The pattern 'fa'īl' shows intensity - not just knowing, but COMPLETE knowledge! Why mention this after Shākir? Because Allah doesn't just reward outward actions - He KNOWS your INTENTION, your struggle, your sincerity! He knows if you did it for Him or for show. He knows your circumstances and limitations. His appreciation (shākir) is based on perfect knowledge ('alīm). Beautiful combination: He appreciates your good AND He knows all its details. Nothing is hidden from Him!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 159,
+      "arabic": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ",
+      "transliteration": "Inna alladhīna yaktumūna mā anzalnā mina al-bayyināti wal-hudā min ba'di mā bayy annāhu lin-nāsi fil-kitāb, ulā'ika yal'anuhumu Allāhu wa yal'anuhumullā'inūn",
+      "translation": "Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allah and cursed by those who curse",
+      "words": [
+        {
+          "arabic": "إِنَّ",
+          "transliteration": "inna",
+          "translation": "indeed",
+          "grammar": {
+            "type": "Harf - Emphasis Particle",
+            "practical": "'Inna' emphasizes - this is serious, important truth about a grave sin."
+          }
+        },
+        {
+          "arabic": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation": "those who",
+          "grammar": {
+            "type": "Ism - Relative Pronoun",
+            "gender": "Masculine plural",
+            "reason": "Introduces description of people who commit a specific sin.",
+            "practical": "'Alladhīna' = those who. About to describe people who hide religious knowledge. Historical context: some Jewish scholars hid descriptions of Prophet Muhammad ﷺ from their scriptures."
+          }
+        },
+        {
+          "arabic": "يَكْتُمُونَ",
+          "transliteration": "yaktumūn",
+          "translation": "they conceal / they hide",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb",
+            "root": "ك-ت-م (k-t-m) - to conceal, to hide, to withhold",
+            "form": "Form I",
+            "person": "Third person masculine plural",
+            "tense": "Present/habitual action",
+            "reason": "Their sinful action - concealing knowledge. Present tense shows ongoing habit.",
+            "practical": "From kitm (concealment/hiding). 'Yaktumūna' = they conceal, they hide, they withhold. The 'ya-...ūna' pattern = they do (present/ongoing). This is about HIDING knowledge - especially religious truth that people need! It's keeping quiet when you should speak truth. Whether hiding verses about the Prophet ﷺ, or any Islamic knowledge people need - it's a major sin!"
+          }
+        },
+        {
+          "arabic": "مَآ",
+          "transliteration": "mā",
+          "translation": "what",
+          "grammar": {
+            "type": "Ism - Relative Pronoun",
+            "function": "Introduces what's being hidden",
+            "practical": "'Mā' = what. What do they hide? Keep reading..."
+          }
+        },
+        {
+          "arabic": "أَنزَلْنَا",
+          "transliteration": "anzalnā",
+          "translation": "We sent down / We revealed",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb + Pronoun",
+            "root": "ن-ز-ل (n-z-l) - to descend, to send down",
+            "form": "Form IV (if'āl)",
+            "person": "First person plural (We)",
+            "components": "anzala (He sent down) + nā (We)",
+            "reason": "Describes the origin of what's being hidden - it came from Allah! The 'nā' = We (Allah speaking).",
+            "practical": "From nuzūl (descending). Form IV 'anzala' = to send down, to reveal (from heaven). 'Anzalnā' = We sent down. The 'nā' = We (Allah). So 'mā anzalnā' = what WE sent down. This emphasizes: the knowledge being hidden is divine revelation! It came from ALLAH! Hiding it is hiding Allah's revealed truth. That makes it so much worse - you're not hiding human opinions; you're hiding divine guidance!"
+          }
+        },
+        {
+          "arabic": "مِنَ",
+          "transliteration": "mina",
+          "translation": "of / from",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "function": "Shows type/category - OF what type were the revelations hidden",
+            "practical": "'Min' here shows specification - specifically, these types of revelations..."
+          }
+        },
+        {
+          "arabic": "ٱلْبَيِّنَـٰتِ",
+          "transliteration": "al-bayyināt",
+          "translation": "the clear proofs / the clear signs",
+          "grammar": {
+            "type": "Ism - Noun (Adjective functioning as noun)",
+            "root": "ب-ي-ن (b-y-n) - to be clear, to explain",
+            "form": "Intensive adjective pattern: fayyil - feminine plural: fayyilāt",
+            "case": "Genitive (majrūr) - due to 'min'",
+            "number": "Plural feminine",
+            "reason": "First type of revelation hidden - clear proofs and evidences.",
+            "practical": "From bayān (clarity/explanation). 'Bayyināt' = clear proofs, clear signs, clear evidences. Plural of 'bayyinah'. These are CLEAR revelations - not ambiguous or hidden meanings, but OBVIOUS truths! The form 'bayyinah' shows intensity of clarity. So they're hiding things that are CRYSTAL CLEAR in scripture! Things Allah made OBVIOUS, they're making hidden. That's deliberate, evil concealment!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Adds second type of revelation being hidden."
+          }
+        },
+        {
+          "arabic": "ٱلْهُدَىٰ",
+          "transliteration": "al-hudā",
+          "translation": "the guidance",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ه-د-ي (h-d-y) - to guide",
+            "case": "Genitive (majrūr) - after implied 'min'",
+            "reason": "Second type hidden - guidance itself!",
+            "practical": "'Al-hudā' = THE guidance. From hidāyah. This is general guidance - direction to truth and righteousness. So they hide both: (1) clear proofs/evidences (bayyināt), and (2) guidance (hudā). They're hiding EVERYTHING - both the evidences and the guidance people need! Double crime!"
+          }
+        },
+        {
+          "arabic": "مِنۢ بَعْدِ",
+          "transliteration": "min ba'di",
+          "translation": "after",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Adverb",
+            "components": "min (from) + ba'd (after)",
+            "function": "Shows timing - AFTER something happened",
+            "practical": "'Min ba'di' = after, from after. They hide it AFTER what? After Allah made it clear! The 'min' adds emphasis. So not only do they hide clear truth, but they hide it AFTER Allah already clarified it! That makes it even worse!"
+          }
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "mā",
+          "translation": "what",
+          "grammar": {
+            "type": "Ism - Relative Pronoun",
+            "practical": "'Mā' = what. Introduces what happened before the hiding."
+          }
+        },
+        {
+          "arabic": "بَيَّنَّـٰهُ",
+          "transliteration": "bayyannāhu",
+          "translation": "We made it clear",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb + Pronouns",
+            "root": "ب-ي-ن (b-y-n) - to clarify, to explain",
+            "form": "Form II (taf'īl) - intensive",
+            "person": "First person plural (We)",
+            "components": "bayyanna (We clarified) + hu (it)",
+            "reason": "Form II shows Allah THOROUGHLY clarified. The 'nā' = We, 'hu' = it. Allah made it clear!",
+            "practical": "Form II 'bayyana' = to clarify, to make clear, to explain thoroughly. 'Bayyannā' = We made clear. 'Hu' = it. So 'bayyannāhu' = We made it clear. The doubling ('bayyanna' not just 'bāna') shows INTENSIVE clarification - Allah made it VERY clear, explicitly clear! So the sin is: Allah revealed clear proofs and guidance, THEN made them even MORE clear in Scripture, but they STILL hide it! Complete audacity!"
+          }
+        },
+        {
+          "arabic": "لِلنَّاسِ",
+          "transliteration": "lin-nās",
+          "translation": "for the people",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Noun",
+            "root": "ن-و-س or ن-ي-س (related to people/humanity)",
+            "components": "li (for) + al-nās (the people)",
+            "case": "Genitive (majrūr)",
+            "reason": "Shows WHO it was clarified for - for the PEOPLE! Everyone! The 'li' shows purpose/benefit.",
+            "practical": "'An-nās' = the people, humanity, mankind. 'Li' = for. So 'lin-nās' = for the people. Allah clarified these truths FOR THE PEOPLE's benefit - for everyone to know! But the scholars hide it FROM the people. They're depriving people of what Allah wanted them to know! Notice 'li + al' becomes 'lin-nās'. The crime: withholding public knowledge that was meant to guide everyone!"
+          }
+        },
+        {
+          "arabic": "فِى",
+          "transliteration": "fī",
+          "translation": "in",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "function": "Shows WHERE it was clarified - IN the Scripture",
+            "practical": "'Fī' = in. It was made clear IN the Book, IN the Scripture - written down, preserved, accessible!"
+          }
+        },
+        {
+          "arabic": "ٱلْكِتَـٰبِ",
+          "transliteration": "al-kitāb",
+          "translation": "the Book / the Scripture",
+          "grammar": {
+            "type": "Ism - Noun",
+            "root": "ك-ت-ب (k-t-b) - to write",
+            "case": "Genitive (majrūr) - after 'fī'",
+            "reason": "The location - IN the Book (Torah, Injeel, or generally Divine Scripture). The 'al' makes it THE Book.",
+            "practical": "'Al-kitāb' = the Book, the Scripture. Here it refers to previous scriptures (Torah, Gospel) where descriptions of the final Prophet ﷺ were written clearly. The 'i' ending (al-kitābi) shows genitive after 'fī'. So Allah made the truth clear FOR the people IN the Scripture - it's written there! But scholars hide or misinterpret those clear texts. The verse condemns concealing scriptural truth!"
+          }
+        },
+        {
+          "arabic": "أُو۟لَـٰٓئِكَ",
+          "transliteration": "ulā'ika",
+          "translation": "those",
+          "grammar": {
+            "type": "Ism - Demonstrative Pronoun",
+            "number": "Plural",
+            "reason": "Points to the people just described - THOSE concealers. Now their punishment comes!",
+            "practical": "'Ulā'ika' = those (emphatic pointing). After describing their crime, now Allah points to them for punishment: THOSE people - the concealers!"
+          }
+        },
+        {
+          "arabic": "يَلْعَنُهُمُ",
+          "transliteration": "yal'anuhum",
+          "translation": "curses them",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb + Pronoun",
+            "root": "ل-ع-ن (l-'a-n) - to curse, to expel from mercy",
+            "form": "Form I",
+            "person": "Third person masculine singular (he)",
+            "components": "yal'anu (he curses) + hum (them)",
+            "reason": "The punishment - they are cursed. Present tense shows ongoing/continuous curse.",
+            "practical": "From la'n (curse). 'La'ana' = to curse, to expel from mercy, to distance from blessings. 'Yal'anu' = he curses (continuous). 'Hum' = them. So 'yal'anuhum' = He curses them (ongoing). La'n is removal from Allah's mercy - the worst state possible! The present tense shows it's continuous, not just once. They remain under curse as long as they conceal truth!"
+          }
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "transliteration": "Allāhu",
+          "translation": "Allah",
+          "grammar": {
+            "type": "Ism - Proper Noun (Subject)",
+            "case": "Nominative (marfū') - as subject of verb",
+            "reason": "The One who curses them - ALLAH Himself!",
+            "practical": "The Divine Name as subject: 'Allāhu yal'anuhum' = Allah curses them. When ALLAH curses someone, it's the ultimate condemnation! The Creator Himself expels them from mercy. The 'u' ending shows nominative (subject). First curse: from Allah directly!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Adds a second source of curse - not just Allah, but also..."
+          }
+        },
+        {
+          "arabic": "يَلْعَنُهُمُ",
+          "transliteration": "yal'anuhum",
+          "translation": "curse them",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb + Pronoun",
+            "components": "yal'anu + hum",
+            "reason": "Same verb repeated - they're cursed again, but by different group (coming next).",
+            "practical": "Same word: 'they curse them' (present continuous). Who curses them? The next word tells us..."
+          }
+        },
+        {
+          "arabic": "ٱللَّـٰعِنُونَ",
+          "transliteration": "allā'inūn",
+          "translation": "those who curse / the cursers",
+          "grammar": {
+            "type": "Ism - Active Participle (Ism Fā'il)",
+            "root": "ل-ع-ن (l-'a-n) - to curse",
+            "form": "Active participle - pattern: fā'il",
+            "case": "Nominative (marfū') - as subject",
+            "number": "Plural masculine",
+            "reason": "The second source of cursing - ALL who curse. Could mean angels, believers, all creation. Everyone curses them!",
+            "practical": "'Allā'inūn' = the cursers, those who curse. Active participle plural = those who habitually curse. Who are they? Scholars say: (1) Angels, (2) Believers, (3) All creation. Some say even animals and earth curse them! The point: they're cursed from ABOVE (Allah) and from BELOW (creation). Universal curse! Double emphasis: Allah curses them + all cursers curse them. No escape from divine and created wrath. Concealing Allah's guidance earns comprehensive curse. Terrifying warning for anyone who hides religious knowledge!"
+          }
+        }
+      ]
+    },
+    {
+      "verse": 160,
+      "arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَـٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "transliteration": "Illā alladhīna tābū wa aṣlaḥū wa bayyanū fa'ulā'ika atūbu 'alayhim, wa ana at-tawwābu ar-raḥīm",
+      "translation": "Except for those who repent and correct themselves and make evident. Those - I will accept their repentance, and I am the Accepting of Repentance, the Merciful",
+      "words": [
+        {
+          "arabic": "إِلَّا",
+          "transliteration": "illā",
+          "translation": "except",
+          "grammar": {
+            "type": "Harf - Exception Particle (Harf Istithnā')",
+            "function": "Creates exception to previous ruling - saves a group from the curse",
+            "reason": "After condemning concealers, now Allah gives them hope - EXCEPT if they do these things!",
+            "practical": "'Illā' = except, but, however. This is the EXCEPTION particle - it carves out a group who escape the curse mentioned in verse 159! After the harsh condemnation and curse, Allah IMMEDIATELY gives the way out. That's divine mercy! 'Illā' brings HOPE - yes, the curse is terrible, BUT there's a way to escape it!"
+          }
+        },
+        {
+          "arabic": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation": "those who",
+          "grammar": {
+            "type": "Ism - Relative Pronoun",
+            "gender": "Masculine plural",
+            "practical": "'Alladhīna' = those who. Describes the exceptional group who escape the curse. Who are they? Those who do three things (coming next)..."
+          }
+        },
+        {
+          "arabic": "تَابُوا",
+          "transliteration": "tābū",
+          "translation": "repented",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb",
+            "root": "ت-و-ب (t-w-b) - to repent, to return",
+            "form": "Form I",
+            "person": "Third person masculine plural",
+            "tense": "Past",
+            "reason": "First condition to escape curse - REPENT! The 'ū' shows plural. Past tense shows completed action.",
+            "practical": "From tawbah (repentance/returning to Allah). 'Tābū' = they repented, they turned back (to Allah). The 'ū' = they (plural). This is the FIRST step: genuine repentance in the heart! Regret what you did, stop doing it, resolve never to return. Tawbah means RETURNING to Allah after straying. You concealed truth? First step: repent sincerely!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Adds second condition - not just repent, but ALSO..."
+          }
+        },
+        {
+          "arabic": "أَصْلَحُوا",
+          "transliteration": "aṣlaḥū",
+          "translation": "corrected / reformed / made right",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb",
+            "root": "ص-ل-ح (ṣ-l-ḥ) - to be righteous, to reform, to make right",
+            "form": "Form IV (if'āl) - causative",
+            "person": "Third person masculine plural",
+            "reason": "Second condition - reform yourself and your actions. Form IV = cause righteousness, make things right.",
+            "practical": "From ṣalāḥ (righteousness). Form IV 'aṣlaḥa' = to reform, to make right, to correct, to rectify. 'Aṣlaḥū' = they reformed/corrected. This is the SECOND step: after internal repentance, EXTERNAL reform! Fix what you broke. Change your behavior. Replace bad with good. If you were concealing truth, start living righteously! Tawbah alone isn't enough - you must also reform your life!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Adds third condition - the most specific one for concealers..."
+          }
+        },
+        {
+          "arabic": "بَيَّنُوا",
+          "transliteration": "bayyanū",
+          "translation": "made clear / clarified / explained",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb",
+            "root": "ب-ي-ن (b-y-n) - to clarify, to explain",
+            "form": "Form II (taf'īl) - intensive",
+            "person": "Third person masculine plural",
+            "reason": "Third condition - CLARIFY what you previously hid! Form II shows intensive clarification. The 'ū' = they did it.",
+            "practical": "Form II 'bayyana' = to clarify thoroughly, to make clear, to explain. 'Bayyanū' = they clarified, they made clear. This is the THIRD and most important step for those who concealed knowledge: PUBLICLY CLARIFY what you hid! You concealed truth? Now REVEAL it! You hid verses about the Prophet ﷺ? Now PROCLAIM them! This is the specific remedy for the specific sin. Beautiful justice: you hid clear signs? Repent + reform + CLARIFY those signs! The three conditions are comprehensive: (1) inner change (tawbah), (2) outer change (iṣlāḥ), (3) specific repair (bayān). Do all three!"
+          }
+        },
+        {
+          "arabic": "فَأُو۟لَـٰٓئِكَ",
+          "transliteration": "fa'ulā'ika",
+          "translation": "then those",
+          "grammar": {
+            "type": "Harf + Ism - Conjunction + Demonstrative",
+            "components": "fa (then/so) + ulā'ika (those)",
+            "reason": "'Fa' shows the RESULT of fulfilling the three conditions. 'Ulā'ika' points to them: THOSE people (who did all three).",
+            "practical": "'Fa' = then/so (showing result). 'Ulā'ika' = those. Together: 'Then THOSE people...' This is the answer: if they do those three things, THEN what? The reward/response comes next. Allah is pointing to them: THESE people who repented, reformed, and clarified - watch what I do for them!"
+          }
+        },
+        {
+          "arabic": "أَتُوبُ",
+          "transliteration": "atūbu",
+          "translation": "I will accept repentance / I will turn (in mercy)",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (in future meaning)",
+            "root": "ت-و-ب (t-w-b) - to repent, to turn",
+            "form": "Form I",
+            "person": "First person singular (I)",
+            "tense": "Present with future meaning",
+            "reason": "Allah's response - I will accept their tawbah! The 'a-' prefix shows first person (I). When Allah 'makes tawbah' on someone, it means He accepts their repentance and forgives them.",
+            "practical": "From tawbah. 'Atūbu' = I turn (in mercy), I accept repentance. The 'a-' = I (first person singular). This is ALLAH speaking directly! 'I will accept their repentance!' When human makes tawbah TO Allah, Allah makes tawbah ON the human (accepts and forgives them). SubhanAllah - what mercy! After you repent, reform, and clarify, Allah Himself says: 'I accept your tawbah!' Direct promise from the Creator!"
+          }
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "transliteration": "'alayhim",
+          "translation": "upon them / to them",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "'alā + him (them)",
+            "practical": "''Alayhim' = upon them, to them. Shows who receives Allah's acceptance - THEM! 'Atūbu 'alayhim' = I accept repentance upon them = I forgive them, I turn to them in mercy!"
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Introduces Allah's self-description - confirming His nature."
+          }
+        },
+        {
+          "arabic": "أَنَا",
+          "transliteration": "ana",
+          "translation": "I",
+          "grammar": {
+            "type": "Ism - Pronoun (Separated Pronoun)",
+            "person": "First person singular",
+            "reason": "Emphatic 'I' - Allah emphasizing He's about to describe Himself with two Names.",
+            "practical": "'Anā' = I (emphatic). Allah is emphasizing: 'I AM...' followed by two divine attributes. This isn't just 'I accept your tawbah' but 'I AM the One whose NATURE is to accept tawbah!' It's who He IS!"
+          }
+        },
+        {
+          "arabic": "ٱلتَّوَّابُ",
+          "transliteration": "at-tawwāb",
+          "translation": "the Accepter of Repentance / the Oft-Forgiving",
+          "grammar": {
+            "type": "Ism - Intensive Divine Name (Ṣifah Mushabbahah)",
+            "root": "ت-و-ب (t-w-b) - to repent",
+            "form": "Intensive exaggeration pattern: fa''āl",
+            "case": "Nominative (marfū') - as predicate",
+            "reason": "First Divine Name - He is At-Tawwāb, the One who CONSTANTLY, REPEATEDLY accepts repentance.",
+            "practical": "'At-Tawwāb' = the Oft-Returning (in mercy), the Acceptor of Repentance. The pattern 'fa''āl' (like 'tawwāb') shows EXTREME intensity and repetition! Not just 'tā'ib' (one who accepts), but 'TAWWĀB' - He accepts repentance AGAIN and AGAIN and AGAIN! No matter how many times you sin and repent, He keeps accepting! The 'al' makes it THE divine attribute. This is His NAME - it's who He IS! You sin? Repent! He's At-Tawwāb - His door is always open!"
+          }
+        },
+        {
+          "arabic": "ٱلرَّحِيمُ",
+          "transliteration": "ar-raḥīm",
+          "translation": "the Merciful / the Especially Merciful",
+          "grammar": {
+            "type": "Ism - Intensive Divine Name",
+            "root": "ر-ح-م (r-ḥ-m) - to have mercy",
+            "form": "Intensive pattern: fa'īl",
+            "case": "Nominative (marfū') - as second predicate",
+            "reason": "Second Divine Name - He is Ar-Raḥīm, the Especially Merciful. Emphasizes His mercy toward those who repent.",
+            "practical": "'Ar-Raḥīm' = the Merciful, the Especially Merciful to believers. From raḥmah (mercy). The pattern 'fa'īl' shows intensity - INTENSE mercy! While 'Ar-Raḥmān' (Most Merciful) is His mercy to all creation, 'Ar-Raḥīm' is His SPECIAL mercy to believers, to those who repent, to His devoted servants! Beautiful ending: He's TAWWĀB (keeps accepting repentance) + RAḤĪM (shows special mercy). Both names of hope and comfort! The verse ends with pure mercy after starting with curse. The door of repentance is always open!"
+          }
+        }
+      ]
+    }
+  ]
+}
