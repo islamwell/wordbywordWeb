@@ -4,6 +4,7 @@
 */
 import React, {useState, useEffect, useRef, useCallback, useMemo} from 'react';
 import ReactDOM from 'react-dom/client';
+import { saveWordToAirtable, isAirtableConfigured, getSyncStatus } from './airtable';
 
 const THEMES = {
     dark: { bg: 'linear-gradient(135deg, #232526, #414345)' },
@@ -515,6 +516,8 @@ function App() {
   const [isInitialLoad, setIsInitialLoad] = useState(true);
   const [isSurahSelectorOpen, setSurahSelectorOpen] = useState(false);
   const [shareMessage, setShareMessage] = useState('');
+  const [syncStatus, setSyncStatus] = useState<'idle' | 'syncing' | 'success' | 'error'>('idle');
+  const [syncMessage, setSyncMessage] = useState('');
 
   // Admin panel form state
   const [adminSelectedAyah, setAdminSelectedAyah] = useState(1);
@@ -692,7 +695,8 @@ function App() {
     alert(`Tafseer override saved for Surah ${surahData.surahNumber}, Ayah ${adminSelectedAyah}`);
   };
 
-  const handleSaveWordAnalysis = (surahNum, ayahIndex, wordIndex, updatedWord) => {
+  const handleSaveWordAnalysis = async (surahNum, ayahIndex, wordIndex, updatedWord) => {
+    // Save locally first
     setAllSurahData(prevData => {
         const newData = JSON.parse(JSON.stringify(prevData));
         try {
@@ -702,6 +706,31 @@ function App() {
         }
         return newData;
     });
+
+    // Save to Airtable if configured
+    if (isAirtableConfigured()) {
+      setSyncStatus('syncing');
+      setSyncMessage('Syncing to Airtable...');
+
+      const ayahNumber = allSurahData[surahNum]?.ayat[ayahIndex]?.ayahNumber || ayahIndex + 1;
+      const result = await saveWordToAirtable(surahNum, ayahNumber, wordIndex, updatedWord);
+
+      if (result.success) {
+        setSyncStatus('success');
+        setSyncMessage('✓ Synced to Airtable');
+        setTimeout(() => {
+          setSyncStatus('idle');
+          setSyncMessage('');
+        }, 3000);
+      } else {
+        setSyncStatus('error');
+        setSyncMessage(`✗ Sync failed: ${result.error || 'Unknown error'}`);
+        setTimeout(() => {
+          setSyncStatus('idle');
+          setSyncMessage('');
+        }, 5000);
+      }
+    }
   };
   
   if (isEditorOpen) {
@@ -808,6 +837,16 @@ function App() {
               <div>
                 <button onClick={() => setAdminPanelOpen(p => !p)}>Tafsir URL</button>
                 <button onClick={() => setEditorOpen(true)}>Word Editor</button>
+                {syncMessage && (
+                  <span className={`sync-status sync-status-${syncStatus}`} style={{ marginLeft: '10px', fontSize: '14px' }}>
+                    {syncMessage}
+                  </span>
+                )}
+                {isAirtableConfigured() && (
+                  <span className="airtable-indicator" style={{ marginLeft: '10px', fontSize: '12px', color: '#10b981' }}>
+                    📊 Airtable enabled
+                  </span>
+                )}
               </div>
           </fieldset>
         </div>
