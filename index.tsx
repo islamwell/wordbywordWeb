@@ -5,6 +5,9 @@
 import React, {useState, useEffect, useRef, useCallback, useMemo} from 'react';
 import ReactDOM from 'react-dom/client';
 import { saveWordToAirtable, isAirtableConfigured, getSyncStatus } from './airtable';
+import { AuthModal } from './src/AuthModal';
+import { onAuthChange, logout, getCurrentUser, isFirebaseConfigured } from './src/firebase';
+import type { User } from 'firebase/auth';
 
 const THEMES = {
     dark: { bg: 'linear-gradient(135deg, #232526, #414345)' },
@@ -509,6 +512,8 @@ function App() {
   const [shareMessage, setShareMessage] = useState('');
   const [syncStatus, setSyncStatus] = useState<'idle' | 'syncing' | 'success' | 'error'>('idle');
   const [syncMessage, setSyncMessage] = useState('');
+  const [currentUser, setCurrentUser] = useState<User | null>(null);
+  const [isAuthModalOpen, setAuthModalOpen] = useState(false);
 
   // Admin panel form state
   const [adminSelectedAyah, setAdminSelectedAyah] = useState(1);
@@ -543,6 +548,22 @@ function App() {
         return part;
     });
   }, [arabicFontSize]);
+
+  // Listen for authentication state changes
+  useEffect(() => {
+    if (!isFirebaseConfigured()) return;
+
+    const unsubscribe = onAuthChange((user) => {
+      setCurrentUser(user);
+      if (user) {
+        console.log('User signed in:', user.email);
+      } else {
+        console.log('User signed out');
+      }
+    });
+
+    return () => unsubscribe();
+  }, []);
 
   // Load state from localStorage on initial mount
   useEffect(() => {
@@ -723,7 +744,39 @@ function App() {
       }
     }
   };
-  
+
+  const handleOpenEditor = () => {
+    // Check if Firebase is configured
+    if (!isFirebaseConfigured()) {
+      // If Firebase not configured, allow editing without auth (backward compatibility)
+      setEditorOpen(true);
+      return;
+    }
+
+    // Check if user is authenticated
+    if (!currentUser) {
+      // Show auth modal if not logged in
+      setAuthModalOpen(true);
+      return;
+    }
+
+    // User is authenticated, open editor
+    setEditorOpen(true);
+  };
+
+  const handleLogout = async () => {
+    const result = await logout();
+    if (result.success) {
+      setCurrentUser(null);
+      setEditorOpen(false);
+    }
+  };
+
+  const handleAuthSuccess = () => {
+    // User successfully authenticated, now open the editor
+    setEditorOpen(true);
+  };
+
   if (isEditorOpen) {
     return <EditorPage 
         allSurahData={allSurahData} 
@@ -734,7 +787,12 @@ function App() {
 
   return (
     <>
-      <SurahSelector 
+      <AuthModal
+        isOpen={isAuthModalOpen}
+        onClose={() => setAuthModalOpen(false)}
+        onAuthSuccess={handleAuthSuccess}
+      />
+      <SurahSelector
         isOpen={isSurahSelectorOpen}
         onClose={() => setSurahSelectorOpen(false)}
         onSelect={handleSelectSurah}
@@ -742,6 +800,20 @@ function App() {
       />
       <div className={`container font-${arabicFont}`}>
         <header>
+            {isFirebaseConfigured() && currentUser && (
+              <div className="user-status-bar">
+                <div className="user-info">
+                  <div className="user-avatar">
+                    {currentUser.displayName ? currentUser.displayName.charAt(0).toUpperCase() : currentUser.email?.charAt(0).toUpperCase()}
+                  </div>
+                  <div className="user-details">
+                    <div className="user-name">{currentUser.displayName || 'User'}</div>
+                    <div className="user-email">{currentUser.email}</div>
+                  </div>
+                </div>
+                <button className="btn-logout" onClick={handleLogout}>Logout</button>
+              </div>
+            )}
             <button className="ayah-header-button" onClick={() => setSurahSelectorOpen(true)}>
               <h3>Surah {surahData.surahName} (Ayah {currentAyah.ayahNumber})</h3>
               <svg className="chevron-down" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
@@ -827,7 +899,7 @@ function App() {
               <legend>Settings</legend>
               <div>
                 <button onClick={() => setAdminPanelOpen(p => !p)}>Tafsir URL</button>
-                <button onClick={() => setEditorOpen(true)}>Word Editor</button>
+                <button onClick={handleOpenEditor}>Word Editor</button>
                 {syncMessage && (
                   <span className={`sync-status sync-status-${syncStatus}`} style={{ marginLeft: '10px', fontSize: '14px' }}>
                     {syncMessage}
