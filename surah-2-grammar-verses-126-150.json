@@ -1,0 +1,924 @@
+{
+  "surah": 2,
+  "name": "Al-Baqarah (The Cow)",
+  "verses": [
+    {
+      "verse": 126,
+      "arabic": "وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "transliteration": "Wa idh qāla Ibrāhīmu Rabbi-j'al hādhā baladan āminan warzuq ahlahu mina ath-thamarāti man āmana minhum billāhi wal-yawmi al-ākhiri qāla wa man kafara fa-umatti'uhu qalīlan thumma adṭarruhu ilā 'adhābi an-nāri wa bi'sa al-maṣīr",
+      "translation": "And when Abraham said, 'My Lord, make this a secure city and provide its people with fruits - whoever of them believes in Allah and the Last Day.' Allah said, 'And whoever disbelieves - I will grant him enjoyment for a little; then I will force him to the punishment of the Fire, and wretched is the destination.'",
+      "words": [
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction (Harf 'Aṭf)",
+            "root": "N/A - Particle",
+            "function": "Connects this narrative to the previous context",
+            "reason": "Links this story of Ibrahim's prayer to the broader narrative of the Prophets and Allah's covenant.",
+            "practical": "The simple word for 'and'. It connects this verse to what came before, continuing the story of Prophet Ibrahim (Abraham). When you see 'wa' at the start of a verse, it signals continuation of a theme or narrative. It's like saying 'And remember when...' connecting the dots in the Quran's message."
+          }
+        },
+        {
+          "arabic": "إِذْ",
+          "transliteration": "idh",
+          "translation": "when / remember when",
+          "grammar": {
+            "type": "Harf - Adverb of Time (Ẓarf Zamān)",
+            "root": "N/A - Time particle",
+            "function": "Points to a specific moment in the past",
+            "reason": "Introduces a past event that we should remember and reflect upon. 'Idh' directs our attention to a significant moment in history.",
+            "practical": "Means 'when' or 'remember when' - it takes you back to a specific moment in time. When Allah uses 'idh' in the Quran, He's saying 'Remember that time when...' It makes the past event vivid and relevant to us now. This word is telling us to recall and reflect on what Ibrahim did."
+          }
+        },
+        {
+          "arabic": "قَالَ",
+          "transliteration": "qāla",
+          "translation": "he said",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "ق-و-ل (q-w-l) - to say, to speak",
+            "form": "Form I - Basic form",
+            "person": "Third person masculine singular",
+            "tense": "Past tense",
+            "reason": "Describes a completed action of speaking in the past. The subject (Ibrahim) will be mentioned next.",
+            "practical": "From the root q-w-l meaning 'to say'. 'Qāla' is the past tense: 'he said'. This is one of the most common words in the Quran because it introduces direct speech. The pattern 'fa'ala' (قَالَ) is the standard Form I past tense for 'he did'. When you see 'qāla', expect a quotation to follow - someone's actual words are about to be shared."
+          }
+        },
+        {
+          "arabic": "إِبْرَٰهِۦمُ",
+          "transliteration": "Ibrāhīmu",
+          "translation": "Ibrahim / Abraham",
+          "grammar": {
+            "type": "Ism - Proper Noun (Subject/Fā'il)",
+            "root": "N/A - Prophet's name",
+            "case": "Nominative (marfū') - indicated by dammah (u)",
+            "gender": "Masculine",
+            "reason": "This is the subject (doer) of the verb 'qāla'. The 'u' ending shows it's in the nominative case, which all subjects take.",
+            "practical": "The blessed name of Prophet Ibrahim (Abraham), peace be upon him. Ends in 'u' (Ibrāhīmu) because he's the subject - the one doing the saying. Remember: subjects in Arabic always get the 'u' sound (dammah). This is the Quranic pronunciation of Abraham's name, preserving how it was said in Arabic. The alif maqṣūrah (ى) in the middle adds the long 'ā' sound."
+          }
+        },
+        {
+          "arabic": "رَبِّ",
+          "transliteration": "Rabbi",
+          "translation": "My Lord",
+          "grammar": {
+            "type": "Ism - Vocative Noun (Munādā)",
+            "root": "ر-ب-ب (r-b-b) - to nourish, to sustain, to be lord",
+            "case": "Genitive form with attached pronoun (ī = my)",
+            "function": "Calling upon Allah in prayer",
+            "reason": "Used when directly addressing Allah. The 'ī' at the end is the first person possessive pronoun 'my'. When calling upon Allah, Arabs often drop the vocative particle 'yā' due to closeness.",
+            "practical": "'Rabb' means Lord, Master, Sustainer, Nourisher. The 'ī' makes it 'my Lord' (Rabbī). When making du'a (supplication), we call upon Allah as 'Rabbi' - acknowledging He is our Lord and we are His servants. The 'i' ending (kasra) comes from combining 'Rabb' with 'ī' (my). This intimate form of address shows Ibrahim's close relationship with Allah. The doubled 'b' (shadda) strengthens the meaning."
+          }
+        },
+        {
+          "arabic": "ٱجْعَلْ",
+          "transliteration": "ij'al",
+          "translation": "make / establish",
+          "grammar": {
+            "type": "Fi'l - Imperative Verb (Fi'l Amr)",
+            "root": "ج-ع-ل (j-'-l) - to make, to establish, to appoint",
+            "form": "Form I imperative (command form)",
+            "person": "Second person masculine singular (You)",
+            "reason": "This is a command form, but when directed to Allah, it's actually a humble request/supplication, not an order. In prayer, the imperative form expresses hope and need.",
+            "practical": "From ja'ala (to make/establish). 'Ij'al' is the command form: 'Make!' But in du'a to Allah, it means 'Please make' or 'Grant that You make'. The sukūn (no vowel) at the end marks it as imperative. This word is powerful in prayer - asking Allah to CREATE or ESTABLISH something. Ibrahim is humbly requesting Allah to establish security. Note: imperatives in supplication show urgency and sincerity, not disrespect."
+          }
+        },
+        {
+          "arabic": "هَٰذَا",
+          "transliteration": "hādhā",
+          "translation": "this",
+          "grammar": {
+            "type": "Ism - Demonstrative Pronoun (Ism Ishārah)",
+            "root": "N/A - Demonstrative particle",
+            "gender": "Masculine",
+            "function": "Points to something near - the place where Ibrahim was (Makkah)",
+            "reason": "Points to the location where Ibrahim was standing when making this prayer. 'Hādhā' is for nearby, visible things.",
+            "practical": "Means 'this' - pointing to something close and specific. Ibrahim is pointing to the land around him (Makkah). 'Hādhā' is used for masculine things near you. The alif after the hā gives the long 'ā' sound. When making du'a for a place, you can use 'hādhā' to point to it specifically. This makes the prayer very concrete and specific."
+          }
+        },
+        {
+          "arabic": "بَلَدًا",
+          "transliteration": "baladan",
+          "translation": "a city / a land",
+          "grammar": {
+            "type": "Ism - Noun (Second Object/Maf'ūl bihi thānī)",
+            "root": "ب-ل-د (b-l-d) - land, country, city",
+            "case": "Accusative (manṣūb) - ends in 'an' (tanwīn fatha)",
+            "gender": "Masculine",
+            "reason": "This is the second object of 'ij'al' (make). The verb 'ja'ala' can take two objects: make THIS (hādhā) a CITY (baladan). The tanwīn 'an' shows it's indefinite accusative.",
+            "practical": "Means 'a city' or 'a land'. The 'an' ending (double fatha/tanwīn) has two jobs: 1) Shows it's accusative (receiving the action), 2) Makes it indefinite ('a' city, not 'the' city). So 'baladan' = 'a city'. Ibrahim is asking Allah to transform this barren valley into an established city. The 'an' sound is super common in objects - listen for it when reading Quran."
+          }
+        },
+        {
+          "arabic": "ءَامِنًۭا",
+          "transliteration": "āminan",
+          "translation": "secure / safe",
+          "grammar": {
+            "type": "Ism - Adjective (Ṣifah)",
+            "root": "أ-م-ن (a-m-n) - to be safe, to be secure",
+            "case": "Accusative (manṣūb) - ends in 'an'",
+            "gender": "Masculine",
+            "form": "Active participle (Ism Fā'il)",
+            "reason": "Describes 'baladan' (a city). Adjectives must match their nouns in case, gender, and definiteness. Since 'baladan' is accusative, indefinite, and masculine, 'āminan' must be too.",
+            "practical": "Means 'secure' or 'safe'. From the same root as 'īmān' (faith) and 'amīn' (trustworthy). The 'an' ending matches 'baladan' because adjectives copy the noun they describe. Together 'baladan āminan' = 'a secure city'. Beautiful: Ibrahim prays for both physical security AND spiritual security (through faith). When an adjective comes right after a noun with the same ending, it's describing that noun."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds another request to the prayer",
+            "practical": "Ibrahim is adding a second request: 'Make this secure AND provide sustenance.' The 'wa' builds his supplication."
+          }
+        },
+        {
+          "arabic": "ٱرْزُقْ",
+          "transliteration": "urzuq",
+          "translation": "provide / grant provision",
+          "grammar": {
+            "type": "Fi'l - Imperative Verb (Fi'l Amr)",
+            "root": "ر-ز-ق (r-z-q) - to provide, to grant sustenance",
+            "form": "Form I imperative",
+            "person": "Second person (You - Allah)",
+            "reason": "Another request in Ibrahim's prayer. Asking Allah to provide sustenance for the people of this future city.",
+            "practical": "From the root r-z-q meaning 'to provide sustenance/provision'. 'Urzuq' = 'Provide!' or in du'a, 'Please provide'. Rizq includes all provision - food, wealth, blessings. Ibrahim shows balance: he asks for security (safety) AND sustenance (provision). A complete prayer addresses both protection and provision. The 'u' at the beginning is characteristic of imperative verbs from this pattern."
+          }
+        },
+        {
+          "arabic": "أَهْلَهُۥ",
+          "transliteration": "ahlahu",
+          "translation": "its people / its inhabitants",
+          "grammar": {
+            "type": "Ism - Noun with Pronoun (Direct Object/Maf'ūl bihi)",
+            "root": "أ-ه-ل (a-h-l) - family, people, inhabitants",
+            "case": "Accusative (manṣūb) - indicated by fatha",
+            "components": "ahl (people) + hu (its/it, referring to the city)",
+            "reason": "The direct object of 'urzuq' - WHO should be provided for. The pronoun 'hu' refers back to 'baladan' (the city).",
+            "practical": "'Ahl' means people, family, or inhabitants. 'Hu' is the possessive pronoun 'its'. Together: 'its people/inhabitants'. The 'a' in 'ahla' shows it's accusative (object being provided for). The full pronoun is 'hu' but when connected to a word ending in 'a', it sounds like 'ahu'. Ibrahim isn't just praying for buildings - he's praying for the PEOPLE who will live there. This shows his concern and foresight."
+          }
+        },
+        {
+          "arabic": "مِنَ",
+          "transliteration": "mina",
+          "translation": "from / of",
+          "grammar": {
+            "type": "Harf - Preposition (Harf Jarr)",
+            "root": "N/A - Particle",
+            "function": "Shows the source or origin of something",
+            "reason": "Indicates where the provision will come FROM. Makes the following noun genitive.",
+            "practical": "'Min' means 'from' - showing origin or source. It answers: 'Provide them from WHERE?' From the fruits. Prepositions like 'min' always make the next word end in 'i' sound (genitive case). This is a key pattern to remember in Arabic grammar."
+          }
+        },
+        {
+          "arabic": "ٱلثَّمَرَٰتِ",
+          "transliteration": "ath-thamarāti",
+          "translation": "the fruits",
+          "grammar": {
+            "type": "Ism - Noun (Majrūr - governed by preposition)",
+            "root": "ث-م-ر (th-m-r) - fruit, result, benefit",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'mina'",
+            "gender": "Feminine",
+            "number": "Plural",
+            "reason": "The preposition 'min' makes this word genitive. Specifies WHAT provision - fruits and produce.",
+            "practical": "Means 'the fruits' or 'produce'. From thamara (fruit/result). The 'i' ending (thamarāti) is because 'min' makes it genitive. The 'āt' in the middle shows feminine plural. Remarkable: this barren valley (Makkah) had no fruits, yet Ibrahim prayed for Allah to provide fruits. His prayer was answered - Makkah became a trade center where fruits from everywhere came! True rizq isn't just what grows locally, but what Allah provides by any means."
+          }
+        },
+        {
+          "arabic": "مَنْ",
+          "transliteration": "man",
+          "translation": "whoever / those who",
+          "grammar": {
+            "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+            "root": "N/A - Relative pronoun",
+            "function": "Introduces a condition or description of people",
+            "reason": "Specifies WHICH of the people should receive provision - those who believe. Can also mean 'whoever'.",
+            "practical": "'Man' means 'whoever' or 'those who'. It introduces a description or condition. Here Ibrahim specifies: provide for THOSE WHO believe. This shows priorities - believers deserve special provision. 'Man' is super versatile - it can refer to one person or many, male or female, as long as they're human. What follows 'man' defines who you're talking about."
+          }
+        },
+        {
+          "arabic": "ءَامَنَ",
+          "transliteration": "āmana",
+          "translation": "believes / has believed",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "أ-م-ن (a-m-n) - to believe, to have faith",
+            "form": "Form I - basic form",
+            "person": "Third person masculine singular",
+            "tense": "Past tense (but with timeless meaning after 'man')",
+            "reason": "Describes the action of believing. After 'man', past tense often has a general timeless meaning: 'whoever believes' (past, present, or future).",
+            "practical": "From the root a-m-n (believe/have faith). 'Āmana' = 'he believed'. But after 'man', it means 'whoever believes' (general). Notice this is the same root as 'āminan' (secure) earlier! Security and belief are connected - true security comes through faith. The fatha vowels (a-a-a) are characteristic of Form I past tense pattern."
+          }
+        },
+        {
+          "arabic": "مِنْهُم",
+          "transliteration": "minhum",
+          "translation": "from them / among them",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "min (from/among) + hum (them)",
+            "reason": "Clarifies that the believers are AMONG the inhabitants, not all of them. Some will believe, some won't.",
+            "practical": "'Min' (from/among) + 'hum' (them) = 'minhum' (among them). This specifies: whoever believes FROM AMONG the people. Realistic: not everyone in the city will believe. The sukūn on 'min' and the 'hum' combine smoothly. This teaches us to pray specifically and wisely - Ibrahim asks provision for believers specifically, acknowledging diversity in every community."
+          }
+        },
+        {
+          "arabic": "بِٱللَّهِ",
+          "transliteration": "billāhi",
+          "translation": "in Allah",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Divine Name",
+            "components": "bi (in/with) + Allah (the Divine Name)",
+            "case": "Genitive (majrūr) - ends in 'i'",
+            "reason": "The preposition 'bi' shows what/who they believe IN. Essential for the verb 'āmana' - you believe IN something.",
+            "practical": "'Bi' (in/with) + 'Allāh' = 'billāhi' (in Allah). The 'bi' shows the object of belief - believing IN Allah. The 'i' at the end is because 'bi' makes the following word genitive. The 'al' of 'Allah' merges with 'bi' to form 'billāh'. This is the core of faith: belief in Allah. Notice 'Allāhi' (with kasra) instead of 'Allāhu' - the preposition changed the case."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds the second article of faith",
+            "practical": "Connects two objects of belief: belief in Allah AND belief in the Last Day. Both are essential."
+          }
+        },
+        {
+          "arabic": "ٱلْيَوْمِ",
+          "transliteration": "al-yawmi",
+          "translation": "the Day",
+          "grammar": {
+            "type": "Ism - Noun (Maṭūf - coordinated noun)",
+            "root": "ي-و-م (y-w-m) - day",
+            "case": "Genitive (majrūr) - ends in 'i'",
+            "reason": "Coordinated with 'Allāhi' through 'wa'. Both are genitive after the preposition 'bi'. Shares the same grammatical position.",
+            "practical": "'Yawm' means 'day'. The 'i' ending (yawmi) shows it's genitive, matching 'Allāhi'. Together with the next word, this means 'the Last Day'. Core belief: belief in Allah AND the Day of Judgment. These two beliefs are always paired in the Quran - they're inseparable. When you see 'al-yawm' expect an adjective to specify which day."
+          }
+        },
+        {
+          "arabic": "ٱلْءَاخِرِ",
+          "transliteration": "al-ākhiri",
+          "translation": "the Last / the Final",
+          "grammar": {
+            "type": "Ism - Adjective (Ṣifah)",
+            "root": "أ-خ-ر (a-kh-r) - last, final, end",
+            "case": "Genitive (majrūr) - ends in 'i', matching 'al-yawmi'",
+            "gender": "Masculine",
+            "reason": "Describes 'al-yawm' (the Day). Adjectives must match their nouns in case (genitive), gender (masculine), and definiteness (definite with 'al').",
+            "practical": "Means 'the Last' or 'the Final'. Together: 'al-yawmi al-ākhir' = 'the Last Day' (Day of Judgment). The 'i' ending matches 'yawmi' because adjectives copy their nouns. This is one of the most important beliefs in Islam - that there's a final day of accountability. The Quran constantly pairs belief in Allah with belief in the Last Day to remind us: we'll meet Him and answer for our deeds."
+          }
+        },
+        {
+          "arabic": "قَالَ",
+          "transliteration": "qāla",
+          "translation": "He said",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "ق-و-ل (q-w-l) - to say",
+            "person": "Third person masculine singular (Allah)",
+            "tense": "Past tense",
+            "reason": "Introduces Allah's response to Ibrahim's prayer. Same verb as earlier, but now Allah is speaking.",
+            "practical": "Same word as before: 'he said' or 'He said' (when referring to Allah). After Ibrahim's prayer, Allah responds. This shows us prayers are heard and answered! The pattern of du'a and response teaches us about conversing with Allah. Notice the shift: Ibrahim spoke, now Allah speaks. The Quran is a dialogue between Creator and creation."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds an additional category in Allah's response",
+            "practical": "Allah is saying: I'll provide for believers, AND ALSO for those who disbelieve (but with a different outcome)."
+          }
+        },
+        {
+          "arabic": "مَن",
+          "transliteration": "man",
+          "translation": "whoever",
+          "grammar": {
+            "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+            "function": "Introduces the second category - disbelievers",
+            "reason": "Parallels the earlier 'man āmana' (whoever believes). Now: 'man kafara' (whoever disbelieves).",
+            "practical": "Same 'man' (whoever) as before, but now for the opposite group. Allah's response is comprehensive: He addresses both believers AND disbelievers. This shows Allah's perfect knowledge and justice - He provides for both, but with different ultimate outcomes."
+          }
+        },
+        {
+          "arabic": "كَفَرَ",
+          "transliteration": "kafara",
+          "translation": "disbelieves / rejects",
+          "grammar": {
+            "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+            "root": "ك-ف-ر (k-f-r) - to disbelieve, to reject faith, to be ungrateful",
+            "form": "Form I",
+            "person": "Third person masculine singular",
+            "tense": "Past (timeless meaning after 'man')",
+            "reason": "Describes the opposite of 'āmana' (believed). After 'man', means 'whoever disbelieves'.",
+            "practical": "From k-f-r meaning to disbelieve or reject faith. 'Kafara' = 'he disbelieved'. The root also means to cover/hide - a disbeliever covers the truth. After 'man', this means 'whoever disbelieves'. Notice the balance: āmana (believed) vs. kafara (disbelieved). The same pattern (fa'ala), different roots, opposite meanings. Allah acknowledges both groups exist."
+          }
+        },
+        {
+          "arabic": "فَ",
+          "transliteration": "fa",
+          "translation": "then / so",
+          "grammar": {
+            "type": "Harf - Conjunction indicating result (Harf 'Aṭf)",
+            "root": "N/A - Particle",
+            "function": "Shows consequence or result",
+            "reason": "'Fa' means 'so' or 'then' - introducing the result or consequence of disbelieving.",
+            "practical": "'Fa' means 'so' or 'then' - it shows result or sequence. Different from 'wa' (and). 'Fa' implies: 'because they disbelieved, SO/THEN this will happen'. It's a cause-and-effect connector. When you see 'fa', expect a consequence or next step. Here: 'whoever disbelieves, SO/THEN I will grant him temporary enjoyment...'"
+          }
+        },
+        {
+          "arabic": "أُمَتِّعُهُۥ",
+          "transliteration": "umatti'uhu",
+          "translation": "I will grant him enjoyment / I will let him enjoy",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri') with Pronoun",
+            "root": "م-ت-ع (m-t-') - to give enjoyment, to provide pleasure/benefit",
+            "form": "Form II (taf'īl) - intensive/causative form",
+            "person": "First person singular (I - Allah speaking)",
+            "tense": "Present/future",
+            "components": "umatti'u (I grant enjoyment) + hu (him)",
+            "reason": "Allah speaking in first person, describing what He will do. The 'u' at the beginning indicates first person. The doubled middle letter (tt) shows Form II intensification. The 'hu' is the object - him.",
+            "practical": "From m-t-' meaning to enjoy or benefit. Form II 'umatti'u' = 'I will grant enjoyment/pleasure'. The 'u' beginning shows 'I' (Allah). The shadda (doubling) on the 't' makes it Form II - intensive form: 'I will REALLY let him enjoy'. The 'hu' at the end = 'him'. One word in Arabic = 3-4 words in English! Allah promises even disbelievers get worldly provision - this is His mercy and justice. Everyone gets their test."
+          }
+        },
+        {
+          "arabic": "قَلِيلًۭا",
+          "transliteration": "qalīlan",
+          "translation": "a little / for a little while",
+          "grammar": {
+            "type": "Ism - Adverb/Noun (Ẓarf or Maf'ūl Muṭlaq)",
+            "root": "ق-ل-ل (q-l-l) - to be little, to be few",
+            "case": "Accusative (manṣūb) - ends in 'an'",
+            "function": "Describes the extent or duration - a limited amount",
+            "reason": "Limits the enjoyment - it's temporary, not eternal. The 'an' ending shows it's functioning as an adverb of extent.",
+            "practical": "Means 'a little' or 'for a little while'. From qalīl (little/few). The 'an' ending makes it accusative, functioning as an adverb describing HOW MUCH enjoyment - only a little. This is key: the enjoyment is 'qalīlan' - brief and limited. Life is short. The worldly pleasures are temporary. This word puts everything in perspective - even if disbelievers seem to prosper, it's only 'qalīlan' compared to eternity."
+          }
+        },
+        {
+          "arabic": "ثُمَّ",
+          "transliteration": "thumma",
+          "translation": "then / thereafter",
+          "grammar": {
+            "type": "Harf - Conjunction indicating sequence (Harf 'Aṭf)",
+            "root": "N/A - Particle",
+            "function": "Shows sequence with a gap or contrast",
+            "reason": "'Thumma' means 'then' but implies a delay or significant transition. Different from 'fa' (immediate consequence).",
+            "practical": "'Thumma' means 'then' or 'after that', but with a sense of delay or contrast. Different from 'fa' (immediate). Here it shows: FIRST temporary enjoyment in this life, THEN (after death) the consequences. The gap between 'thumma' clauses makes it dramatic. It's like: 'first this... BUT THEN...' The contrast makes the second part more striking. A short life of pleasure, THEN eternal consequences."
+          }
+        },
+        {
+          "arabic": "أَضْطَرُّهُۥٓ",
+          "transliteration": "adṭarruhu",
+          "translation": "I will force him / I will compel him",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri') with Pronoun",
+            "root": "ض-ط-ر (ḍ-ṭ-r) - to compel, to force, to drive to necessity",
+            "form": "Form I but with unique pattern",
+            "person": "First person singular (I - Allah)",
+            "tense": "Present/future",
+            "components": "adṭarru (I force) + hu (him)",
+            "reason": "Continues Allah's first-person speech. Describes forceful compulsion - no escape. The 'a' beginning marks first person present tense.",
+            "practical": "From ḍ-ṭ-r meaning to force or compel out of necessity. 'Adṭarru' = 'I will force/compel'. The 'a' at the start shows 'I' (first person). The doubling of 'r' (shadda) intensifies: strong compulsion, no choice. The 'hu' = 'him'. Together: 'I will force him'. Powerful word: adṭarru means to compel someone who has no choice, driven by necessity. After a brief life of choice, comes inevitable accountability. No one can escape Allah's justice."
+          }
+        },
+        {
+          "arabic": "إِلَىٰ",
+          "transliteration": "ilā",
+          "translation": "to / toward",
+          "grammar": {
+            "type": "Harf - Preposition (Harf Jarr)",
+            "root": "N/A - Particle",
+            "function": "Shows direction or destination",
+            "reason": "Indicates WHERE they will be forced to - toward the punishment. Makes the following noun genitive.",
+            "practical": "'Ilā' means 'to' or 'toward' - showing direction or destination. It answers: forced TO WHERE? To the punishment. Like 'min' (from), the preposition 'ilā' makes the next word genitive (ending in 'i'). Common in Quran to show spiritual or physical direction. This word marks the destination - and it's not pleasant for those who rejected faith."
+          }
+        },
+        {
+          "arabic": "عَذَابِ",
+          "transliteration": "'adhābi",
+          "translation": "punishment / torment",
+          "grammar": {
+            "type": "Ism - Noun (Muḍāf - first part of possessive construction)",
+            "root": "ع-ذ-ب ('-dh-b) - to punish, to torment",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'ilā'",
+            "gender": "Masculine",
+            "reason": "The preposition 'ilā' makes it genitive. This is also the first part of an iḍāfa (possessive): 'punishment OF the Fire'.",
+            "practical": "Means 'punishment' or 'torment'. From '-dh-b (to punish). The 'i' ending is for two reasons: 1) the preposition 'ilā', 2) it's in an iḍāfa construction (possessive). When a word is in the middle (after a preposition, before another noun), it gets 'i'. The word is indefinite, but the iḍāfa will define it: 'punishment of the Fire' (specific punishment). Serious consequence after rejecting truth."
+          }
+        },
+        {
+          "arabic": "ٱلنَّارِ",
+          "transliteration": "an-nāri",
+          "translation": "the Fire",
+          "grammar": {
+            "type": "Ism - Noun (Muḍāf ilayhi - second part of possessive construction)",
+            "root": "ن-و-ر (n-w-r) or ن-ء-ر - fire, flame",
+            "case": "Genitive (majrūr) - ends in 'i'",
+            "gender": "Feminine",
+            "reason": "Second part of iḍāfa (possessive construction). Always takes genitive case. Defines which punishment - the punishment OF the Fire (Hellfire).",
+            "practical": "'Nār' means fire. The 'i' ending (nāri) shows it's genitive - second noun in possessive construction. Together: 'adhābi an-nāri' = 'punishment OF the Fire'. The 'al' makes it definite: THE Fire (Hellfire, Jahannam). When you see two nouns in a row, often the second defines/possesses the first: punishment OF the Fire. The iḍāfa creates powerful, specific meanings. Here: the ultimate punishment - Hellfire itself."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds a concluding statement about the destination",
+            "practical": "Introduces a final comment about how terrible this destination is."
+          }
+        },
+        {
+          "arabic": "بِئْسَ",
+          "transliteration": "bi'sa",
+          "translation": "wretched is / evil is / how terrible is",
+          "grammar": {
+            "type": "Fi'l - Verb of Blame (Fi'l Dhamm)",
+            "root": "ب-ء-س (b-'-s) - to be bad, to be wretched",
+            "form": "Special form for expressions of blame/praise",
+            "function": "Expresses strong condemnation",
+            "reason": "'Bi'sa' is a unique verb form used only for expressing blame or criticism. It's always in this form and is followed by what's being condemned.",
+            "practical": "'Bi'sa' is a special word meaning 'how terrible!' or 'how wretched!' It's used to express strong condemnation. This is one of the 'verbs of praise and blame' in Arabic - fixed expressions. 'Bi'sa' + noun = 'What a terrible [noun]!' Opposite is 'ni'ma' (how excellent!). Here it emphasizes: that destination (Hellfire) is THE WORST possible destination. Fixed phrase used throughout the Quran to condemn evil things."
+          }
+        },
+        {
+          "arabic": "ٱلْمَصِيرُ",
+          "transliteration": "al-maṣīru",
+          "translation": "the destination / the final abode / the return",
+          "grammar": {
+            "type": "Ism - Noun (Subject of 'bi'sa'/Fā'il)",
+            "root": "ص-ي-ر (ṣ-y-r) - to become, to end up, to return",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "gender": "Masculine",
+            "form": "Noun of place/result (maf'il pattern)",
+            "reason": "The subject being condemned by 'bi'sa'. Must be definite (with 'al') and nominative. Represents the Fire as a destination.",
+            "practical": "From ṣ-y-r meaning to become/return. 'Maṣīr' means destination, final abode, or where you end up. The 'u' ending shows it's the subject (nominative). Together: 'bi'sa al-maṣīr' = 'What a terrible destination!' This is a common Quranic phrase condemning Hellfire. The word 'maṣīr' reminds us: we all have a final destination (ma- prefix often indicates place). Where we end up depends on our choices in this life. Powerful ending to the verse."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 127,
+      "arabic": "وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transliteration": "Wa idh yarfa'u Ibrāhīmu al-qawā'ida mina al-bayti wa Ismā'īlu rabbanā taqabbal minnā innaka anta as-samī'u al-'alīm",
+      "translation": "And when Abraham was raising the foundations of the House and Ishmael, [saying], 'Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.'",
+      "words": [
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction (Harf 'Aṭf)",
+            "root": "N/A - Particle",
+            "function": "Connects to the previous narrative",
+            "practical": "Continues the story of Ibrahim. Links his prayer for provision with the actual building of the Ka'bah."
+          }
+        },
+        {
+          "arabic": "إِذْ",
+          "transliteration": "idh",
+          "translation": "when",
+          "grammar": {
+            "type": "Harf - Adverb of Time (Ẓarf Zamān)",
+            "root": "N/A - Time particle",
+            "function": "Points to another significant moment",
+            "reason": "Introduces the scene of Ibrahim and Isma'il building the Ka'bah.",
+            "practical": "Again 'idh' - 'remember when'. Calls us to recall this sacred moment when the Ka'bah's foundations were raised."
+          }
+        },
+        {
+          "arabic": "يَرْفَعُ",
+          "transliteration": "yarfa'u",
+          "translation": "he raises / was raising",
+          "grammar": {
+            "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+            "root": "ر-ف-ع (r-f-') - to raise, to elevate, to lift up",
+            "form": "Form I",
+            "person": "Third person masculine singular",
+            "tense": "Present (with past meaning after 'idh')",
+            "reason": "After 'idh', present tense creates a vivid, ongoing scene - as if we're watching it happen. Called historical present.",
+            "practical": "From rafa'a (to raise/elevate). 'Yarfa'u' = 'he raises'. The 'ya-' beginning shows third person masculine. After 'idh', this present tense makes the past vivid: 'when he WAS raising' - like watching it unfold. This pattern makes Quranic narratives come alive. The 'u' ending shows nominative/indicative mood."
+          }
+        },
+        {
+          "arabic": "إِبْرَٰهِۦمُ",
+          "transliteration": "Ibrāhīmu",
+          "translation": "Ibrahim",
+          "grammar": {
+            "type": "Ism - Proper Noun (Subject/Fā'il)",
+            "root": "N/A - Prophet's name",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "reason": "Subject of the verb 'yarfa'u'. The doer of the raising.",
+            "practical": "Prophet Ibrahim is the subject - he's the one raising the foundations. The 'u' ending marks him as the doer (fā'il)."
+          }
+        },
+        {
+          "arabic": "ٱلْقَوَاعِدَ",
+          "transliteration": "al-qawā'ida",
+          "translation": "the foundations",
+          "grammar": {
+            "type": "Ism - Noun (Direct Object/Maf'ūl bihi)",
+            "root": "ق-ع-د (q-'-d) - to sit, to settle, to be based",
+            "case": "Accusative (manṣūb) - ends in 'a'",
+            "gender": "Feminine",
+            "number": "Plural",
+            "reason": "Direct object of 'yarfa'u' - WHAT is being raised. Takes accusative case.",
+            "practical": "From qa'ada (to sit/settle). 'Qawā'id' means foundations, bases, or pillars. The 'a' ending shows it's the object being raised. Interesting: from the same root as 'qa'ada' (to sit) - foundations are what the building 'sits' on. The pattern 'fawā'il' is a common feminine plural form. These are the foundations of the Ka'bah - the most sacred building on earth."
+          }
+        },
+        {
+          "arabic": "مِنَ",
+          "transliteration": "mina",
+          "translation": "of / from",
+          "grammar": {
+            "type": "Harf - Preposition (Harf Jarr)",
+            "root": "N/A - Particle",
+            "function": "Shows which foundations - specifying the source",
+            "practical": "'Min' here means 'of' - the foundations OF the House. Clarifies which foundations they're raising."
+          }
+        },
+        {
+          "arabic": "ٱلْبَيْتِ",
+          "transliteration": "al-bayti",
+          "translation": "the House",
+          "grammar": {
+            "type": "Ism - Noun (Majrūr)",
+            "root": "ب-ي-ت (b-y-t) - house, home, dwelling",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+            "gender": "Masculine",
+            "reason": "THE House means the Ka'bah. Genitive after the preposition 'min'.",
+            "practical": "'Bayt' means house. With 'al' (the House), it specifically means the Ka'bah - Allah's House. The 'i' ending is from the preposition 'min'. When the Quran says 'al-Bayt' (THE House), it always means the Ka'bah. This is the House of Allah, the qiblah for all Muslims, being built by Ibrahim and Isma'il."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds another subject doing the same action",
+            "practical": "Introduces the second person helping build: Isma'il joins Ibrahim in this sacred task."
+          }
+        },
+        {
+          "arabic": "إِسْمَٰعِيلُ",
+          "transliteration": "Ismā'īlu",
+          "translation": "Ishmael",
+          "grammar": {
+            "type": "Ism - Proper Noun (Ma'ṭūf - coordinated subject)",
+            "root": "N/A - Prophet's name",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "reason": "Coordinated with 'Ibrāhīmu' through 'wa'. Both are subjects of 'yarfa'u' - both raising the foundations together.",
+            "practical": "Prophet Isma'il (Ishmael), son of Ibrahim. The 'u' ending matches 'Ibrāhīmu' because he's also a subject. Beautiful: father and son working together to build Allah's House. The 'wa' makes them joint subjects - they're both raising the foundations. This cooperation in worship is a powerful lesson."
+          }
+        },
+        {
+          "arabic": "رَبَّنَا",
+          "transliteration": "rabbanā",
+          "translation": "Our Lord",
+          "grammar": {
+            "type": "Ism - Vocative Noun (Munādā) with Pronoun",
+            "root": "ر-ب-ب (r-b-b) - to nourish, to sustain",
+            "components": "rabb (Lord) + nā (our)",
+            "case": "Vocative with first person plural possessive",
+            "reason": "Calling upon Allah. The 'nā' shows both Ibrahim and Isma'il calling together: OUR Lord.",
+            "practical": "'Rabb' (Lord) + 'nā' (our) = 'Our Lord'. While building physically, they're also building spiritually through du'a. Notice the shift from 'Rabbī' (my Lord) to 'Rabbanā' (our Lord) - father and son praying together. The 'a' ending comes from the combination. This shows the unity of prophets in worship and supplication."
+          }
+        },
+        {
+          "arabic": "تَقَبَّلْ",
+          "transliteration": "taqabbal",
+          "translation": "accept",
+          "grammar": {
+            "type": "Fi'l - Imperative Verb (Fi'l Amr)",
+            "root": "ق-ب-ل (q-b-l) - to accept, to receive",
+            "form": "Form V (tafa''ala pattern)",
+            "person": "Second person (You - Allah)",
+            "reason": "Their humble request: please accept this work. Form V implies seeking and requesting acceptance.",
+            "practical": "From qabila (to accept). Form V 'taqabbal' = 'Please accept'. The doubled middle letter (bb with shadda) shows Form V, which here means to seek acceptance. Even while building the Ka'bah, they humbly ask Allah to accept it. Powerful lesson: doing good deeds isn't enough - we need Allah's acceptance. The sukūn at the end marks imperative form. This is the essence of humility in worship."
+          }
+        },
+        {
+          "arabic": "مِنَّآ",
+          "transliteration": "minnā",
+          "translation": "from us",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "min (from) + nā (us)",
+            "reason": "Accept FROM US. The source of this offering to Allah.",
+            "practical": "'Min' (from) + 'nā' (us) = 'minnā' (from us). When 'min' combines with 'nā', the 'n' doubles (shown by shadda). Accept this work FROM US. They're offering their labor, their sweat, their devotion - asking Allah to accept it from them. Beautiful adab (manners): they don't assume acceptance, they humbly request it. Even prophets needed to ask for acceptance!"
+          }
+        },
+        {
+          "arabic": "إِنَّكَ",
+          "transliteration": "innaka",
+          "translation": "Indeed You",
+          "grammar": {
+            "type": "Harf + Ism - Emphasis Particle + Pronoun",
+            "components": "inna (indeed) + ka (you)",
+            "reason": "Emphasizes the statement about Allah's attributes. 'Inna' + pronoun makes it accusative: 'innaka' (indeed You).",
+            "practical": "'Inna' (indeed) + 'ka' (you) = 'innaka' (indeed You). The emphasis particle gives strength to what follows. They're explaining WHY they ask Allah: because of His perfect attributes. The 'ka' refers to Allah. When 'inna' attaches to pronouns, it creates forms like 'innaka' (indeed you), 'innahu' (indeed he/it), 'innanā' (indeed we)."
+          }
+        },
+        {
+          "arabic": "أَنتَ",
+          "transliteration": "anta",
+          "translation": "You",
+          "grammar": {
+            "type": "Ism - Separate Pronoun (Ḍamīr Munfaṣil)",
+            "root": "N/A - Pronoun",
+            "function": "Emphatic - emphasizes 'You alone'",
+            "reason": "Adds extra emphasis: Indeed You - YOU ALONE are the Hearing, the Knowing.",
+            "practical": "'Anta' means 'you' (singular, masculine). It's a separate/independent pronoun used for emphasis. After 'innaka' (already 'you'), adding 'anta' gives double emphasis: 'Indeed YOU - YOU ALONE'. This emphasizes Allah's unique, perfect attributes. No one else truly hears and knows like Allah. This redundancy is deliberate emphasis in Arabic eloquence."
+          }
+        },
+        {
+          "arabic": "ٱلسَّمِيعُ",
+          "transliteration": "as-samī'u",
+          "translation": "the All-Hearing",
+          "grammar": {
+            "type": "Ism - Divine Attribute (Khabar/Predicate)",
+            "root": "س-م-ع (s-m-') - to hear",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "form": "Intensive form (fa'īl pattern)",
+            "gender": "Masculine",
+            "reason": "Predicate describing Allah's attribute. The intensive pattern 'fa'īl' means One who hears everything perfectly.",
+            "practical": "From sami'a (to hear). The pattern 'samī' (fa'īl) is intensive: not just 'hearer' but 'the All-Hearing, the One who hears everything'. The 'u' ending shows it's the predicate (khabar) in nominative. Why mention this here? Because they just made du'a, and Allah is as-Samī' - He hears every supplication. This is one of Allah's 99 Names. The 'īl pattern emphasizes perfection in the attribute."
+          }
+        },
+        {
+          "arabic": "ٱلْعَلِيمُ",
+          "transliteration": "al-'alīmu",
+          "translation": "the All-Knowing",
+          "grammar": {
+            "type": "Ism - Divine Attribute (Khabar/Predicate)",
+            "root": "ع-ل-م ('-l-m) - to know",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "form": "Intensive form (fa'īl pattern)",
+            "gender": "Masculine",
+            "reason": "Second predicate, coordinated with 'as-Samī'u'. Both describe Allah.",
+            "practical": "From 'alima (to know). The pattern 'alīm' (fa'īl) is intensive: the All-Knowing, Omniscient. The 'u' ending matches 'as-Samī'u'. Together: You are the All-Hearing (of our words), the All-Knowing (of our intentions). Perfect pair: Allah knows what we say AND what's in our hearts. Both use the intensive 'fa'īl pattern, showing perfection. These two Names are often paired in the Quran - emphasizing Allah's complete awareness."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 128,
+      "arabic": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "transliteration": "Rabbanā waj'alnā muslimayni laka wa min dhurriyyatinā ummatan muslimatan laka wa arinā manāsikanā wa tub 'alaynā innaka anta at-tawwābu ar-raḥīm",
+      "translation": "Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites and accept our repentance. Indeed, You are the Accepting of repentance, the Merciful.",
+      "words": [
+        {
+          "arabic": "رَبَّنَا",
+          "transliteration": "rabbanā",
+          "translation": "Our Lord",
+          "grammar": {
+            "type": "Ism - Vocative Noun (Munādā)",
+            "root": "ر-ب-ب (r-b-b)",
+            "components": "rabb (Lord) + nā (our)",
+            "practical": "They continue their supplication: 'Our Lord'. The prayer goes on - building the House wasn't the end goal, but a means to build faith and righteousness for generations."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "function": "Adds another request to their ongoing prayer",
+            "practical": "Continues their du'a with more requests. Good du'a includes multiple needs and hopes."
+          }
+        },
+        {
+          "arabic": "ٱجْعَلْنَا",
+          "transliteration": "ij'alnā",
+          "translation": "make us",
+          "grammar": {
+            "type": "Fi'l - Imperative Verb with Pronoun",
+            "root": "ج-ع-ل (j-'-l) - to make",
+            "form": "Imperative",
+            "components": "ij'al (make) + nā (us)",
+            "reason": "Request for transformation: make US into Muslims. The 'nā' is the object pronoun.",
+            "practical": "'Ij'al' (make) + 'nā' (us) = 'make us'. Even though they're already believers, they ask Allah to MAKE them Muslims - showing humility. We don't make ourselves righteous; Allah does through His guidance. The sukūn on 'ij'al' + 'nā' creates this beautiful compact form. Profound: even prophets ask Allah to make them Muslim (submissive to Allah)!"
+          }
+        },
+        {
+          "arabic": "مُسْلِمَيْنِ",
+          "transliteration": "muslimayni",
+          "translation": "Muslims / those who submit",
+          "grammar": {
+            "type": "Ism - Noun/Adjective (Second Object/Ḥāl)",
+            "root": "س-ل-م (s-l-m) - to be safe, to submit, to be at peace",
+            "case": "Accusative (manṣūb) - ends in 'ayni'",
+            "number": "Dual",
+            "form": "Active participle (Ism Fā'il)",
+            "reason": "Second object of 'ij'al' - make us INTO Muslims. The dual form 'ayni' indicates two people: Ibrahim and Isma'il.",
+            "practical": "From aslama (to submit). 'Muslim' means one who submits to Allah. The 'ayni' ending is DUAL form: two Muslims - Ibrahim and Isma'il. In Arabic: singular muslim, dual muslimayni, plural muslimūn/muslimīn. The 'ayni' ending shows both accusative case AND dual number. This is the first time 'Muslim' appears in the Quran! The word means 'one who submits/surrenders to Allah'. Beautiful irony: the builders of the Ka'bah humbly ask to be made Muslims."
+          }
+        },
+        {
+          "arabic": "لَكَ",
+          "transliteration": "laka",
+          "translation": "to You",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "li (to/for) + ka (you)",
+            "reason": "Specifies the direction of submission: submission TO You (Allah), not to anyone/anything else.",
+            "practical": "'Li' (to/for) + 'ka' (you) = 'laka' (to You). Muslims TO YOU - submission exclusively to Allah. The 'li' shows the goal or beneficiary. Make us Muslims BELONGING TO You, submitting TO You alone. This little word is crucial - it defines tawhīd (pure monotheism). Submission to Allah alone, not to desires, people, or false gods."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Adds their next request - now thinking beyond themselves to their descendants."
+          }
+        },
+        {
+          "arabic": "مِن",
+          "transliteration": "min",
+          "translation": "from",
+          "grammar": {
+            "type": "Harf - Preposition",
+            "root": "N/A",
+            "function": "Shows source - from among our descendants",
+            "practical": "'Min' (from) introduces the source: FROM our descendants. They're thinking generationally!"
+          }
+        },
+        {
+          "arabic": "ذُرِّيَّتِنَآ",
+          "transliteration": "dhurriyyatinā",
+          "translation": "our descendants / our offspring",
+          "grammar": {
+            "type": "Ism - Noun with Pronoun (Majrūr)",
+            "root": "ذ-ر-ء (dh-r-') - to create, to scatter",
+            "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+            "components": "dhurriyya (offspring) + nā (our)",
+            "reason": "After 'min', takes genitive. The 'nā' shows possession: OUR offspring.",
+            "practical": "'Dhurriyya' means descendants, offspring, progeny. The 'i' (dhurriyyati) is because of 'min'. Adding 'nā' makes it 'our descendants'. The word originally comes from 'to scatter' - children spread out from parents. Profound prayer: they ask not just for themselves, but for future generations! Every parent should make this du'a. The 'ti' before 'nā' appears when feminine nouns take possessive pronouns."
+          }
+        },
+        {
+          "arabic": "أُمَّةًۭ",
+          "transliteration": "ummatan",
+          "translation": "a nation / a community",
+          "grammar": {
+            "type": "Ism - Noun (Object/Maf'ūl bihi)",
+            "root": "أ-م-م (a-m-m) - to go, to intend; related to mother (umm)",
+            "case": "Accusative (manṣūb) - ends in 'an'",
+            "gender": "Feminine",
+            "reason": "Object of the implied verb 'waj'al' (and make). Make FROM our descendants a nation. The 'an' shows indefinite accusative.",
+            "practical": "'Umma' means nation, community, or group of people. The 'an' ending makes it 'a nation' (indefinite). Related to 'umm' (mother) - a nation is like a family writ large. They're asking: from our descendants, raise up A NATION of Muslims. This prayer was answered: the Arab Muslims, and through them, the global Muslim ummah! The tanwīn 'an' shows they don't specify the size - any Muslim community from their descendants."
+          }
+        },
+        {
+          "arabic": "مُّسْلِمَةًۭ",
+          "transliteration": "muslimatan",
+          "translation": "Muslim / submissive",
+          "grammar": {
+            "type": "Ism - Adjective (Ṣifah)",
+            "root": "س-ل-م (s-l-m)",
+            "case": "Accusative (manṣūb) - ends in 'an', matching 'ummatan'",
+            "gender": "Feminine",
+            "form": "Active participle",
+            "reason": "Describes 'ummatan' - WHAT KIND of nation? A Muslim nation. Must match in case (accusative), gender (feminine), and definiteness (indefinite).",
+            "practical": "Feminine form of 'muslim' - 'muslima'. With tanwīn: 'muslimatan' = 'a Muslim (feminine)'. Matches 'ummatan' (feminine noun) in all grammatical features. Together: 'ummatan muslimatan' = 'a Muslim nation'. Notice: for Ibrahim and Isma'il they used dual masculine 'muslimayni', for the nation they use feminine singular 'muslimatan' (because 'umma' is feminine singular). Arabic adjectives must perfectly match their nouns!"
+          }
+        },
+        {
+          "arabic": "لَّكَ",
+          "transliteration": "laka",
+          "translation": "to You",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "li + ka",
+            "practical": "Again 'laka' (to You) - emphasizing that this nation too must submit exclusively to Allah. Repetition for emphasis: both we AND our descendants submit to You alone."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Adds another request - now for knowledge of worship."
+          }
+        },
+        {
+          "arabic": "أَرِنَا",
+          "transliteration": "arinā",
+          "translation": "show us",
+          "grammar": {
+            "type": "Fi'l - Imperative Verb with Pronoun",
+            "root": "ر-أ-ي (r-'-y) - to see",
+            "form": "Form IV (if'āl) imperative",
+            "components": "ari (show) + nā (us)",
+            "reason": "Form IV of ra'ā means 'to show, to make see'. Request for Allah to show them the rituals.",
+            "practical": "From ra'ā (to see). Form IV 'arā' means 'to show' or 'to make see'. Imperative 'ari' + 'nā' (us) = 'show us'. They're asking for divine instruction: O Allah, SHOW us how to worship! Even prophets ask Allah to teach them. This humility and seeking knowledge is essential. Form IV turns 'to see' into 'to make see' (causative). We need Allah to show us the right way of worship."
+          }
+        },
+        {
+          "arabic": "مَنَاسِكَنَا",
+          "transliteration": "manāsikanā",
+          "translation": "our rites / our rituals",
+          "grammar": {
+            "type": "Ism - Noun with Pronoun (Direct Object)",
+            "root": "ن-س-ك (n-s-k) - to worship, to perform rituals",
+            "case": "Accusative (manṣūb) - object of 'arinā'",
+            "number": "Plural",
+            "components": "manāsik (rites) + nā (our)",
+            "reason": "Direct object - WHAT should be shown. The 'nā' shows possession: OUR rites.",
+            "practical": "'Manāsik' (plural of 'mansak') means rites, rituals, acts of worship - especially Hajj rituals. The accusative case (object being shown). Adding 'nā' makes it 'our rites'. Beautiful: show us OUR rites - the rites You have decreed for us. This prayer was answered - Allah taught Ibrahim the Hajj rituals through revelation! The 'ma-' prefix often indicates place or instrument. These rituals were first shown here at this House they built."
+          }
+        },
+        {
+          "arabic": "وَ",
+          "transliteration": "wa",
+          "translation": "and",
+          "grammar": {
+            "type": "Harf - Conjunction",
+            "practical": "Final request in this verse - for forgiveness and repentance."
+          }
+        },
+        {
+          "arabic": "تُبْ",
+          "transliteration": "tub",
+          "translation": "accept repentance / turn",
+          "grammar": {
+            "type": "Fi'l - Imperative Verb (Fi'l Amr)",
+            "root": "ت-و-ب (t-w-b) - to return, to repent",
+            "form": "Form I imperative",
+            "person": "Second person (You - Allah)",
+            "reason": "Request for Allah to accept their repentance and turn to them with mercy.",
+            "practical": "From tāba (to return, to repent). 'Tub' = 'turn (to us with mercy)' or 'accept repentance'. The sukūn ending marks imperative. When we say 'tub 'alaynā', we're asking Allah to turn to us with forgiveness and mercy. Beautiful concept: tawba is turning - we turn to Allah in repentance, and ask Allah to turn to us with mercy. Prophets constantly seek tawba despite their perfection - teaching us to always seek forgiveness."
+          }
+        },
+        {
+          "arabic": "عَلَيْنَآ",
+          "transliteration": "'alaynā",
+          "translation": "upon us / to us",
+          "grammar": {
+            "type": "Harf + Ism - Preposition + Pronoun",
+            "components": "'alā (upon/to) + nā (us)",
+            "reason": "Shows the direction of Allah's mercy: turn TO US, upon US.",
+            "practical": "''Alā' (upon/to) + 'nā' (us) = ''alaynā' (upon us). When 'alā' combines with 'nā', it becomes ''alaynā'. The 'ay' comes from combining ''alā' with pronoun. 'Tub 'alaynā' = 'turn to us with mercy/forgiveness'. This preposition ''alā' shows Allah's mercy descending UPON us from above. We ask for His mercy to come down upon us."
+          }
+        },
+        {
+          "arabic": "إِنَّكَ",
+          "transliteration": "innaka",
+          "translation": "Indeed You",
+          "grammar": {
+            "type": "Harf + Ism - Emphasis Particle + Pronoun",
+            "components": "inna + ka",
+            "practical": "Again 'innaka' (Indeed You) - emphasizing Allah's attributes as the basis for their request."
+          }
+        },
+        {
+          "arabic": "أَنتَ",
+          "transliteration": "anta",
+          "translation": "You",
+          "grammar": {
+            "type": "Ism - Separate Pronoun",
+            "function": "Extra emphasis",
+            "practical": "'Anta' (You) for emphasis: You ALONE have these perfect attributes."
+          }
+        },
+        {
+          "arabic": "ٱلتَّوَّابُ",
+          "transliteration": "at-tawwābu",
+          "translation": "the Oft-Returning / the Accepter of Repentance",
+          "grammar": {
+            "type": "Ism - Divine Attribute (Khabar)",
+            "root": "ت-و-ب (t-w-b)",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "form": "Intensive form (fa''āl pattern)",
+            "reason": "Describes Allah's attribute. The 'fa''āl pattern shows intensive, repeated action.",
+            "practical": "From tāba (to return). The pattern 'tawwāb' (fa''āl) is super intensive: the One who CONSTANTLY accepts repentance, who REPEATEDLY turns to His servants with mercy. Not just 'accepter' but 'THE Oft-Returning, the One who accepts repentance again and again'. The doubled 'w' (shadda) shows the intensive Form. One of Allah's 99 Names. No matter how many times we slip, at-Tawwāb is always ready to accept sincere repentance!"
+          }
+        },
+        {
+          "arabic": "ٱلرَّحِيمُ",
+          "transliteration": "ar-raḥīmu",
+          "translation": "the Merciful",
+          "grammar": {
+            "type": "Ism - Divine Attribute (Khabar)",
+            "root": "ر-ح-م (r-ḥ-m) - mercy",
+            "case": "Nominative (marfū') - ends in 'u'",
+            "form": "Intensive form (fa'īl pattern)",
+            "reason": "Second attribute paired with at-Tawwāb.",
+            "practical": "From raḥima (to have mercy). The pattern 'raḥīm' (fa'īl) is intensive: the All-Merciful, the Most Merciful. The 'u' ending matches 'at-Tawwābu'. Together: at-Tawwāb ar-Raḥīm - the One who accepts repentance AND shows tremendous mercy. Perfect pairing: He accepts our turning to Him, and treats us with mercy. This is one of Allah's most frequently mentioned Names - ar-Raḥīm appears 114 times in the Quran!"
+          }
+        }
+      ]
+    }
+  ]
+}

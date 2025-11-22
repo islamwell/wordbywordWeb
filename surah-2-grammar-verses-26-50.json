@@ -1,0 +1,1275 @@
+[
+  {
+    "verse": 26,
+    "arabic": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۘ يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+    "transliteration": "Inna Allāha lā yastaḥyī an yaḍriba mathalan mā ba'ūḍatan famā fawqahā fa-ammā alladhīna āmanū faya'lamūna annahu al-ḥaqqu min rabbihim wa ammā alladhīna kafarū fayaqūlūna mādhā arāda Allāhu bihādhā mathalan yuḍillu bihi kathīran wa yahdī bihi kathīran wa mā yuḍillu bihi illā al-fāsiqīn",
+    "translation": "Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it. Those who believe know that it is the truth from their Lord. But those who disbelieve say, 'What did Allah intend by this as an example?' He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient",
+    "words": [
+      {
+        "arabic": "إِنَّ",
+        "transliteration": "Inna",
+        "translation": "Indeed / Verily",
+        "grammar": {
+          "type": "Harf - Emphasizing Particle (Inna wa Akhawātuhā)",
+          "root": "N/A - Particle",
+          "function": "Emphasizes and affirms the sentence",
+          "effect": "Makes the subject accusative (manṣūb) and requires a predicate",
+          "reason": "'Inna' is one of the emphasis particles that strengthens statements. It transforms the sentence structure, putting the noun that follows into the accusative case.",
+          "practical": "'Inna' means 'indeed' or 'verily' - it emphasizes what comes after. This is one of the famous 'Inna and its sisters' (inna wa akhawātuhā) that change grammar rules. When you see 'inna', expect: 1) Strong emphasis, 2) The next noun will have a fatha ending (accusative). It's like saying 'It is DEFINITELY the case that...' Use this when you want to make a powerful, undeniable statement in Arabic."
+        }
+      },
+      {
+        "arabic": "اللَّهَ",
+        "transliteration": "Allāha",
+        "translation": "Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun (subject of Inna/Ism Inna)",
+          "root": "N/A - Divine name",
+          "case": "Accusative (manṣūb) - ends in 'a' due to 'inna'",
+          "reason": "This is the subject of the sentence but in accusative case because 'inna' requires its subject to be manṣūb. Normally subjects are nominative, but 'inna' changes this rule.",
+          "practical": "The blessed name of Allah. Notice it ends in 'a' (Allāha) instead of 'u' (Allāhu) because of the 'inna' before it. This is the key rule of inna: it makes the subject accusative. Compare: 'Allāhu karīm' (Allah is generous) vs 'Inna Allāha karīm' (Indeed Allah is generous). See how the name changes from -u to -a? The shadda (double mark) on the 'l' is unique to this divine name."
+        }
+      },
+      {
+        "arabic": "لَا",
+        "transliteration": "lā",
+        "translation": "not / does not",
+        "grammar": {
+          "type": "Harf - Negation Particle (Harf Nafy)",
+          "root": "N/A - Particle",
+          "function": "Negates the verb that follows",
+          "reason": "Negates the action of the verb. When 'lā' comes before a present tense verb, it creates a negative statement.",
+          "practical": "Simple negation word meaning 'not' or 'does not'. When you see 'lā' before a present tense verb (starting with ya- or ta-), it negates that action. Here it negates 'yastaḥyī' (to be shy/timid), so together it means 'does not become shy' or 'is not timid'."
+        }
+      },
+      {
+        "arabic": "يَسْتَحْيِي",
+        "transliteration": "yastaḥyī",
+        "translation": "to be shy / to be timid",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ح-ي-ي (ḥ-y-y) - to live, to be ashamed, to be shy",
+          "form": "Form X (istaf'ala pattern) - seeking or considering something",
+          "person": "Third person masculine singular (He)",
+          "tense": "Present tense",
+          "reason": "Form X verbs indicate seeking or deeming something. Here it means to consider something as causing shyness or to deem it beneath one's dignity. The 'ya-' beginning shows third person masculine.",
+          "practical": "From the root ḥ-y-y (life/modesty). Form X (istaḥyā) means 'to feel shy about' or 'to deem beneath oneself out of modesty'. The pattern 'yasta...' is Form X present tense. Notice the double 'y' at the end - this is characteristic of this root. The meaning: Allah doesn't consider any example too small or insignificant to use as a teaching tool. Even a mosquito can carry profound lessons! Form X often means 'to seek' or 'to consider' something."
+        }
+      },
+      {
+        "arabic": "أَن",
+        "transliteration": "an",
+        "translation": "to / that",
+        "grammar": {
+          "type": "Harf - Infinitive Particle (Ḥarf Maṣdarī)",
+          "root": "N/A - Particle",
+          "function": "Makes the following verb into an infinitive (verbal noun)",
+          "effect": "Puts the verb after it into the subjunctive mood (manṣūb)",
+          "reason": "'An' transforms verbs into infinitive forms, allowing them to act as the object of another verb. Here it creates 'to strike an example' as the object of 'is shy about'.",
+          "practical": "This tiny word 'an' is powerful - it turns verbs into infinitives (the 'to...' form). After 'an', the verb goes into subjunctive mood. Here: 'yastaḥyī an yaḍriba' = 'is shy TO strike/present'. Think of 'an' like 'to' in English: 'He wants TO go' - 'an' does this job. The verb after 'an' subtly changes its ending. This is crucial for making complex sentences in Arabic."
+        }
+      },
+      {
+        "arabic": "يَضْرِبَ",
+        "transliteration": "yaḍriba",
+        "translation": "to strike / to present / to set forth",
+        "grammar": {
+          "type": "Fi'l - Present Subjunctive Verb (Fi'l Muḍāri' Manṣūb)",
+          "root": "ض-ر-ب (ḍ-r-b) - to strike, to hit, to set forth",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine singular (He)",
+          "mood": "Subjunctive (manṣūb) - due to 'an'",
+          "reason": "In the subjunctive mood because of the preceding 'an'. The verb ḍ-r-b has many meanings; with 'mathal' (example) it means 'to strike/set forth an example'.",
+          "practical": "From the root ḍ-r-b meaning 'to strike'. But with 'mathal' (example), the idiom 'ḍaraba mathalan' means 'to set forth an example' or 'to present a parable'. Notice the 'a' ending (yaḍribA) instead of 'u' (yaḍribU) - this shows subjunctive mood caused by 'an'. The same root can mean: to strike, to travel, to set forth, depending on context. Here: 'to present/give an example'. Arabic roots are versatile!"
+        }
+      },
+      {
+        "arabic": "مَثَلًا",
+        "transliteration": "mathalan",
+        "translation": "an example / a parable",
+        "grammar": {
+          "type": "Ism - Noun (direct object/maf'ūl bihi)",
+          "root": "م-ث-ل (m-th-l) - to resemble, to be like",
+          "case": "Accusative (manṣūb) - ends in 'an' with tanwīn",
+          "gender": "Masculine",
+          "reason": "The direct object of 'yaḍriba' (to strike/present). Objects take accusative case with fatha. The tanwīn (double sound) makes it indefinite: 'an example' (any example).",
+          "practical": "Means 'example', 'parable', or 'similitude'. The 'an' ending (tanwīn fatha) makes it indefinite and accusative - it's the thing being presented. From root m-th-l (to resemble). Together 'ḍaraba mathalan' is a set phrase meaning 'to give an example'. The tanwīn emphasizes: 'ANY example', no matter how small. Remember: tanwīn makes nouns indefinite ('a/an' in English)."
+        }
+      },
+      {
+        "arabic": "مَّا",
+        "transliteration": "mā",
+        "translation": "what / whatever",
+        "grammar": {
+          "type": "Ism - Relative Pronoun/Particle",
+          "root": "N/A - Pronoun",
+          "function": "Adds vagueness or emphasis - 'whatever it may be'",
+          "reason": "Used here as an indefinite relative pronoun to add vagueness or generality to the example. It emphasizes that the specific example doesn't matter.",
+          "practical": "This 'mā' adds a sense of 'whatever' or vagueness. It softens the specificity - meaning 'some example' or 'whatever example'. When 'mā' comes after an indefinite noun with tanwīn, it adds emphasis and generality: 'some kind of example, whatever it might be'. This makes the statement more universal - Allah can use ANY example, no matter what. The shadda (stress mark) shows it's connected closely to the previous word."
+        }
+      },
+      {
+        "arabic": "بَعُوضَةً",
+        "transliteration": "ba'ūḍatan",
+        "translation": "a mosquito",
+        "grammar": {
+          "type": "Ism - Noun (specification/badal or 'aṭf bayān)",
+          "root": "ب-ع-ض (b-'-ḍ) - related to small flying insects",
+          "case": "Accusative (manṣūb) - ends in 'atan' with tanwīn",
+          "gender": "Feminine (ta marbūṭa ending)",
+          "reason": "This specifies what kind of example - clarifying that even something as small as a mosquito. The accusative case matches 'mathalan' as an appositive or specification.",
+          "practical": "Means 'mosquito' - one of the smallest, most humble creatures. The 'atan' ending shows: 1) It's feminine (the round ta), 2) It's accusative (fatha), 3) It's indefinite (tanwīn). Why mention a mosquito? To show that Allah doesn't shy away from using even the tiniest creation as an example carrying deep wisdom. The word structure: ba'ūḍ- (root) + -a (feminine marker) + -tan (indefinite accusative). Even something tiny can teach huge lessons!"
+        }
+      },
+      {
+        "arabic": "فَمَا",
+        "transliteration": "famā",
+        "translation": "or what / or whatever",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Relative Pronoun",
+          "components": "fa (then/so) + mā (what)",
+          "function": "Continues the specification, adding 'or what/whatever'",
+          "reason": "The 'fa' adds continuity, and 'mā' refers to something else. Together: 'or whatever else...'",
+          "practical": "'Fa' means 'then/so/or' and adds connection. 'Mā' means 'what/whatever'. Combined: 'or whatever...' This continues the example - not just a mosquito, but even something else... The 'fa' here has a role of adding alternatives: 'X or Y'. Think of it like saying 'or whatever other thing'."
+        }
+      },
+      {
+        "arabic": "فَوْقَهَا",
+        "transliteration": "fawqahā",
+        "translation": "above it / greater than it",
+        "grammar": {
+          "type": "Ism - Adverb of Place (ẓarf makān) + Pronoun",
+          "root": "ف-و-ق (f-w-q) - to be above, to surpass",
+          "components": "fawqa (above) + hā (it, feminine pronoun)",
+          "case": "Functions as accusative in this context",
+          "reason": "'Fawqa' means 'above' and 'hā' refers back to 'ba'ūḍa' (mosquito). Together: 'above it' or 'greater than it'. Some scholars say this means 'smaller than it' in significance, others say 'greater'.",
+          "practical": "Literally 'above it' but contextually means 'greater/smaller than it'. 'Fawqa' = above/over, 'hā' = it (referring to the mosquito). Beautiful construction! The meaning is debated: either 'greater than a mosquito' (like a spider, bee) OR 'even smaller' (like an atom). Both interpretations teach us: Allah uses ANY example, big or small, to convey truth. The pronoun 'hā' is feminine because 'ba'ūḍa' is feminine."
+        }
+      },
+      {
+        "arabic": "فَأَمَّا",
+        "transliteration": "fa-ammā",
+        "translation": "As for / Then as for",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Conditional Particle",
+          "components": "fa (then/so) + ammā (as for)",
+          "function": "Introduces a conditional clause or categorization",
+          "reason": "'Ammā' is used to introduce different categories or scenarios. The 'fa' connects to the previous discussion. Together they mean 'So, as for...' introducing the first group's response.",
+          "practical": "'Ammā' is a beautiful word for categorizing: 'As for X... and as for Y...' It divides people or things into groups. Here it introduces the believers' reaction. The 'fa' adds connection to what was said before: 'So then, AS FOR those who believe...' Expect a second 'ammā' later to introduce the second group. This creates a balanced, rhetorical structure very common in the Quran. Master this pattern!"
+        }
+      },
+      {
+        "arabic": "الَّذِينَ",
+        "transliteration": "alladhīna",
+        "translation": "those who",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Relative pronoun",
+          "gender": "Masculine plural",
+          "reason": "Introduces the first category of people - the believers. Everything after describes who they are and what they do.",
+          "practical": "We've seen this before - 'those who'. It's plural masculine and starts a description. After 'ammā alladhīna' (as for those who...), we expect a verb or description of what they do. This is the standard way to categorize people in Arabic: 'As for those who [do X], then they [result Y].' Very organized and clear!"
+        }
+      },
+      {
+        "arabic": "آمَنُوا",
+        "transliteration": "āmanū",
+        "translation": "believed / have believed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "أ-م-ن (a-m-n) - to believe, to have faith, to be secure",
+          "form": "Form IV (if'āl pattern)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Past tense",
+          "reason": "Describes completed action of belief. The 'ū' at the end indicates plural masculine past tense. Used with 'alladhīna' to mean 'those who have believed'.",
+          "practical": "Perfect tense: 'they believed'. The pattern: verb + ū = they did it (past tense, plural masculine). From the root a-m-n (belief/security). 'Āmanū' means they entered into a state of belief - it's completed, established. The 'wāw' (ū) ending is your signal for 'they' in past tense. With 'alladhīna', this phrase 'alladhīna āmanū' (those who believed) is used hundreds of times in the Quran to refer to believers."
+        }
+      },
+      {
+        "arabic": "فَيَعْلَمُونَ",
+        "transliteration": "faya'lamūna",
+        "translation": "then they know / so they know",
+        "grammar": {
+          "type": "Harf + Fi'l - Conjunction + Present Tense Verb",
+          "root": "ع-ل-م ('-l-m) - to know, to have knowledge",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present tense",
+          "reason": "The 'fa' introduces the result or consequence of their belief. Present tense shows ongoing knowledge. The 'ya...ūna' pattern indicates 'they' in present tense.",
+          "practical": "'Fa' connects cause and effect: 'As for believers, THEN they know...' The verb 'ya'lamūna' follows our familiar pattern: ya- + verb + -ūna = they do it (present). From '-l-m root (knowledge). So believers KNOW - they have understanding. The 'fa' here is consequential: BECAUSE they believe, THEREFORE they know this is truth. Notice how Arabic uses 'fa' to show logical connections beautifully."
+        }
+      },
+      {
+        "arabic": "أَنَّهُ",
+        "transliteration": "annahu",
+        "translation": "that it / that indeed it",
+        "grammar": {
+          "type": "Harf + Ism - Emphasis Particle + Pronoun",
+          "components": "anna (that/indeed) + hu (it)",
+          "function": "Creates a noun clause: 'that it is...'",
+          "reason": "'Anna' (with shadda) is 'inna' modified to mean 'that indeed'. The pronoun 'hu' refers to the example mentioned. Together: 'that it (the example) is...'",
+          "practical": "'Anna' is the version of 'inna' used after verbs like 'to know'. It means 'that indeed'. The 'hu' at the end = 'it', referring back to the example. So 'ya'lamūna annahu' = 'they know that IT (the example) is...' This construction is essential: after verbs of knowledge or certainty, use 'anna' to introduce what is known. It creates emphasis: they know for CERTAIN that it is..."
+        }
+      },
+      {
+        "arabic": "الْحَقُّ",
+        "transliteration": "al-ḥaqqu",
+        "translation": "the truth",
+        "grammar": {
+          "type": "Ism - Noun (predicate of anna/khabar anna)",
+          "root": "ح-ق-ق (ḥ-q-q) - to be true, to be real, to be binding",
+          "case": "Nominative (marfū') - ends in 'u' (dammah)",
+          "reason": "This is the predicate (khabar) of 'anna'. The rule: 'anna/inna' makes the subject accusative but keeps the predicate nominative. So 'hu' is accusative, 'al-ḥaqq' is nominative.",
+          "practical": "Al-ḥaqq means 'THE truth' - absolute, undeniable truth. From root ḥ-q-q (truth/reality/binding). The 'u' ending shows it's the predicate after 'anna'. Remember the inna/anna rule: subject gets fatha (-a), predicate keeps damma (-u). So: 'annahu (subject-a) al-ḥaqqu (predicate-u)' = 'that it IS the truth'. Al-ḥaqq is also one of Allah's beautiful names - The Ultimate Truth."
+        }
+      },
+      {
+        "arabic": "مِن",
+        "transliteration": "min",
+        "translation": "from",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Indicates source or origin",
+          "reason": "Shows WHERE this truth comes from - from their Lord. Prepositions in Arabic are crucial for meaning.",
+          "practical": "'Min' = 'from' (showing source/origin). Here it tells us the SOURCE of this truth: from their Lord. The truth doesn't come from people's opinions or desires - it originates FROM Allah. Prepositions like 'min' are small but mighty - they completely change meaning. Remember: 'min' always makes the next word end in 'i' (genitive case)."
+        }
+      },
+      {
+        "arabic": "رَّبِّهِمْ",
+        "transliteration": "rabbihim",
+        "translation": "their Lord",
+        "grammar": {
+          "type": "Ism - Noun + Pronoun Suffix",
+          "root": "ر-ب-ب (r-b-b) - to lord over, to nourish, to sustain",
+          "components": "rabb (Lord) + him (their)",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+          "reason": "The preposition 'min' makes this genitive. The pronoun 'him' (their) is added to show possession: 'their Lord'.",
+          "practical": "'Rabb' means Lord, Master, Nurturer, Sustainer - a comprehensive term for Allah's relationship to His creation. The 'i' ending (rabbi-) shows genitive case from 'min'. The 'him' suffix = 'their' (plural masculine). So 'rabbihim' = 'their Lord'. Notice the beautiful connection: believers recognize truth BECAUSE it comes from their Rabb - the One who nurtured and guides them. The shadda (double r) shows emphasis in pronunciation."
+        }
+      },
+      {
+        "arabic": "وَأَمَّا",
+        "transliteration": "wa ammā",
+        "translation": "And as for",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Conditional Particle",
+          "components": "wa (and) + ammā (as for)",
+          "function": "Introduces the second category - the disbelievers",
+          "reason": "Parallels the earlier 'fa-ammā' structure. Creates the second half of the categorization. 'Wa' connects, 'ammā' introduces the new group.",
+          "practical": "Here's the second group! Remember 'fa-ammā' introduced believers? Now 'wa ammā' introduces the opposite group. This is the balanced structure: 'As for group A... and as for group B...' The 'wa' = 'and', connecting two contrasting groups. This rhetorical structure helps us see the stark difference between how believers and disbelievers react to Allah's examples. Expect their opposite reaction!"
+        }
+      },
+      {
+        "arabic": "الَّذِينَ",
+        "transliteration": "alladhīna",
+        "translation": "those who",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Relative pronoun",
+          "gender": "Masculine plural",
+          "reason": "Same as before - introduces the description of the second group.",
+          "practical": "Same word we saw with the believers - 'those who'. Same structure, different description coming. This parallel structure makes the contrast clear and powerful."
+        }
+      },
+      {
+        "arabic": "كَفَرُوا",
+        "transliteration": "kafarū",
+        "translation": "disbelieved / rejected",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "ك-ف-ر (k-f-r) - to disbelieve, to reject, to cover (truth)",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Past tense",
+          "reason": "Describes their completed state of rejection. The 'ū' ending shows plural past tense. Parallel to 'āmanū' (believed) but opposite meaning.",
+          "practical": "From root k-f-r which originally meant 'to cover up'. A kāfir covers/rejects the truth. 'Kafarū' = 'they disbelieved/rejected'. Same pattern as 'āmanū': verb + ū = they did it (past tense, plural). Notice the perfect parallel: 'alladhīna āmanū' (those who believed) vs 'alladhīna kafarū' (those who disbelieved). These two phrases appear together throughout the Quran, showing the two paths humans can take."
+        }
+      },
+      {
+        "arabic": "فَيَقُولُونَ",
+        "transliteration": "fayaqūlūna",
+        "translation": "so they say / then they say",
+        "grammar": {
+          "type": "Harf + Fi'l - Conjunction + Present Tense Verb",
+          "root": "ق-و-ل (q-w-l) - to say, to speak",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present tense",
+          "reason": "Shows their reaction/consequence. The 'fa' indicates result, and present tense shows their ongoing questioning attitude.",
+          "practical": "'Fa' again shows consequence: BECAUSE they reject, THEREFORE they say... 'Yaqūlūna' = they say (present tense). Pattern: ya- + verb + -ūna = they do it (present). From q-w-l (to say). Notice the contrast: believers KNOW (ya'lamūna) it's truth, but disbelievers only QUESTION (yaqūlūna) - they say things without knowledge. The 'fa' makes this a natural result of their disbelief."
+        }
+      },
+      {
+        "arabic": "مَاذَا",
+        "transliteration": "mādhā",
+        "translation": "what / what is it that",
+        "grammar": {
+          "type": "Ism - Interrogative Pronoun",
+          "components": "mā (what) + dhā (this/that)",
+          "function": "Creates a question: 'What...?'",
+          "reason": "Used to ask about something unknown or to express skepticism. Here it's a rhetorical question showing their doubt and mockery.",
+          "practical": "'Mādhā' is the standard question word for 'what?' It combines 'mā' (what) + 'dhā' (this). Use it to start questions: 'Mādhā taf'al?' (What are you doing?). Here the disbelievers ask mockingly: 'What is this?' or 'What could this possibly mean?' Their question shows arrogance - they can't see wisdom in a small example. While believers see deep truth, disbelievers see only triviality."
+        }
+      },
+      {
+        "arabic": "أَرَادَ",
+        "transliteration": "arāda",
+        "translation": "intended / wanted / willed",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "ر-و-د (r-w-d) or ر-ي-د (r-y-d) - to want, to intend, to will",
+          "form": "Form IV (if'āl pattern)",
+          "person": "Third person masculine singular (He)",
+          "tense": "Past tense",
+          "reason": "Asks about Allah's intention or purpose. Past tense here indicates completed will or intention.",
+          "practical": "Means 'He intended' or 'He wanted' or 'He willed'. From root r-w-d (to want/intend). Form IV makes it more intense: 'to truly will/intend'. The disbelievers mockingly ask: 'What did Allah INTEND by this?' - as if they can't understand why Allah would mention something small. Their question reveals their limited understanding. Notice how verbs change to show tense: arāda (he intended - past) vs yurīdu (he intends - present)."
+        }
+      },
+      {
+        "arabic": "اللَّهُ",
+        "transliteration": "Allāhu",
+        "translation": "Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun (subject/fā'il)",
+          "root": "N/A - Divine name",
+          "case": "Nominative (marfū') - ends in 'u'",
+          "reason": "The subject of the verb 'arāda'. Subjects take nominative case with damma.",
+          "practical": "Allah's blessed name as the subject - the One who intended/willed. Notice it ends in 'u' (Allāhu) because it's the subject doing the action. Compare earlier 'Allāha' (with fatha after inna) vs now 'Allāhu' (with damma as subject). This shows how case endings work. The disbelievers mention Allah's name but without true reverence - they question His wisdom, which is the height of arrogance."
+        }
+      },
+      {
+        "arabic": "بِهَٰذَا",
+        "transliteration": "bihādhā",
+        "translation": "by this / with this",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Demonstrative Pronoun",
+          "components": "bi (by/with) + hādhā (this)",
+          "function": "Refers to the example mentioned (mosquito)",
+          "reason": "The preposition 'bi' shows the means or instrument. 'Hādhā' points to the example. Together: 'with/by THIS (example)'.",
+          "practical": "'Bi' = by/with (showing instrument or means). 'Hādhā' = this (masculine demonstrative). Together: 'by this' or 'with this', referring to the mosquito example. The disbelievers dismiss it: 'What did Allah mean by THIS?' (as if it's beneath mention). The alif at the end of 'hādhā' lengthens for emphasis. Notice how 'bi' and 'hādhā' merge smoothly: bi + hādhā = bihādhā."
+        }
+      },
+      {
+        "arabic": "مَثَلًا",
+        "transliteration": "mathalan",
+        "translation": "as an example / as a parable",
+        "grammar": {
+          "type": "Ism - Noun (specification/tamyīz or ḥāl)",
+          "root": "م-ث-ل (m-th-l) - to resemble, to be like",
+          "case": "Accusative (manṣūb) - ends in 'an' with tanwīn",
+          "reason": "Specifies how Allah used this - AS an example. The accusative case indicates specification or state (ḥāl).",
+          "practical": "Same word we saw earlier - 'mathal' (example) with tanwīn 'an' ending. Here it functions as specification: 'What did Allah intend by this AS AN EXAMPLE?' The accusative case with tanwīn shows its grammatical role - specifying the manner or state. The disbelievers recognize it's an example but question its value, showing their spiritual blindness."
+        }
+      },
+      {
+        "arabic": "يُضِلُّ",
+        "transliteration": "yuḍillu",
+        "translation": "He misleads / He causes to go astray",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ض-ل-ل (ḍ-l-l) - to go astray, to be misguided",
+          "form": "Form IV (if'āl pattern) - causative",
+          "person": "Third person masculine singular (He)",
+          "tense": "Present tense",
+          "reason": "Form IV makes it causative: not just 'to stray' but 'to CAUSE to stray'. Present tense shows ongoing divine action. This is Allah's answer to their question.",
+          "practical": "From root ḍ-l-l (to be lost/astray). Form IV (aḍalla/yuḍillu) makes it causative: 'to CAUSE to go astray' or 'to allow to go astray'. The 'yu-' beginning = He does it (present tense). This is Allah's answer to their mocking: 'What does He intend? He misleads by it...' But this isn't random - Allah only misleads those who CHOOSE to reject. The double 'l' (shadda) emphasizes the intensity."
+        }
+      },
+      {
+        "arabic": "بِهِ",
+        "transliteration": "bihi",
+        "translation": "by it / with it",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "bi (by/with) + hi (it)",
+          "function": "Shows the means - by means of this example",
+          "reason": "Indicates the instrument or means of misguidance - through this very example. The pronoun 'hi' refers to the example.",
+          "practical": "'Bi' = by/with, 'hi' = it (referring to the example). Together: 'by it' or 'by means of it'. The same example that guides believers can mislead disbelievers! How? Believers see Allah's wisdom in using any example, but disbelievers mock it and turn away. The example itself is neutral - the response depends on the heart. This shows how Quran is guidance for some, but for those who reject, it increases their misguidance."
+        }
+      },
+      {
+        "arabic": "كَثِيرًا",
+        "transliteration": "kathīran",
+        "translation": "many / much",
+        "grammar": {
+          "type": "Ism - Noun/Adjective (adverbial accusative/maf'ūl muṭlaq)",
+          "root": "ك-ث-ر (k-th-r) - to be many, to be abundant",
+          "case": "Accusative (manṣūb) - ends in 'an' with tanwīn",
+          "gender": "Masculine",
+          "reason": "Functions as an adverbial specification showing the extent - how many are misled. Accusative case indicates this function.",
+          "practical": "Means 'many' or 'much'. From root k-th-r (abundance). The 'an' ending makes it accusative and indefinite. Here it means 'many people' - He misleads MANY by it. The tanwīn adds emphasis: 'a great many'. This is sobering - the same truth that guides some leads many astray when they approach it with arrogance and rejection. Later we'll see the same word with guidance, showing balance."
+        }
+      },
+      {
+        "arabic": "وَيَهْدِي",
+        "transliteration": "wa yahdī",
+        "translation": "and He guides",
+        "grammar": {
+          "type": "Harf + Fi'l - Conjunction + Present Tense Verb",
+          "root": "ه-د-ي (h-d-y) - to guide, to show the way",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine singular (He)",
+          "tense": "Present tense",
+          "reason": "Parallel to 'yuḍillu' (He misleads). Shows the flip side - the same means that mislead some, guide others. The 'wa' creates perfect balance.",
+          "practical": "'Wa' = and (showing contrast/balance). 'Yahdī' = He guides. From root h-d-y (guidance). The 'ya-' beginning = He does it (present). Beautiful parallel structure: 'yuḍillu bihi kathīran WA yahdī bihi kathīran' (He misleads by it many AND guides by it many). Same example, same source, opposite results! Why? Because the heart receiving it differs. The Quran is like rain: on good soil it brings life, on hard rock it brings nothing."
+        }
+      },
+      {
+        "arabic": "بِهِ",
+        "transliteration": "bihi",
+        "translation": "by it / with it",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "bi (by/with) + hi (it)",
+          "function": "Shows the means of guidance - same example",
+          "reason": "Exactly parallel to the earlier 'bihi'. Shows that the SAME thing (the example) both misleads and guides, depending on the receiver.",
+          "practical": "Same word, same structure as before: 'by it' or 'with it'. The repetition is intentional and powerful - it's the SAME 'bihi' (by this example). This emphasizes that the Quran/examples aren't the problem - they're perfect. The difference is in people's hearts. Some hearts are open and humble, so they're guided. Others are closed and arrogant, so they're misled. The fault isn't in the message but in the receiver."
+        }
+      },
+      {
+        "arabic": "كَثِيرًا",
+        "transliteration": "kathīran",
+        "translation": "many / much",
+        "grammar": {
+          "type": "Ism - Noun/Adjective (adverbial accusative)",
+          "root": "ك-ث-ر (k-th-r) - to be many, to be abundant",
+          "case": "Accusative (manṣūb) - ends in 'an' with tanwīn",
+          "gender": "Masculine",
+          "reason": "Same grammatical function as before - shows the extent of those guided. Creates perfect parallelism with the earlier 'kathīran'.",
+          "practical": "Exact same word as before: 'many'. The repetition creates beautiful balance: 'He misleads MANY by it, and guides MANY by it.' This shows fairness and clarity - both groups are 'kathīr' (many). The truth is presented equally to all; the response divides humanity. The hope is that we're among the 'kathīr' (many) who are GUIDED, not misled. Our response to Allah's signs, even small ones, determines which group we join!"
+        }
+      },
+      {
+        "arabic": "وَمَا",
+        "transliteration": "wa mā",
+        "translation": "and not / and He does not",
+        "grammar": {
+          "type": "Harf + Harf - Conjunction + Negation Particle",
+          "components": "wa (and) + mā (not)",
+          "function": "Creates negation for the following verb",
+          "reason": "The 'wa' continues the statement, and 'mā' negates what comes next. Together they'll limit or specify the misguidance.",
+          "practical": "'Wa' = and, 'mā' = not. Together: 'and not...' This construction is used to add an important clarification or exception. After saying He misleads many, now comes the crucial limitation: 'and He does NOT mislead...' (except a certain type). This shows Allah's perfect justice - misguidance isn't random but based on people's own choices and actions."
+        }
+      },
+      {
+        "arabic": "يُضِلُّ",
+        "transliteration": "yuḍillu",
+        "translation": "He misleads / He causes to go astray",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ض-ل-ل (ḍ-l-l) - to go astray, to be misguided",
+          "form": "Form IV (causative)",
+          "person": "Third person masculine singular (He)",
+          "tense": "Present tense",
+          "reason": "Same verb repeated from earlier. The repetition emphasizes and specifies WHO exactly is misled.",
+          "practical": "Same verb 'yuḍillu' (He misleads) from earlier. Why repeat it? To be crystal clear about the limitation. The structure is: 'He misleads by it many... and He does NOT mislead by it EXCEPT...' The repetition creates emphasis and clarity. It's like saying: 'Yes, He misleads, BUT He only misleads a specific type of person...'"
+        }
+      },
+      {
+        "arabic": "بِهِ",
+        "transliteration": "bihi",
+        "translation": "by it / with it",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "bi (by/with) + hi (it)",
+          "function": "Shows means - by this example",
+          "reason": "Third repetition of 'bihi' in this verse! Emphasizes that we're still talking about the same example/means.",
+          "practical": "Third time we see 'bihi' (by it)! Each repetition drives home the point: it's the SAME example, the SAME Quran, the SAME signs. The difference isn't in what Allah presents but in who receives it. This repetition is rhetorical mastery - by the third 'bihi', you can't miss that the problem is NOT the message but the heart of the receiver."
+        }
+      },
+      {
+        "arabic": "إِلَّا",
+        "transliteration": "illā",
+        "translation": "except / but",
+        "grammar": {
+          "type": "Harf - Exception Particle (Harf Istithnā')",
+          "root": "N/A - Particle",
+          "function": "Introduces an exception to the negation",
+          "reason": "After 'mā yuḍillu' (He does not mislead), 'illā' introduces the ONLY exception: 'except...'. This limits the misguidance to a specific group.",
+          "practical": "'Illā' means 'except' or 'but' and introduces exceptions. After a negation, it means 'only' or 'except'. The pattern 'mā...illā' is very common: 'not...except = only'. So 'wa mā yuḍillu bihi illā...' = 'And He does not mislead by it EXCEPT/ONLY...' Who is the exception? The next word tells us. This shows divine justice: only those who deserve misguidance through their own sins get it."
+        }
+      },
+      {
+        "arabic": "الْفَاسِقِينَ",
+        "transliteration": "al-fāsiqīn",
+        "translation": "the defiantly disobedient / the rebellious transgressors",
+        "grammar": {
+          "type": "Ism - Active Participle/Noun (Ism Fā'il)",
+          "root": "ف-س-ق (f-s-q) - to disobey, to transgress, to rebel",
+          "form": "Active participle pattern (fā'il) - one who does the action",
+          "case": "Accusative (manṣūb) - ends in 'īn'",
+          "number": "Plural masculine",
+          "reason": "The object of exception after 'illā'. Describes those who are misled - specifically, the defiantly disobedient ones who deliberately transgress.",
+          "practical": "From root f-s-q which means to break out of bounds, to rebel, to transgress deliberately. 'Fāsiq' (plural: fāsiqīn) means one who habitually breaks Allah's commands with defiance. The pattern 'fā'il' = active doer. The 'īn' ending shows plural masculine accusative. So 'al-fāsiqīn' = the rebellious transgressors. This is key: Allah doesn't randomly mislead - ONLY those who choose rebellion and persistent disobedience mislead themselves. The article 'al' emphasizes: the KNOWN category of rebels. This shows perfect divine justice!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 27,
+    "arabic": "الَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِن بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+    "transliteration": "Alladhīna yanquḍūna 'ahda Allāhi min ba'di mīthāqihī wa yaqṭa'ūna mā amara Allāhu bihi an yūṣala wa yufsidūna fī al-arḍi ulā'ika humu al-khāsirūn",
+    "translation": "Who break the covenant of Allah after contracting it and sever that which Allah has ordered to be joined and cause corruption on earth. It is those who are the losers",
+    "words": [
+      {
+        "arabic": "الَّذِينَ",
+        "transliteration": "Alladhīna",
+        "translation": "Those who",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Relative pronoun",
+          "gender": "Masculine plural",
+          "reason": "Describes and defines who 'al-fāsiqīn' (the defiantly disobedient) are. This verse details their characteristics.",
+          "practical": "Connects to the previous verse - this 'alladhīna' defines the 'fāsiqīn'. It's saying: 'The rebellious ones are THOSE WHO...' and then lists their evil qualities. This is a common Quranic pattern: make a statement, then explain it with 'alladhīna' (those who) followed by detailed description. Pay attention to what comes after - it reveals the traits of the misguided."
+        }
+      },
+      {
+        "arabic": "يَنقُضُونَ",
+        "transliteration": "yanquḍūna",
+        "translation": "they break / they violate",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ن-ق-ض (n-q-ḍ) - to break, to violate, to undo",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present tense - indicating habitual action",
+          "reason": "First characteristic of the transgressors. Present tense shows this is their ongoing habit, not a one-time mistake.",
+          "practical": "From root n-q-ḍ meaning to break, demolish, or violate (especially agreements). The pattern 'ya-...-ūna' = they do it (present, plural). So 'yanquḍūna' = they habitually break/violate. This isn't accidental - it's their character. Like someone who breaks contracts repeatedly. The present tense emphasizes it's continuous - they KEEP breaking covenants. First major sin of the fāsiqīn: covenant-breaking."
+        }
+      },
+      {
+        "arabic": "عَهْدَ",
+        "transliteration": "'ahda",
+        "translation": "covenant / pledge / promise",
+        "grammar": {
+          "type": "Ism - Noun (direct object/maf'ūl bihi)",
+          "root": "ع-ه-د ('-h-d) - to covenant, to pledge, to commit",
+          "case": "Accusative (manṣūb) - ends in 'a'",
+          "gender": "Masculine",
+          "reason": "The direct object of 'yanquḍūna' - what they break. Accusative case shows it's receiving the action.",
+          "practical": "'Ahd means covenant, pledge, or solemn promise. From root '-h-d (to make a commitment). The 'a' ending shows it's the object - WHAT they break. This is serious: breaking 'ahd (covenant) with Allah. What covenant? The covenant all humans made acknowledging Allah as Lord (mentioned in Quran 7:172), plus specific covenants in scriptures and through messengers. Breaking promises to Allah is among the worst sins."
+        }
+      },
+      {
+        "arabic": "اللَّهِ",
+        "transliteration": "Allāhi",
+        "translation": "of Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun (possessive/muḍāf ilayh)",
+          "root": "N/A - Divine name",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "reason": "In a possessive construction (iḍāfa) with 'ahd. Shows whose covenant it is - Allah's covenant.",
+          "practical": "Allah's blessed name in genitive case (ends in 'i') because it's in possession structure: 'ahda Allāhi' = 'the covenant OF Allah'. This isn't just any promise - it's THE covenant with ALLAH! That makes it infinitely more serious. When two nouns come together like this (covenant + Allah), the second is genitive. Breaking a covenant with Allah is spiritual suicide."
+        }
+      },
+      {
+        "arabic": "مِن",
+        "transliteration": "min",
+        "translation": "from / after",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Indicates starting point (here: temporal - after)",
+          "reason": "Shows WHEN they break it - after having established it. Makes their betrayal worse.",
+          "practical": "'Min' usually means 'from' but here with 'ba'd (after) means 'from after' = 'after'. This isn't about people who never made a covenant - it's about those who MADE it then BROKE it! That's worse. Like someone who shakes hands on a deal, then betrays it. The 'min' emphasizes the starting point of their betrayal: right after making the commitment!"
+        }
+      },
+      {
+        "arabic": "بَعْدِ",
+        "transliteration": "ba'di",
+        "translation": "after",
+        "grammar": {
+          "type": "Ism - Adverb of Time (ẓarf zamān)",
+          "root": "ب-ع-د (b-'-d) - to be distant, to be after",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'min'",
+          "function": "Indicates time - after something",
+          "reason": "Shows temporal sequence. The preposition 'min' makes it genitive. Together 'min ba'di' = 'after'.",
+          "practical": "'Ba'd means 'after' or 'distance/farness'. Here it's temporal: AFTER. The 'i' ending is because of the preposition 'min'. Together 'min ba'di' is a common phrase meaning 'after'. The structure continues: after WHAT? After their mīthāq (solemn contract). This shows premeditated betrayal - they knew what they were doing, made the commitment, THEN broke it deliberately."
+        }
+      },
+      {
+        "arabic": "مِيثَاقِهِ",
+        "transliteration": "mīthāqihi",
+        "translation": "its confirmation / its solemn binding",
+        "grammar": {
+          "type": "Ism - Noun + Pronoun Suffix",
+          "root": "و-ث-ق (w-th-q) - to bind, to trust, to make firm",
+          "components": "mīthāq (solemn covenant) + hi (its/it)",
+          "case": "Genitive (majrūr) - in possessive construction with 'ba'd",
+          "reason": "In iḍāfa with 'ba'd - after its binding confirmation. The pronoun 'hi' refers back to 'ahd (covenant), emphasizing the same covenant.",
+          "practical": "Mīthāq (from w-th-q: to bind firmly) means a solemn, binding covenant, stronger than regular 'ahd. The 'i' ending shows genitive (after 'ba'd). The 'hi' = its/it, referring to the covenant. So: 'after its binding confirmation'. Why mention both 'ahd and 'mīthāq? For emphasis - this was a SERIOUS, CONFIRMED, BINDING covenant, and they STILL broke it! Like signing a legal contract then tearing it up. Ultimate betrayal."
+        }
+      },
+      {
+        "arabic": "وَ",
+        "transliteration": "wa",
+        "translation": "and",
+        "grammar": {
+          "type": "Harf - Conjunction",
+          "function": "Connects to the second evil trait",
+          "practical": "Adding the second sin of the fāsiqīn to the list. First: breaking covenant. Second: coming now..."
+        }
+      },
+      {
+        "arabic": "يَقْطَعُونَ",
+        "transliteration": "yaqṭa'ūna",
+        "translation": "they sever / they cut",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ق-ط-ع (q-ṭ-') - to cut, to sever, to disconnect",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present tense - habitual action",
+          "reason": "Second major sin - severing connections. Present tense shows ongoing action.",
+          "practical": "From q-ṭ-' (to cut/sever). 'Yaqṭa'ūna' = they cut/sever habitually. Pattern: ya-...-ūna = they do it (present, plural). What do they cut? Whatever Allah commanded to be JOINED! This includes family ties (the most common interpretation), community bonds, and all relationships Allah wants maintained. Opposite of building bridges - they burn them. Second trait of the misguided: relationship destroyers."
+        }
+      },
+      {
+        "arabic": "مَا",
+        "transliteration": "mā",
+        "translation": "what / that which",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Pronoun",
+          "function": "Introduces a relative clause: 'that which...'",
+          "reason": "Specifies WHAT they cut - not random things, but specifically what Allah ordered to be joined.",
+          "practical": "'Mā' here means 'what' or 'that which', introducing a description. 'Yaqṭa'ūna mā...' = 'they cut THAT WHICH...' It creates suspense: what exactly? The next words specify. This 'mā' makes the sin specific and targeted - they don't accidentally break ties; they deliberately sever what Allah wants connected. Makes it worse!"
+        }
+      },
+      {
+        "arabic": "أَمَرَ",
+        "transliteration": "amara",
+        "translation": "commanded / ordered",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "أ-م-ر (a-m-r) - to command, to order",
+          "form": "Form I (basic form)",
+          "person": "Third person masculine singular (He)",
+          "tense": "Past tense",
+          "reason": "Describes Allah's completed command. The relative clause explains what they cut - whatever Allah already commanded.",
+          "practical": "From root a-m-r (to command/order). 'Amara' = He commanded (past tense). Past tense here indicates an established, completed command - Allah ALREADY ordered this. So when they sever it, they're directly disobeying a clear divine command. Not ignorance - rebellion! The structure: 'they cut what He COMMANDED to be joined' - defying explicit orders."
+        }
+      },
+      {
+        "arabic": "اللَّهُ",
+        "transliteration": "Allāhu",
+        "translation": "Allah",
+        "grammar": {
+          "type": "Ism - Proper Noun (subject/fā'il)",
+          "root": "N/A - Divine name",
+          "case": "Nominative (marfū') - ends in 'u'",
+          "reason": "Subject of 'amara' - the One who commanded. Nominative case for subjects.",
+          "practical": "Allah's name as the subject doing the commanding, with 'u' ending (nominative). Makes it clear: this isn't cultural preference or human opinion - ALLAH HIMSELF commanded these things to be joined. Severing what Allah commanded is direct rebellion against divine will. The authority is absolute and final."
+        }
+      },
+      {
+        "arabic": "بِهِ",
+        "transliteration": "bihi",
+        "translation": "with it / regarding it",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "bi (with/regarding) + hi (it)",
+          "function": "Connects the command to its object",
+          "reason": "The pronoun 'hi' refers to 'mā' (that which). Shows what the command is about.",
+          "practical": "'Bi' + 'hi' = 'with it' or 'regarding it'. The 'it' refers back to 'mā' (what/that which). So: 'Allah commanded regarding IT that...' This connects the command to the thing that should be joined. The 'bihi' structure shows the command concerns this specific thing - maintaining the ties/connections Allah values."
+        }
+      },
+      {
+        "arabic": "أَن",
+        "transliteration": "an",
+        "translation": "to / that",
+        "grammar": {
+          "type": "Harf - Infinitive/Subjunctive Particle",
+          "root": "N/A - Particle",
+          "function": "Creates infinitive form of the verb",
+          "reason": "After 'amara bihi', the 'an' introduces what was commanded: 'that it should be...'",
+          "practical": "'An' again turns the following verb into an infinitive. After 'amara...an' = 'He commanded that...' or 'He commanded it TO BE...' This 'an' is essential for indirect commands. The pattern: 'He commanded regarding it THAT it be joined.' The 'an' makes the next verb subjunctive mood."
+        }
+      },
+      {
+        "arabic": "يُوصَلَ",
+        "transliteration": "yūṣala",
+        "translation": "it be joined / it be connected",
+        "grammar": {
+          "type": "Fi'l - Present Passive Subjunctive Verb",
+          "root": "و-ص-ل (w-ṣ-l) - to join, to connect, to link",
+          "form": "Form I passive (yuf'alu pattern)",
+          "person": "Third person masculine singular",
+          "mood": "Subjunctive (manṣūb) - due to 'an'",
+          "voice": "Passive",
+          "reason": "Passive voice because the focus is on the thing being joined, not who joins it. Subjunctive because of 'an'.",
+          "practical": "From w-ṣ-l (to connect/join) - same root as 'ṣilah' (connection). 'Yūṣala' is passive: 'it be joined' or 'it be connected'. Notice the passive pattern 'yu-...-a'. Allah commanded these things TO BE CONNECTED (passive). What things? Primarily family ties (ṣilat al-raḥim), but also community bonds, truth to falsehood, etc. The fāsiqīn do the opposite - they CUT what should be JOINED. Major sin!"
+        }
+      },
+      {
+        "arabic": "وَ",
+        "transliteration": "wa",
+        "translation": "and",
+        "grammar": {
+          "type": "Harf - Conjunction",
+          "function": "Adds the third evil characteristic",
+          "practical": "Third major sin coming. So far: 1) Break covenants, 2) Sever ties. Now: 3)..."
+        }
+      },
+      {
+        "arabic": "يُفْسِدُونَ",
+        "transliteration": "yufsidūna",
+        "translation": "they cause corruption / they spread corruption",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ف-س-د (f-s-d) - to be corrupt, to spoil",
+          "form": "Form IV (if'āl pattern) - causative",
+          "person": "Third person masculine plural (they)",
+          "tense": "Present tense - habitual action",
+          "reason": "Form IV makes it causative - not just being corrupt, but actively CAUSING corruption. Shows deliberate action.",
+          "practical": "From root f-s-d (corruption/spoiling). Form IV (afsada/yufsidu) = to CAUSE corruption, to actively spoil things. Pattern: yu-...-ūna = they do it (present, plural). 'Yufsidūna' = they actively corrupt/ruin. This isn't passive bad behavior - it's ACTIVE destruction. They spread fitna, lies, conflict, immorality. Third trait of the fāsiqīn: corruptors. Notice all three verbs are present tense - these are ONGOING character traits, not one-time errors."
+        }
+      },
+      {
+        "arabic": "فِي",
+        "transliteration": "fī",
+        "translation": "in / on",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "root": "N/A - Particle",
+          "function": "Indicates location - where the corruption happens",
+          "reason": "Shows WHERE they spread corruption - on the earth, in society.",
+          "practical": "'Fī' = in/on/at (showing location). WHERE do they cause corruption? The next word tells us. The preposition 'fī' always makes the following noun end in 'i' (genitive). This shows scope: their corruption isn't private or limited - it spreads throughout society."
+        }
+      },
+      {
+        "arabic": "الْأَرْضِ",
+        "transliteration": "al-arḍi",
+        "translation": "the earth / the land",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "أ-ر-ض (a-r-ḍ) - earth, land, ground",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'fī'",
+          "gender": "Feminine",
+          "reason": "Object of the preposition 'fī'. Shows the sphere of their corruption - the whole earth/society.",
+          "practical": "'Arḍ means earth, land, or ground. With 'al' = THE earth. The 'i' ending shows genitive after 'fī'. So 'fī al-arḍ = 'on the earth' or 'in the land'. This shows the SCOPE of their corruption - it's not hidden or private, but spreads throughout society/earth. These people are social menaces, spreading fitna and corruption everywhere. Scary but important to recognize such people!"
+        }
+      },
+      {
+        "arabic": "أُولَٰئِكَ",
+        "transliteration": "ulā'ika",
+        "translation": "those / those ones",
+        "grammar": {
+          "type": "Ism - Demonstrative Pronoun (Ism Ishārah)",
+          "root": "N/A - Demonstrative",
+          "number": "Plural",
+          "function": "Points to a group previously described",
+          "reason": "Refers back to 'alladhīna' (those who) with all their evil traits. Now comes the verdict on them.",
+          "practical": "'Ulā'ika' is the plural of 'dhālika' - means 'those ones' (pointing to a group). The 'ka' at the end adds emphasis, like 'THOSE ones there'. After describing the fāsiqīn in detail, now Allah points to them: 'THOSE people (with all those terrible traits)...' The demonstrative creates distance and emphasis. What about them? Next words give the verdict..."
+        }
+      },
+      {
+        "arabic": "هُمُ",
+        "transliteration": "humu",
+        "translation": "they / they are",
+        "grammar": {
+          "type": "Ism - Pronoun (ḍamīr faṣl)",
+          "root": "N/A - Pronoun",
+          "function": "Separating/emphasizing pronoun",
+          "reason": "Used between subject and predicate for extreme emphasis. Means 'they INDEED are' or 'it is THEY who are...'",
+          "practical": "'Hum' = they. But here it's 'ḍamīr faṣl' (separating pronoun) used for emphasis. It separates the subject from predicate and emphasizes the exclusivity: 'It is THEY who are...' or 'THEY THEMSELVES are...' This isn't just description - it's emphasis and restriction. Only THEY (the fāsiqīn with those traits) are the real losers. Powerful rhetorical device!"
+        }
+      },
+      {
+        "arabic": "الْخَاسِرُونَ",
+        "transliteration": "al-khāsirūn",
+        "translation": "the losers / the ones in loss",
+        "grammar": {
+          "type": "Ism - Active Participle (Ism Fā'il)",
+          "root": "خ-س-ر (kh-s-r) - to lose, to be at loss",
+          "form": "Active participle pattern (fā'il)",
+          "case": "Nominative (marfū') - ends in 'ūna'",
+          "number": "Plural masculine",
+          "reason": "The predicate (khabar) describing them. Nominative case as predicate. The 'al' makes it definite for emphasis: THE losers.",
+          "practical": "From root kh-s-r (to lose). 'Khāsir' (plural: khāsirūn) = loser, one in loss. The active participle pattern means 'one who constantly loses'. The 'ūna' ending = nominative plural masculine. The article 'al' is emphatic: THE losers - the REAL losers, the ULTIMATE losers. Not just losing in this life, but the next. They might seem successful worldly, but they've lost their souls, their afterlife, EVERYTHING. This is the devastating verdict on those who break covenants, sever ties, and spread corruption. Total loss!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 28,
+    "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+    "transliteration": "Kayfa takfurūna bi-Allāhi wa kuntum amwātan fa-aḥyākum thumma yumītukum thumma yuḥyīkum thumma ilayhi turja'ūn",
+    "translation": "How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you back to life; then to Him you will be returned",
+    "words": [
+      {
+        "arabic": "كَيْفَ",
+        "transliteration": "Kayfa",
+        "translation": "How / In what way",
+        "grammar": {
+          "type": "Ism - Interrogative Adverb (Ism Istifhām)",
+          "root": "N/A - Question word",
+          "function": "Questions about manner or state",
+          "reason": "Opens a rhetorical question showing disbelief is irrational. Not asking for information but expressing amazement.",
+          "practical": "'Kayfa' means 'how?' or 'in what way?' - questions the manner of something. But here it's RHETORICAL - Allah isn't really asking for an answer. He's expressing amazement and condemnation: 'HOW COULD you disbelieve?!' Like saying 'How could you possibly...?' in English. This sets up a powerful argument: given all the evidence (listed next), disbelief makes no sense! Learn this rhetorical technique - kayfa questions often challenge illogical behavior."
+        }
+      },
+      {
+        "arabic": "تَكْفُرُونَ",
+        "transliteration": "takfurūna",
+        "translation": "you disbelieve / you reject",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb (Fi'l Muḍāri')",
+          "root": "ك-ف-ر (k-f-r) - to disbelieve, to reject, to cover",
+          "form": "Form I (basic form)",
+          "person": "Second person masculine plural (you)",
+          "tense": "Present tense",
+          "reason": "Addresses disbelievers directly. The 'ta-...-ūna' pattern shows 'you' (plural) as the subject.",
+          "practical": "From k-f-r (to disbelieve/reject/cover truth). 'Takfurūna' = you (all) disbelieve. Notice the pattern shift: 'ya-' = they, 'ta-' = you! 'Ta-...-ūna' = you (plural) do it (present). Direct address to disbelievers: 'How can YOU disbelieve?!' The present tense emphasizes ongoing state of rejection. This is the question being challenged: your disbelief makes no sense given the evidence!"
+        }
+      },
+      {
+        "arabic": "بِاللَّهِ",
+        "transliteration": "bi-Allāhi",
+        "translation": "in Allah / regarding Allah",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Proper Noun",
+          "components": "bi (in/regarding) + Allāh (Allah)",
+          "case": "Genitive (majrūr) - ends in 'i'",
+          "reason": "The preposition 'bi' shows the object of disbelief. Genitive case after preposition.",
+          "practical": "'Bi' + Allah = 'in Allah' or 'regarding Allah'. The 'i' ending (Allāhi) shows genitive after the preposition. 'Takfurūna bi-Allāh' = 'you disbelieve in Allah'. The enormity of the question: how can you reject the Creator Himself?! The bi- connects the disbelief to its object - it's not abstract disbelief but specifically denying ALLAH."
+        }
+      },
+      {
+        "arabic": "وَ",
+        "transliteration": "wa",
+        "translation": "while / when / and",
+        "grammar": {
+          "type": "Harf - Conjunction (Wāw al-Ḥāl)",
+          "function": "Introduces a circumstantial clause",
+          "reason": "This 'wa' introduces the STATE or CIRCUMSTANCE: 'when' or 'while'. Shows the illogical contrast.",
+          "practical": "This 'wa' isn't just 'and' - it's 'wāw al-ḥāl' (circumstantial waw), meaning 'while' or 'when' or 'and the fact is'. It introduces the context that makes disbelief irrational: 'How can you disbelieve WHILE/WHEN [these facts are true]?' This creates powerful rhetorical contrast. Master this: 'wa' can mean 'while' when showing contradictory circumstances."
+        }
+      },
+      {
+        "arabic": "كُنتُمْ",
+        "transliteration": "kuntum",
+        "translation": "you were",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Kāna - verb of being)",
+          "root": "ك-و-ن (k-w-n) - to be, to exist",
+          "form": "Irregular past tense of 'kāna'",
+          "person": "Second person masculine plural (you)",
+          "components": "kunta (you were, singular) + m (plural marker)",
+          "reason": "'Kāna' is a special verb meaning 'to be/was'. It requires a subject and predicate, making the predicate accusative.",
+          "practical": "'Kuntum' = you were. From the famous 'kāna and its sisters' (kāna wa akhawātuhā) - special verbs that change grammar rules. 'Kāna' means 'was/were', and the 'tum' ending = you (plural). So 'kuntum' = you (all) were. Important: kāna makes its predicate ACCUSATIVE (with fatha). Watch for this! 'You WERE...' (what follows tells us what state they were in)."
+        }
+      },
+      {
+        "arabic": "أَمْوَاتًا",
+        "transliteration": "amwātan",
+        "translation": "dead / lifeless",
+        "grammar": {
+          "type": "Ism - Noun/Adjective (predicate of kāna/khabar kāna)",
+          "root": "م-و-ت (m-w-t) - to die, to be dead",
+          "form": "Plural of 'mayyit' (dead)",
+          "case": "Accusative (manṣūb) - ends in 'an' with tanwīn",
+          "number": "Plural",
+          "reason": "Predicate of 'kuntum'. Kāna makes the predicate accusative, hence the 'an' ending.",
+          "practical": "'Amwāt (plural: amwātan with tanwīn) = dead ones, lifeless. From root m-w-t (death). The 'an' ending shows: 1) Accusative (because of kāna), 2) Indefinite (tanwīn). So: 'you WERE dead/lifeless'. When? Before you were born - you didn't exist, you were just atoms, lifeless matter. Then what? The next word answers. Notice how kāna changes the ending to 'an' instead of the normal 'un'!"
+        }
+      },
+      {
+        "arabic": "فَأَحْيَاكُمْ",
+        "transliteration": "fa-aḥyākum",
+        "translation": "then He gave you life / then He brought you to life",
+        "grammar": {
+          "type": "Harf + Fi'l - Conjunction + Past Tense Verb with Pronoun",
+          "root": "ح-ي-ي (ḥ-y-y) - to live, to be alive",
+          "form": "Form IV (if'āl pattern) - causative + object pronoun",
+          "components": "fa (then/so) + aḥyā (He gave life) + kum (you, object)",
+          "person": "Third person (He) acting on second person (you)",
+          "reason": "The 'fa' shows sequence and consequence. Form IV makes it causative: 'to make live' = 'to give life to'.",
+          "practical": "'Fa' = then/so (showing sequence). 'Aḥyā' from root ḥ-y-y (life), Form IV = 'to give life to', 'to make alive'. 'Kum' = you (object pronoun). Together: 'Then He gave YOU life!' The verb includes both the subject (He = Allah) and object (you) efficiently. Beautiful logic: You were dead (non-existent), THEN He created you and gave you life. How can you deny your Creator?! The 'fa' shows logical progression and consequence."
+        }
+      },
+      {
+        "arabic": "ثُمَّ",
+        "transliteration": "thumma",
+        "translation": "then / after that",
+        "grammar": {
+          "type": "Harf - Conjunction ('Aṭf with time gap)",
+          "root": "N/A - Particle",
+          "function": "Connects with a time gap - 'then' with delay",
+          "reason": "Different from 'fa' (immediate then). 'Thumma' means 'then' after a period of time. Shows sequence with delay.",
+          "practical": "'Thumma' = then (with time gap). Different from 'fa' (immediate)! 'Thumma' suggests 'then, after a while' or 'then later'. Here: after He gave you life, THEN (later, after you live your life) He will cause you to die. The time gap is your lifetime! This progression teaches the cycle: non-existence → life → death → resurrection. 'Thumma' appears 3 times, showing each stage of human existence!"
+        }
+      },
+      {
+        "arabic": "يُمِيتُكُمْ",
+        "transliteration": "yumītukum",
+        "translation": "He will cause you to die / He will make you die",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb with Pronoun",
+          "root": "م-و-ت (m-w-t) - to die, to be dead",
+          "form": "Form IV (if'āl pattern) - causative",
+          "person": "Third person (He) acting on second person (you)",
+          "tense": "Present tense with future meaning",
+          "components": "yumītu (He causes to die) + kum (you)",
+          "reason": "Form IV makes it causative: not just 'to die' but 'to cause to die'. Present tense used for definite future.",
+          "practical": "From m-w-t (death), Form IV = 'to cause to die' or 'to make die'. 'Yumītu' = He makes die. 'Kum' = you. Together: 'He will cause you to die' or 'He will take your soul'. Present tense but future meaning - certain future! Second stage: after giving you life and letting you live, He WILL cause you to die. Death is inevitable. Notice the pattern: aḥyā (past - already gave life) vs yumītu (present/future - will cause death). This is your future, guaranteed!"
+        }
+      },
+      {
+        "arabic": "ثُمَّ",
+        "transliteration": "thumma",
+        "translation": "then / after that",
+        "grammar": {
+          "type": "Harf - Conjunction with time gap",
+          "function": "Another 'then' showing next stage after death",
+          "practical": "Second 'thumma' - after death, THEN (after time in the grave) comes resurrection. The time gap is the period in the grave (barzakh). Each 'thumma' marks a major transition in human existence!"
+        }
+      },
+      {
+        "arabic": "يُحْيِيكُمْ",
+        "transliteration": "yuḥyīkum",
+        "translation": "He will bring you back to life / He will resurrect you",
+        "grammar": {
+          "type": "Fi'l - Present Tense Verb with Pronoun",
+          "root": "ح-ي-ي (ḥ-y-y) - to live, to be alive",
+          "form": "Form IV (causative)",
+          "person": "Third person (He) acting on second person (you)",
+          "tense": "Present tense with future meaning",
+          "components": "yuḥyī (He gives life) + kum (you)",
+          "reason": "Same root as 'aḥyākum' earlier but in present tense. Shows future resurrection.",
+          "practical": "Same Form IV verb as earlier (aḥyā/yuḥyī = to give life). 'Yuḥyīkum' = He will give you life (again). This is RESURRECTION - bringing dead people back to life on Judgment Day! Third stage: non-existence → life → death → LIFE AGAIN. Notice: aḥyākum (past - already gave life once) vs yuḥyīkum (future - will give life again). He who created you first can certainly resurrect you! Same power, same verb. The double 'y' in yuḥyī comes from the root's weak letters."
+        }
+      },
+      {
+        "arabic": "ثُمَّ",
+        "transliteration": "thumma",
+        "translation": "then / after that",
+        "grammar": {
+          "type": "Harf - Conjunction with time gap",
+          "function": "Final 'then' leading to ultimate destination",
+          "practical": "Third 'thumma' - after resurrection, THEN comes the final stage: returning to Allah for judgment. This is the climax of human journey!"
+        }
+      },
+      {
+        "arabic": "إِلَيْهِ",
+        "transliteration": "ilayhi",
+        "translation": "to Him / toward Him",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "ilā (to/toward) + hi (Him)",
+          "function": "Shows destination and direction",
+          "reason": "Indicates the final destination of all humans - return to Allah for judgment.",
+          "practical": "'Ilā' = to, toward (showing destination). 'Hi' = Him (Allah). Together: 'ilayhi' = to Him, toward Him. After all stages (life, death, resurrection), the FINAL destination is: return TO ALLAH. Not to emptiness or nothing - to HIM specifically! For what? Judgment and accountability. The 'ilā' emphasizes direction and goal. Your ultimate meeting is with your Creator. This should terrify the disbeliever and comfort the believer!"
+        }
+      },
+      {
+        "arabic": "تُرْجَعُونَ",
+        "transliteration": "turja'ūna",
+        "translation": "you will be returned / you will be brought back",
+        "grammar": {
+          "type": "Fi'l - Present Passive Verb (Fi'l Muḍāri' Majhūl)",
+          "root": "ر-ج-ع (r-j-') - to return, to go back",
+          "form": "Form I passive",
+          "person": "Second person masculine plural (you)",
+          "tense": "Present with future meaning",
+          "voice": "Passive",
+          "reason": "Passive voice emphasizes you don't return by choice - you WILL BE returned (by Allah). Certain future.",
+          "practical": "From r-j-' (to return). 'Turja'ūna' = you will be returned (passive). Notice the passive pattern 'tu-...-ūna' (you are/will be done to). You won't return voluntarily - you WILL BE BROUGHT BACK, whether you like it or not! The passive emphasizes Allah's power and the inevitability. Combined with 'ilayhi' = 'To Him you will be returned'. Complete the circle: from Him you came (He created you), to Him you return. Powerful ending showing total dependence on Allah through every stage of existence!"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 29,
+    "arabic": "هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ ۚ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+    "transliteration": "Huwa alladhī khalaqa lakum mā fī al-arḍi jamī'an thumma istawā ilā as-samā'i fasawwāhunna sab'a samāwātin wa huwa bikulli shay'in 'alīm",
+    "translation": "It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, and made them seven heavens, and He is Knowing of all things",
+    "words": [
+      {
+        "arabic": "هُوَ",
+        "transliteration": "Huwa",
+        "translation": "He",
+        "grammar": {
+          "type": "Ism - Personal Pronoun (Ḍamīr Munfaṣil)",
+          "root": "N/A - Pronoun",
+          "person": "Third person masculine singular",
+          "reason": "Subject of the sentence for emphasis - HE specifically (Allah).",
+          "practical": "'Huwa' = He (separate pronoun). Used for emphasis: HE ALONE created everything. After the previous verse asks 'how can you disbelieve?', this verse answers by showing Allah's creative power as proof. The pattern 'Huwa alladhī' (He is the One who...) is fundamental in Quran for emphasizing Allah's unique actions and attributes."
+        }
+      },
+      {
+        "arabic": "الَّذِي",
+        "transliteration": "alladhī",
+        "translation": "the One who",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Relative pronoun",
+          "gender": "Masculine singular",
+          "reason": "Introduces description of Allah's creative acts.",
+          "practical": "'Alladhī' = the one who (singular). Begins listing Allah's mighty deeds as evidence of His divinity. Very common structure in Quran to describe Allah's attributes."
+        }
+      },
+      {
+        "arabic": "خَلَقَ",
+        "transliteration": "khalaqa",
+        "translation": "He created",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "خ-ل-ق (kh-l-q) - to create",
+          "form": "Form I",
+          "person": "Third person masculine singular",
+          "tense": "Past - completed action",
+          "reason": "Completed act of divine creation.",
+          "practical": "From kh-l-q (to create from nothing) - THE verb for divine creation. 'Khalaqa' = He created. Past tense shows it's done - undeniable reality. Your very existence proves the Creator exists!"
+        }
+      },
+      {
+        "arabic": "لَكُم",
+        "transliteration": "lakum",
+        "translation": "for you",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Pronoun",
+          "components": "la (for) + kum (you plural)",
+          "function": "Shows purpose and benefit",
+          "reason": "Everything on earth was created FOR humanity's benefit.",
+          "practical": "'Lakum' = for you (all). Beautiful emphasis: not just 'created' but created FOR YOU! Everything on earth is a gift and trust for humans. This magnifies the obligation to be grateful and worship the Creator."
+        }
+      },
+      {
+        "arabic": "مَّا",
+        "transliteration": "mā",
+        "translation": "what / whatever",
+        "grammar": {
+          "type": "Ism - Relative Pronoun (Ism Mawṣūl)",
+          "root": "N/A - Pronoun",
+          "function": "Introduces comprehensive scope - whatever exists",
+          "reason": "Makes the statement all-inclusive.",
+          "practical": "'Mā' = what/whatever. With 'jamī'an' (all) later, it means EVERYTHING without exception. Comprehensive blessing!"
+        }
+      },
+      {
+        "arabic": "فِي",
+        "transliteration": "fī",
+        "translation": "in",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "function": "Shows location",
+          "practical": "'Fī' = in/on. Indicates where: IN the earth. Makes the next noun genitive (ends in 'i')."
+        }
+      },
+      {
+        "arabic": "الْأَرْضِ",
+        "transliteration": "al-arḍi",
+        "translation": "the earth",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "أ-ر-ض (a-r-ḍ) - earth, land",
+          "case": "Genitive (majrūr) - ends in 'i' due to 'fī'",
+          "reason": "Location of the creation mentioned.",
+          "practical": "'Al-arḍ = the earth. With 'i' ending after 'fī'. So 'fī al-arḍ = in/on the earth. ALL earth's resources, animals, plants, minerals - created for you!"
+        }
+      },
+      {
+        "arabic": "جَمِيعًا",
+        "transliteration": "jamī'an",
+        "translation": "all / altogether",
+        "grammar": {
+          "type": "Ism - Adverb of State (Ḥāl)",
+          "root": "ج-م-ع (j-m-') - to gather, to collect, to be comprehensive",
+          "case": "Accusative (manṣūb) - ends in 'an'",
+          "reason": "Emphasizes totality - ALL of it, not just some.",
+          "practical": "From j-m-' (to gather/be comprehensive). 'Jamī'an' = all, altogether, entirely. The 'an' ending shows ḥāl (state/condition). Emphasizes: He created EVERYTHING on earth for you - total, comprehensive provision!"
+        }
+      },
+      {
+        "arabic": "ثُمَّ",
+        "transliteration": "thumma",
+        "translation": "then",
+        "grammar": {
+          "type": "Harf - Conjunction (with time gap)",
+          "function": "Shows sequence with time interval",
+          "practical": "'Thumma' = then (after a while). Shows chronological order of creation: first earth, THEN heavens. Or indicates distinction between two great acts."
+        }
+      },
+      {
+        "arabic": "اسْتَوَىٰ",
+        "transliteration": "istawā",
+        "translation": "He rose / He directed Himself / He established",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "س-و-ي (s-w-y) - to be equal, to be level, to rise",
+          "form": "Form VIII (ifta'ala pattern)",
+          "person": "Third person masculine singular",
+          "tense": "Past",
+          "reason": "Describes Allah's action toward the heavens. Scholars differ on interpretation - some say 'rose above', others 'directed His will toward'.",
+          "practical": "From s-w-y (to be straight/level). Form VIII: 'istawā' has meanings including 'to rise over', 'to establish', 'to direct oneself toward'. Classical interpretation: Allah rose above His creation in a manner befitting His majesty. The exact 'how' is unknown - we believe without asking how (bilā kayf). Different from human rising!"
+        }
+      },
+      {
+        "arabic": "إِلَى",
+        "transliteration": "ilā",
+        "translation": "to / toward",
+        "grammar": {
+          "type": "Harf - Preposition",
+          "function": "Shows direction or destination",
+          "practical": "'Ilā' = to, toward. Shows direction: directed toward the heaven/sky."
+        }
+      },
+      {
+        "arabic": "السَّمَاءِ",
+        "transliteration": "as-samā'i",
+        "translation": "the heaven / the sky",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "س-م-و (s-m-w) - to be high, to be elevated",
+          "case": "Genitive (majrūr) - ends in 'i' after 'ilā'",
+          "gender": "Feminine",
+          "reason": "The destination/direction of Allah's action.",
+          "practical": "'As-samā' = the sky/heaven. From s-m-w (height/elevation). The 'i' ending is from the preposition 'ilā'. Here it's singular 'heaven' but will become 'seven heavens' - showing the process of creation."
+        }
+      },
+      {
+        "arabic": "فَسَوَّاهُنَّ",
+        "transliteration": "fasawwāhunna",
+        "translation": "and He proportioned them / and He perfected them",
+        "grammar": {
+          "type": "Harf + Fi'l - Conjunction + Past Verb + Pronoun",
+          "root": "س-و-ي (s-w-y) - to make level, to proportion, to perfect",
+          "form": "Form II (fa''ala pattern) - intensification",
+          "components": "fa (then/so) + sawwā (He proportioned) + hunna (them, feminine plural)",
+          "reason": "Shows the result - He perfected them. Form II indicates intensive/thorough action.",
+          "practical": "'Fa' = then/so (consequence). 'Sawwā' from s-w-y, Form II = to proportion perfectly, to make complete and balanced. 'Hunna' = them (feminine, referring to heavens). Together: 'Then He perfected/proportioned THEM'. The 'hunna' pronoun anticipates what 'them' refers to - explained next: seven heavens!"
+        }
+      },
+      {
+        "arabic": "سَبْعَ",
+        "transliteration": "sab'a",
+        "translation": "seven",
+        "grammar": {
+          "type": "Ism - Number (specification/badal)",
+          "root": "س-ب-ع (s-b-') - seven",
+          "case": "Accusative (manṣūb) - ends in 'a'",
+          "reason": "Specifies how many heavens - seven. Acts as badal (replacement/clarification) for 'hunna'.",
+          "practical": "'Sab'' = seven (number). The 'a' ending shows accusative. Numbers have special grammar rules in Arabic. This clarifies 'hunna' (them) = specifically SEVEN heavens. The number seven appears often in Quran and Islamic tradition."
+        }
+      },
+      {
+        "arabic": "سَمَاوَاتٍ",
+        "transliteration": "samāwātin",
+        "translation": "heavens",
+        "grammar": {
+          "type": "Ism - Noun (specification/tamyīz after number)",
+          "root": "س-م-و (s-m-w) - to be high",
+          "form": "Plural of samā' (heaven)",
+          "case": "Genitive (majrūr) - ends in 'in' with tanwīn",
+          "reason": "Follows the number 'seven'. In Arabic, numbers 3-10 are followed by genitive plural.",
+          "practical": "'Samāwāt = heavens (plural of samā'). With tanwīn 'in' ending = genitive. Rule: after numbers 3-10, the counted noun is genitive plural. So 'sab'a samāwātin' = seven heavens. These are the seven levels/layers of the sky/heavens above us, each with its own wonders!"
+        }
+      },
+      {
+        "arabic": "وَ",
+        "transliteration": "wa",
+        "translation": "and",
+        "grammar": {
+          "type": "Harf - Conjunction",
+          "practical": "'Wa' = and. Adds another attribute of Allah."
+        }
+      },
+      {
+        "arabic": "هُوَ",
+        "transliteration": "huwa",
+        "translation": "He",
+        "grammar": {
+          "type": "Ism - Pronoun (Ḍamīr Faṣl)",
+          "person": "Third person masculine singular",
+          "reason": "Separating pronoun for emphasis between subject and predicate.",
+          "practical": "'Huwa' again - here as ḍamīr faṣl (separating pronoun) for emphasis: HE (specifically, exclusively) is the All-Knowing. Not just created, but KNOWS everything about His creation!"
+        }
+      },
+      {
+        "arabic": "بِكُلِّ",
+        "transliteration": "bikulli",
+        "translation": "of every / with every",
+        "grammar": {
+          "type": "Harf + Ism - Preposition + Noun",
+          "components": "bi (with/of) + kull (every/all)",
+          "case": "Genitive - 'kulli' ends in 'i'",
+          "reason": "'Bi' shows connection to His knowledge. 'Kull' = every/all things.",
+          "practical": "'Bi' = with/of/regarding. 'Kull' = every, all. Together 'bikulli' = of every, regarding every. The 'i' ending on 'kull' is from the preposition. This starts describing the SCOPE of His knowledge - every...what? Next word!"
+        }
+      },
+      {
+        "arabic": "شَيْءٍ",
+        "transliteration": "shay'in",
+        "translation": "thing",
+        "grammar": {
+          "type": "Ism - Noun",
+          "root": "ش-ي-ء (sh-y-') - thing, matter",
+          "case": "Genitive (majrūr) - ends in 'in' with tanwīn",
+          "reason": "In possessive structure (iḍāfa) with 'kull'. Together: 'every thing'.",
+          "practical": "'Shay' = thing, something. With tanwīn 'in' = genitive. In iḍāfa with 'kull': 'kulli shay'in' = every thing. So 'bikulli shay'in' = of/regarding every thing. Completely comprehensive - NOTHING escapes His knowledge!"
+        }
+      },
+      {
+        "arabic": "عَلِيمٌ",
+        "transliteration": "'alīm",
+        "translation": "All-Knowing / Most Knowing",
+        "grammar": {
+          "type": "Ism - Intensive Adjective (Ṣifa Mushabbaha)",
+          "root": "ع-ل-م ('-l-m) - to know",
+          "form": "Pattern 'fa'īl' - intensive attribute",
+          "case": "Nominative (marfū') - ends in 'un' (here shown as 'um')",
+          "reason": "Predicate (khabar) describing Allah. The pattern shows intensive, permanent quality.",
+          "practical": "From '-l-m (knowledge). 'Alīm is one of Allah's beautiful names: the All-Knowing. The pattern 'fa'īl' (here 'alīm) indicates intensive, permanent attribute - not just 'knowing' but ALL-KNOWING! With 'kulli shay'' - He knows EVERY SINGLE THING! Your secret thoughts, hidden actions, future events - EVERYTHING! This should inspire awe and accountability. How can you disbelieve in or disobey the One who KNOWS ALL?"
+        }
+      }
+    ]
+  },
+  {
+    "verse": 30,
+    "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
+    "transliteration": "Wa idh qāla rabbuka lil-malā'ikati innī jā'ilun fī al-arḍi khalīfatan qālū ataj'alu fīhā man yufsidu fīhā wa yasfiku ad-dimā'a wa naḥnu nusabbiḥu biḥamdika wa nuqaddisu laka qāla innī a'lamu mā lā ta'lamūn",
+    "translation": "And when your Lord said to the angels, 'Indeed, I will make upon the earth a successive authority.' They said, 'Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?' Allah said, 'Indeed, I know that which you do not know'",
+    "words": [
+      {
+        "arabic": "وَإِذْ",
+        "transliteration": "Wa idh",
+        "translation": "And when / And remember when",
+        "grammar": {
+          "type": "Harf + Ism - Conjunction + Temporal Particle",
+          "components": "wa (and) + idh (when/remember when)",
+          "function": "'Idh' indicates past time and often implies 'remember when'",
+          "reason": "Introduces a historical narrative - the story of Adam's creation.",
+          "practical": "'Wa' = and. 'Idh' = when (in the past), often with implicit meaning 'remember when'. Together they introduce important stories from the past as lessons. This begins the famous story of Adam's creation and appointment as Allah's khalīfa (vicegerent/representative) on earth. Beautiful educational technique - after mentioning creation in general, now specific story of human creation!"
+        }
+      },
+      {
+        "arabic": "قَالَ",
+        "transliteration": "qāla",
+        "translation": "He said",
+        "grammar": {
+          "type": "Fi'l - Past Tense Verb (Fi'l Māḍī)",
+          "root": "ق-و-ل (q-w-l) - to say",
+          "form": "Form I",
+          "person": "Third person masculine singular",
+          "tense": "Past",
+          "reason": "Introduces divine speech - what Allah said.",
+          "practical": "From q-w-l (to say/speak). 'Qāla' = he said. Past tense. Who said? The next word clarifies."
+        }
+      },
+      {
+        "arabic": "رَبُّكَ",
+        "transliteration": "rabbuka",
+        "translation": "your Lord",
+        "grammar": {
+          "type": "Ism - Noun + Pronoun Suffix",
+          "root": "ر-ب-ب (r-b-b) - to lord over, to nourish",
+          "components": "rabb (Lord) + ka (your, singular)",
+          "case": "Nominative (marfū') - 'u' ending",
+          "reason": "Subject of 'qāla' - YOUR Lord (addressing Muhammad ﷺ and all believers) said...",
+          "practical": "'Rabb' = Lord, Nurturer, Sustainer. 'Ka' = your (singular, addressing the Prophet ﷺ). So 'rabbuka' = your Lord. The 'u' ending shows it's the subject. Personal address: YOUR Lord - creating connection and honor. Notice how Quran addresses the Prophet ﷺ personally while teaching all of us!"
+        }
+      }
+    ]
+  }
+]
