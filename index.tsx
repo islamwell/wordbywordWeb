@@ -267,6 +267,60 @@ const initialAllSurahData = {
             ]}
         ]
     },
+    2: {
+        surahNumber: 2,
+        surahName: "Al-Baqarah",
+        ayat: [
+            { ayahNumber: 1, arabic: 'الم', transliteration: 'Alif Lam Meem', translation: 'Alif, Lam, Meem', words: [
+                {arabic: 'ا', transliteration: 'Alif', translation: 'Alif', analysis: {type: 'Quranic Initial (Huruf Muqatta\'at)', root: 'N/A', rootExplanation: 'Disjointed letter - meaning known only to Allah', grammar: 'Function: Opening letter of uncertain meaning. Definiteness: N/A. Notes: One of 29 surahs that begin with mysterious letters.'}},
+                {arabic: 'ل', transliteration: 'Lam', translation: 'Lam', analysis: {type: 'Quranic Initial (Huruf Muqatta\'at)', root: 'N/A', rootExplanation: 'Disjointed letter - meaning known only to Allah', grammar: 'Function: Opening letter of uncertain meaning. Definiteness: N/A. Notes: Second of three mysterious opening letters.'}},
+                {arabic: 'م', transliteration: 'Meem', translation: 'Meem', analysis: {type: 'Quranic Initial (Huruf Muqatta\'at)', root: 'N/A', rootExplanation: 'Disjointed letter - meaning known only to Allah', grammar: 'Function: Opening letter of uncertain meaning. Definiteness: N/A. Notes: Third of three mysterious opening letters.'}}
+            ]},
+            { ayahNumber: 2, arabic: 'ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ', transliteration: 'Dhālika al-kitābu lā rayba fīhi hudan lil-muttaqīn', translation: 'This is the Book about which there is no doubt, a guidance for those conscious of Allah', words: [
+                {arabic: 'ذَٰلِكَ', transliteration: 'dhālika', translation: 'That', analysis: {type: 'Demonstrative Pronoun', root: 'N/A', rootExplanation: 'Singular demonstrative', grammar: 'Gender: Masculine. Number: Singular. Case: Nominative (subject). Function: Subject - points to the Quran. Definiteness: Definite. Used for distant or elevated things.'}},
+                {arabic: 'الْكِتَابُ', transliteration: 'al-kitābu', translation: 'the Book', analysis: {type: 'Noun', root: 'ك ت ب', rootExplanation: 'To write', grammar: 'Gender: Masculine. Number: Singular. Case: Nominative (indicated by damma/u). Function: Predicate. Definiteness: Definite (has ال). Refers to the Quran.'}},
+                {arabic: 'لَا', transliteration: 'lā', translation: 'no', analysis: {type: 'Negative Particle', root: 'N/A', rootExplanation: 'Particle of absolute negation', grammar: 'Function: Negates existence of doubt. Strong negation particle.'}},
+                {arabic: 'رَيْبَ', transliteration: 'rayba', translation: 'doubt', analysis: {type: 'Noun', root: 'ر ي ب', rootExplanation: 'Doubt, suspicion', grammar: 'Gender: Masculine. Number: Singular. Case: Accusative (fatha). Function: Negated entity. Definiteness: Indefinite.'}},
+                {arabic: 'فِيهِ', transliteration: 'fīhi', translation: 'in it', analysis: {type: 'Preposition + Pronoun', root: 'N/A', rootExplanation: 'فِي (in) + ـهِ (it/him)', grammar: 'Gender: Masculine (refers to Book). Number: Singular. Case: Genitive. Function: Locative. Definiteness: Definite (pronoun).'}},
+                {arabic: 'هُدًى', transliteration: 'hudan', translation: 'guidance', analysis: {type: 'Noun', root: 'ه د ي', rootExplanation: 'To guide', grammar: 'Gender: Masculine. Number: Singular. Case: Nominative. Function: Predicate. Definiteness: Indefinite. Tanween indicates quality.'}},
+                {arabic: 'لِلْمُتَّقِينَ', transliteration: 'lil-muttaqīn', translation: 'for the righteous', analysis: {type: 'Preposition + Noun', root: 'و ق ي', rootExplanation: 'To protect, guard (Form VIII: to be conscious of Allah)', grammar: 'Gender: Masculine. Number: Plural. Case: Genitive (yā ending). Function: Benefactive. Definiteness: Definite. لِ = for. Muttaqīn = God-conscious ones.'}}
+            ]},
+            { ayahNumber: 3, arabic: 'الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ', transliteration: 'Alladhīna yu\'minūna bil-ghaybi wa-yuqīmūna aṣ-ṣalāta wa-mimmā razaqnāhum yunfiqūn', translation: 'Who believe in the unseen, establish prayer, and spend out of what We have provided for them', words: [
+                {arabic: 'الَّذِينَ', transliteration: 'alladhīna', translation: 'those who', analysis: {type: 'Relative Pronoun', root: 'N/A', rootExplanation: 'Masculine plural relative pronoun', grammar: 'Gender: Masculine. Number: Plural. Function: Defines al-muttaqīn from previous verse. Definiteness: Definite. Indeclinable.'}},
+                {arabic: 'يُؤْمِنُونَ', transliteration: 'yu\'minūna', translation: 'they believe', analysis: {type: 'Verb (Imperfect/Present)', root: 'ء م ن', rootExplanation: 'To be safe, to believe (Form IV)', grammar: 'Form IV. Gender: Masculine. Number: Plural. Person: Third. Tense: Present. Function: Main verb. Continuous belief.'}},
+                {arabic: 'بِالْغَيْبِ', transliteration: 'bil-ghayb', translation: 'in the unseen', analysis: {type: 'Preposition + Noun', root: 'غ ي ب', rootExplanation: 'The unseen, hidden', grammar: 'Gender: Masculine. Number: Singular. Case: Genitive (kasra). Function: Object of belief. Definiteness: Definite. بِ = in/with.'}},
+                {arabic: 'وَيُقِيمُونَ', transliteration: 'wa-yuqīmūna', translation: 'and they establish', analysis: {type: 'Conjunction + Verb', root: 'ق و م', rootExplanation: 'To stand, establish (Form IV)', grammar: 'Form IV. وَ = and. Gender: Masculine. Number: Plural. Person: Third. Tense: Present. Function: Coordinated verb. Establish properly.'}},
+                {arabic: 'الصَّلَاةَ', transliteration: 'aṣ-ṣalāh', translation: 'the prayer', analysis: {type: 'Noun', root: 'ص ل و', rootExplanation: 'To pray, bless', grammar: 'Gender: Feminine. Number: Singular. Case: Accusative (fatha). Function: Direct object. Definiteness: Definite. The five daily prayers.'}},
+                {arabic: 'وَمِمَّا', transliteration: 'wa-mimmā', translation: 'and from what', analysis: {type: 'Conjunction + Preposition + Relative Pronoun', root: 'N/A', rootExplanation: 'وَ (and) + مِنْ (from) + مَا (what)', grammar: 'Function: Introduces source of spending. مِنْ indicates partitive - spending from what they have.'}},
+                {arabic: 'رَزَقْنَاهُمْ', transliteration: 'razaqnāhum', translation: 'We provided them', analysis: {type: 'Verb (Perfect/Past)', root: 'ر ز ق', rootExplanation: 'To provide, sustain', grammar: 'Person: First plural (We - Allah). Tense: Perfect/Past. نَا = We. هُمْ = them. Function: Relative clause verb. Allah provides sustenance.'}},
+                {arabic: 'يُنْفِقُونَ', transliteration: 'yunfiqūn', translation: 'they spend', analysis: {type: 'Verb (Imperfect/Present)', root: 'ن ف ق', rootExplanation: 'To spend, expend (Form IV)', grammar: 'Form IV. Gender: Masculine. Number: Plural. Person: Third. Tense: Present. Function: Main verb. Voluntary charitable spending.'}}
+            ]},
+            { ayahNumber: 4, arabic: 'وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ', transliteration: 'Walladhīna yu\'minūna bimā unzila ilayka wa-mā unzila min qablika wa-bil-ākhirati hum yūqinūn', translation: 'And who believe in what has been revealed to you, and what was revealed before you, and of the Hereafter they are certain', words: [
+                {arabic: 'وَالَّذِينَ', transliteration: 'walladhīna', translation: 'and those who', analysis: {type: 'Conjunction + Relative Pronoun', root: 'N/A', rootExplanation: 'وَ (and) + relative pronoun', grammar: 'Gender: Masculine. Number: Plural. Function: Continues description of believers. Definiteness: Definite.'}},
+                {arabic: 'يُؤْمِنُونَ', transliteration: 'yu\'minūna', translation: 'believe', analysis: {type: 'Verb (Imperfect/Present)', root: 'ء م ن', rootExplanation: 'To believe (Form IV)', grammar: 'Form IV. Gender: Masculine. Number: Plural. Person: Third. Tense: Present. Function: Main verb.'}},
+                {arabic: 'بِمَا', transliteration: 'bimā', translation: 'in what', analysis: {type: 'Preposition + Relative Pronoun', root: 'N/A', rootExplanation: 'بِ (in) + مَا (what)', grammar: 'Function: Introduces object of belief. بِمَا = in what/that which.'}},
+                {arabic: 'أُنْزِلَ', transliteration: 'unzila', translation: 'was revealed', analysis: {type: 'Verb (Perfect/Past Passive)', root: 'ن ز ل', rootExplanation: 'To descend (Form IV passive)', grammar: 'Form IV Passive. Gender: Masculine. Number: Singular. Person: Third. Tense: Perfect/Past. Function: Passive verb - revelation sent down.'}},
+                {arabic: 'إِلَيْكَ', transliteration: 'ilayka', translation: 'to you', analysis: {type: 'Preposition + Pronoun', root: 'N/A', rootExplanation: 'إِلَى (to) + كَ (you)', grammar: 'Gender: Masculine. Number: Singular. Person: Second. Function: Recipient of revelation. Definiteness: Definite. Refers to Prophet Muhammad.'}},
+                {arabic: 'وَمَا', transliteration: 'wa-mā', translation: 'and what', analysis: {type: 'Conjunction + Relative Pronoun', root: 'N/A', rootExplanation: 'وَ (and) + مَا (what)', grammar: 'Function: Coordinates second object of belief. Previous revelations.'}},
+                {arabic: 'أُنْزِلَ', transliteration: 'unzila', translation: 'was revealed', analysis: {type: 'Verb (Perfect/Past Passive)', root: 'ن ز ل', rootExplanation: 'To descend (Form IV passive)', grammar: 'Form IV Passive. Same verb repeated. Refers to Torah, Gospel, Psalms, etc.'}},
+                {arabic: 'مِنْ', transliteration: 'min', translation: 'from', analysis: {type: 'Preposition', root: 'N/A', rootExplanation: 'Preposition indicating temporal origin', grammar: 'Function: Time reference. Governs genitive. Temporal meaning: from before.'}},
+                {arabic: 'قَبْلِكَ', transliteration: 'qablika', translation: 'before you', analysis: {type: 'Adverb + Pronoun', root: 'ق ب ل', rootExplanation: 'Before', grammar: 'Gender: Masculine. Number: Singular. Case: Genitive (kasra). Function: Temporal phrase. Definiteness: Made definite by pronoun. Mudaf-Mudaf Ilayhi: قَبْلِ is mudaf, كَ is mudaf ilayhi.'}},
+                {arabic: 'وَبِالْآخِرَةِ', transliteration: 'wa-bil-ākhirati', translation: 'and in the Hereafter', analysis: {type: 'Conjunction + Preposition + Noun', root: 'ء خ ر', rootExplanation: 'Last, final', grammar: 'وَ = and. بِ = in. Gender: Feminine. Number: Singular. Case: Genitive (kasra). Function: Third object of belief. Definiteness: Definite. Day of Judgment.'}},
+                {arabic: 'هُمْ', transliteration: 'hum', translation: 'they', analysis: {type: 'Personal Pronoun', root: 'N/A', rootExplanation: 'Third person plural pronoun', grammar: 'Gender: Masculine. Number: Plural. Person: Third. Function: Emphatic subject pronoun. Definiteness: Definite.'}},
+                {arabic: 'يُوقِنُونَ', transliteration: 'yūqinūn', translation: 'have certainty', analysis: {type: 'Verb (Imperfect/Present)', root: 'ي ق ن', rootExplanation: 'To be certain (Form IV)', grammar: 'Form IV. Gender: Masculine. Number: Plural. Person: Third. Tense: Present. Function: Main verb. Absolute certainty, higher than regular belief.'}}
+            ]},
+            { ayahNumber: 5, arabic: 'أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ', transliteration: 'Ulāʾika ʿalā hudan min rabbihim wa-ulāʾika humu al-mufliḥūn', translation: 'Those are upon guidance from their Lord, and it is those who are the successful', words: [
+                {arabic: 'أُولَٰئِكَ', transliteration: 'ulāʾika', translation: 'those', analysis: {type: 'Demonstrative Pronoun', root: 'N/A', rootExplanation: 'Plural demonstrative', grammar: 'Gender: Masculine. Number: Plural. Function: Subject - refers to believers in verses 3-4. Definiteness: Definite. Elevated status.'}},
+                {arabic: 'عَلَىٰ', transliteration: 'ʿalā', translation: 'upon', analysis: {type: 'Preposition', root: 'N/A', rootExplanation: 'Preposition indicating position', grammar: 'Function: Indicates being established upon guidance. Governs genitive case. Metaphorical use.'}},
+                {arabic: 'هُدًى', transliteration: 'hudan', translation: 'guidance', analysis: {type: 'Noun', root: 'ه د ي', rootExplanation: 'To guide', grammar: 'Gender: Masculine. Number: Singular. Case: Genitive. Function: Object of preposition. Definiteness: Indefinite. Complete, perfect guidance.'}},
+                {arabic: 'مِنْ', transliteration: 'min', translation: 'from', analysis: {type: 'Preposition', root: 'N/A', rootExplanation: 'Preposition indicating source', grammar: 'Function: Source of guidance. Governs genitive. From their Lord, not themselves.'}},
+                {arabic: 'رَبِّهِمْ', transliteration: 'rabbihim', translation: 'their Lord', analysis: {type: 'Noun + Pronoun', root: 'ر ب ب', rootExplanation: 'Lord, Master, Sustainer', grammar: 'Gender: Masculine. Number: Singular (noun) / Plural (pronoun). Case: Genitive (kasra). Function: Source of guidance. Definiteness: Made definite by pronoun. Mudaf-Mudaf Ilayhi: رَبِّ is mudaf, هِمْ is mudaf ilayhi.'}},
+                {arabic: 'وَأُولَٰئِكَ', transliteration: 'wa-ulāʾika', translation: 'and those', analysis: {type: 'Conjunction + Demonstrative Pronoun', root: 'N/A', rootExplanation: 'وَ + plural demonstrative', grammar: 'Gender: Masculine. Number: Plural. Function: Second clause subject. Definiteness: Definite. Repetition for emphasis.'}},
+                {arabic: 'هُمُ', transliteration: 'humu', translation: 'they', analysis: {type: 'Personal Pronoun', root: 'N/A', rootExplanation: 'Pronoun of separation (damir al-fasl)', grammar: 'Gender: Masculine. Number: Plural. Person: Third. Function: Emphatic restriction pronoun. Definiteness: Definite. They specifically are successful.'}},
+                {arabic: 'الْمُفْلِحُونَ', transliteration: 'al-mufliḥūn', translation: 'the successful', analysis: {type: 'Noun (Active Participle)', root: 'ف ل ح', rootExplanation: 'To succeed, prosper (Form IV)', grammar: 'Form IV Active Participle. Gender: Masculine. Number: Plural. Case: Nominative (ـونَ). Function: Predicate. Definiteness: Definite. Ultimate success = Paradise.'}}
+            ]}
+        ]
+    },
     114: {
         surahNumber: 114,
         surahName: "An-Nas",
@@ -453,6 +507,18 @@ function EditorPage({ allSurahData, onSaveWord, onClose }) {
         setSelectedAyahIndex(Number(e.target.value));
     };
 
+    const handlePreviousAyah = () => {
+        if (selectedAyahIndex > 0) {
+            setSelectedAyahIndex(selectedAyahIndex - 1);
+        }
+    };
+
+    const handleNextAyah = () => {
+        if (selectedAyahIndex < surahData.ayat.length - 1) {
+            setSelectedAyahIndex(selectedAyahIndex + 1);
+        }
+    };
+
     return (
         <div className="editor-page">
             <header className="editor-header">
@@ -471,11 +537,29 @@ function EditorPage({ allSurahData, onSaveWord, onClose }) {
                 </div>
                 <div className="editor-nav-group">
                     <label htmlFor="editor-ayah-select">Ayah</label>
-                    <select id="editor-ayah-select" value={selectedAyahIndex} onChange={handleAyahChange}>
-                        {surahData.ayat.map((ayah, index) => (
-                            <option key={index} value={index}>Ayah {ayah.ayahNumber}</option>
-                        ))}
-                    </select>
+                    <div className="ayah-navigation">
+                        <button
+                            onClick={handlePreviousAyah}
+                            disabled={selectedAyahIndex === 0}
+                            className="nav-button prev-button"
+                            title="Previous Ayah"
+                        >
+                            −
+                        </button>
+                        <select id="editor-ayah-select" value={selectedAyahIndex} onChange={handleAyahChange}>
+                            {surahData.ayat.map((ayah, index) => (
+                                <option key={index} value={index}>Ayah {ayah.ayahNumber}</option>
+                            ))}
+                        </select>
+                        <button
+                            onClick={handleNextAyah}
+                            disabled={selectedAyahIndex === surahData.ayat.length - 1}
+                            className="nav-button next-button"
+                            title="Next Ayah"
+                        >
+                            +
+                        </button>
+                    </div>
                 </div>
             </nav>
             <main className="editor-main">
