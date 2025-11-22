@@ -1,0 +1,633 @@
+{
+  "surahNumber": 2,
+  "surahName": "Al-Baqarah",
+  "surahNameTranslation": "The Cow",
+  "totalVerses": 286,
+  "revelationType": "Medinan",
+  "ayat": [
+    {
+      "ayahNumber": 1,
+      "arabic": "الم",
+      "transliteration": "Alif Lam Meem",
+      "translation": "Alif, Lam, Meem",
+      "words": [
+        {
+          "arabic": "ا",
+          "transliteration": "Alif",
+          "translation": "Alif",
+          "analysis": {
+            "type": "Quranic Initial (Huruf Muqatta'at)",
+            "grammar": "Disjointed letter - meaning known only to Allah",
+            "function": "Opening letter of uncertain meaning",
+            "definiteness": "N/A",
+            "notes": "One of 29 surahs that begin with mysterious letters. Scholars have various interpretations but the true meaning is known only to Allah."
+          }
+        },
+        {
+          "arabic": "ل",
+          "transliteration": "Lam",
+          "translation": "Lam",
+          "analysis": {
+            "type": "Quranic Initial (Huruf Muqatta'at)",
+            "grammar": "Disjointed letter - meaning known only to Allah",
+            "function": "Opening letter of uncertain meaning",
+            "definiteness": "N/A",
+            "notes": "Second of three mysterious opening letters"
+          }
+        },
+        {
+          "arabic": "م",
+          "transliteration": "Meem",
+          "translation": "Meem",
+          "analysis": {
+            "type": "Quranic Initial (Huruf Muqatta'at)",
+            "grammar": "Disjointed letter - meaning known only to Allah",
+            "function": "Opening letter of uncertain meaning",
+            "definiteness": "N/A",
+            "notes": "Third of three mysterious opening letters"
+          }
+        }
+      ]
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
+      "transliteration": "Dhālika al-kitābu lā rayba fīhi hudan lil-muttaqīn",
+      "translation": "This is the Book about which there is no doubt, a guidance for those conscious of Allah",
+      "words": [
+        {
+          "arabic": "ذَٰلِكَ",
+          "transliteration": "dhālika",
+          "translation": "That",
+          "analysis": {
+            "type": "Demonstrative Pronoun",
+            "grammar": "Singular demonstrative pointing to something distant or of high status",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Nominative (implicit subject)",
+            "function": "Subject - points to the Quran",
+            "definiteness": "Definite",
+            "notes": "Used for distant or elevated things. Here 'that' emphasizes the elevated status of the Quran, not physical distance."
+          }
+        },
+        {
+          "arabic": "الْكِتَابُ",
+          "transliteration": "al-kitābu",
+          "translation": "the Book",
+          "analysis": {
+            "type": "Noun",
+            "root": "ك-ت-ب (k-t-b)",
+            "grammar": "Common noun with definite article",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Nominative (indicated by damma/u ending)",
+            "function": "Predicate - identifies what 'that' refers to",
+            "definiteness": "Definite (has ال prefix)",
+            "notes": "From root k-t-b meaning 'to write'. Al-Kitāb specifically refers to the Quran as THE Book par excellence."
+          }
+        },
+        {
+          "arabic": "لَا",
+          "transliteration": "lā",
+          "translation": "no / not",
+          "analysis": {
+            "type": "Negative Particle",
+            "grammar": "Particle of absolute negation",
+            "function": "Negates existence of doubt",
+            "definiteness": "N/A",
+            "notes": "Strong negation - 'lā' when used before indefinite nouns creates categorical negation, meaning 'there is absolutely no...'"
+          }
+        },
+        {
+          "arabic": "رَيْبَ",
+          "transliteration": "rayba",
+          "translation": "doubt",
+          "analysis": {
+            "type": "Noun",
+            "root": "ر-ي-ب (r-y-b)",
+            "grammar": "Indefinite noun negated by lā",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Accusative (indicated by fatha/a ending)",
+            "function": "Negated entity - what does not exist in the Book",
+            "definiteness": "Indefinite",
+            "notes": "Rayb means doubt, suspicion, or uncertainty. The accusative case here is governed by the negative particle 'lā'."
+          }
+        },
+        {
+          "arabic": "فِيهِ",
+          "transliteration": "fīhi",
+          "translation": "in it",
+          "analysis": {
+            "type": "Preposition + Pronoun",
+            "grammar": "Preposition فِي + attached pronoun ـهِ",
+            "gender": "Masculine (pronoun refers back to al-kitāb)",
+            "number": "Singular",
+            "case": "Genitive (preposition governs genitive)",
+            "function": "Locative - specifies where there is no doubt (in the Book itself)",
+            "definiteness": "Definite (pronoun)",
+            "notes": "فِي means 'in/within'. The attached pronoun ـهِ refers back to al-kitāb (the Book). Together: 'in it'."
+          }
+        },
+        {
+          "arabic": "هُدًى",
+          "transliteration": "hudan",
+          "translation": "guidance",
+          "analysis": {
+            "type": "Noun",
+            "root": "ه-د-ي (h-d-y)",
+            "grammar": "Indefinite noun in nominative case",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Nominative (indicated by tanween/un sound)",
+            "function": "Predicate or second subject - describes what the Book is",
+            "definiteness": "Indefinite",
+            "notes": "From root h-d-y meaning 'to guide'. Hudā is guidance that leads to the right path. The tanween (un) indicates indefinite form, emphasizing the quality of guidance."
+          }
+        },
+        {
+          "arabic": "لِلْمُتَّقِينَ",
+          "transliteration": "lil-muttaqīn",
+          "translation": "for those conscious of Allah / for the righteous",
+          "analysis": {
+            "type": "Preposition + Noun",
+            "root": "و-ق-ي (w-q-y) for muttaqīn",
+            "grammar": "Preposition لِ + definite plural noun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "case": "Genitive (preposition governs genitive, indicated by yā ending in sound masculine plural)",
+            "function": "Benefactive - specifies for whom the guidance is intended",
+            "definiteness": "Definite (has ال prefix)",
+            "mudaf_mudaf_ilayhi": "N/A",
+            "notes": "لِ means 'for'. Al-muttaqīn is active participle (Form VIII) from root w-q-y meaning 'to protect/guard'. Muttaqīn = those who protect themselves (from Allah's punishment by being conscious of Him). The ـينَ ending indicates masculine sound plural in genitive/accusative case."
+          }
+        }
+      ]
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "transliteration": "Alladhīna yu'minūna bil-ghaybi wa-yuqīmūna aṣ-ṣalāta wa-mimmā razaqnāhum yunfiqūn",
+      "translation": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them",
+      "words": [
+        {
+          "arabic": "الَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation": "those who",
+          "analysis": {
+            "type": "Relative Pronoun",
+            "grammar": "Masculine plural relative pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "case": "N/A (indeclinable)",
+            "function": "Relative pronoun defining/describing al-muttaqīn from previous verse",
+            "definiteness": "Definite",
+            "notes": "Alladhīna connects this verse to the previous, further describing 'al-muttaqīn'. It introduces a relative clause explaining WHO these God-conscious people are."
+          }
+        },
+        {
+          "arabic": "يُؤْمِنُونَ",
+          "transliteration": "yu'minūna",
+          "translation": "they believe",
+          "analysis": {
+            "type": "Verb (Imperfect/Present)",
+            "root": "ء-م-ن (ʾ-m-n)",
+            "form": "Form IV (أفعل - af'ala pattern)",
+            "grammar": "Present tense verb with attached plural subject pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "tense": "Present/Imperfect (ongoing action)",
+            "case": "N/A (verb)",
+            "function": "Main verb - describes the action of believing",
+            "notes": "From root ʾ-m-n meaning 'to be safe/secure', Form IV means 'to believe/have faith'. The prefix يُـ (yu) indicates third person, suffix ـونَ (ūna) indicates masculine plural. Present tense implies continuous, habitual belief."
+          }
+        },
+        {
+          "arabic": "بِالْغَيْبِ",
+          "transliteration": "bil-ghayb",
+          "translation": "in the unseen",
+          "analysis": {
+            "type": "Preposition + Noun",
+            "root": "غ-ي-ب (gh-y-b)",
+            "grammar": "Preposition بِ + definite noun in genitive",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Genitive (governed by preposition, indicated by kasra/i)",
+            "function": "Object of belief - what they believe in",
+            "definiteness": "Definite (has ال prefix)",
+            "notes": "بِ means 'in/with'. Al-ghayb from root gh-y-b means 'the unseen/hidden'. Refers to belief in Allah, angels, Day of Judgment, and matters beyond physical perception."
+          }
+        },
+        {
+          "arabic": "وَيُقِيمُونَ",
+          "transliteration": "wa-yuqīmūna",
+          "translation": "and they establish",
+          "analysis": {
+            "type": "Conjunction + Verb",
+            "root": "ق-و-م (q-w-m)",
+            "form": "Form IV (أفعل - af'ala pattern)",
+            "grammar": "Coordinating conjunction وَ + present tense verb with plural subject",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "tense": "Present/Imperfect",
+            "function": "Coordinated verb - second action that defines al-muttaqīn",
+            "notes": "وَ means 'and'. Yuqīmūna from root q-w-m (to stand/establish), Form IV means 'to establish, maintain, perform properly'. Not just 'pray' but establish prayer with all its conditions."
+          }
+        },
+        {
+          "arabic": "الصَّلَاةَ",
+          "transliteration": "aṣ-ṣalāh",
+          "translation": "the prayer",
+          "analysis": {
+            "type": "Noun",
+            "root": "ص-ل-و (ṣ-l-w)",
+            "grammar": "Definite noun, direct object of verb",
+            "gender": "Feminine",
+            "number": "Singular",
+            "case": "Accusative (object of verb, indicated by fatha/a)",
+            "function": "Direct object - what is being established",
+            "definiteness": "Definite (has ال prefix)",
+            "notes": "From root ṣ-l-w meaning 'to pray/bless'. Aṣ-ṣalāh refers to the five daily ritual prayers, one of the five pillars of Islam."
+          }
+        },
+        {
+          "arabic": "وَمِمَّا",
+          "transliteration": "wa-mimmā",
+          "translation": "and from what",
+          "analysis": {
+            "type": "Conjunction + Preposition + Relative Pronoun",
+            "grammar": "وَ (conjunction) + مِنْ (preposition) + مَا (relative pronoun)",
+            "function": "Introduces the source of their spending",
+            "definiteness": "Relative pronoun indicates general/unspecified things",
+            "notes": "وَ = 'and'. مِنْ = 'from' (becomes مِمَّ when attached to مَا). مَا = 'what/that which'. Together: 'and from what...'. The مِنْ indicates partitive meaning - they spend 'from' (some of) what they have."
+          }
+        },
+        {
+          "arabic": "رَزَقْنَاهُمْ",
+          "transliteration": "razaqnāhum",
+          "translation": "We have provided them",
+          "analysis": {
+            "type": "Verb (Perfect/Past)",
+            "root": "ر-ز-ق (r-z-q)",
+            "grammar": "Past tense verb with attached subject pronoun (نَا) and object pronoun (هُمْ)",
+            "gender": "Masculine (object pronoun)",
+            "number": "Plural (object pronoun)",
+            "person": "First person plural (We - Allah using royal/majestic plural)",
+            "tense": "Perfect/Past (completed action with ongoing result)",
+            "function": "Relative clause verb describing the provision given to them",
+            "notes": "From root r-z-q meaning 'to provide/sustain'. Razaqa = 'provided/gave sustenance'. نَا = 'We' (attached subject pronoun). هُمْ = 'them' (attached object pronoun). Allah is the Provider of all sustenance."
+          }
+        },
+        {
+          "arabic": "يُنْفِقُونَ",
+          "transliteration": "yunfiqūn",
+          "translation": "they spend",
+          "analysis": {
+            "type": "Verb (Imperfect/Present)",
+            "root": "ن-ف-ق (n-f-q)",
+            "form": "Form IV (أفعل - af'ala pattern)",
+            "grammar": "Present tense verb with plural subject pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "tense": "Present/Imperfect (continuous action)",
+            "function": "Main verb - third characteristic of al-muttaqīn",
+            "notes": "From root n-f-q meaning 'to spend/expend'. Form IV yunfiqūna means 'they spend (in charity, for good causes)'. Emphasizes voluntary charitable spending beyond obligatory zakah, demonstrating generosity with Allah's provisions."
+          }
+        }
+      ]
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+      "transliteration": "Walladhīna yu'minūna bimā unzila ilayka wa-mā unzila min qablika wa-bil-ākhirati hum yūqinūn",
+      "translation": "And who believe in what has been revealed to you, and what was revealed before you, and of the Hereafter they are certain",
+      "words": [
+        {
+          "arabic": "وَالَّذِينَ",
+          "transliteration": "walladhīna",
+          "translation": "and those who",
+          "analysis": {
+            "type": "Conjunction + Relative Pronoun",
+            "grammar": "وَ (conjunction) + relative pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "function": "Continues description of believers, coordinating with previous verse",
+            "definiteness": "Definite",
+            "notes": "Continues the description of al-muttaqīn, adding another characteristic of the God-conscious."
+          }
+        },
+        {
+          "arabic": "يُؤْمِنُونَ",
+          "transliteration": "yu'minūna",
+          "translation": "believe",
+          "analysis": {
+            "type": "Verb (Imperfect/Present)",
+            "root": "ء-م-ن (ʾ-m-n)",
+            "form": "Form IV",
+            "grammar": "Present tense verb with plural subject",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "tense": "Present/Imperfect",
+            "function": "Main verb - action of believing",
+            "notes": "Same verb as in verse 3, emphasizing continuous belief."
+          }
+        },
+        {
+          "arabic": "بِمَا",
+          "transliteration": "bimā",
+          "translation": "in what",
+          "analysis": {
+            "type": "Preposition + Relative Pronoun",
+            "grammar": "بِ (preposition 'in/with') + مَا (relative pronoun 'what')",
+            "function": "Introduces the object of belief",
+            "definiteness": "Relative pronoun",
+            "notes": "بِمَا together means 'in what' or 'in that which', introducing the content of their belief."
+          }
+        },
+        {
+          "arabic": "أُنْزِلَ",
+          "transliteration": "unzila",
+          "translation": "was revealed / sent down",
+          "analysis": {
+            "type": "Verb (Perfect/Past Passive)",
+            "root": "ن-ز-ل (n-z-l)",
+            "form": "Form IV (أفعل) - Passive voice",
+            "grammar": "Past tense passive verb",
+            "gender": "Masculine",
+            "number": "Singular",
+            "person": "Third person",
+            "tense": "Perfect/Past",
+            "function": "Passive verb describing revelation being sent down",
+            "notes": "From root n-z-l meaning 'to descend'. Form IV passive unzila = 'was sent down/revealed'. Refers to divine revelation (the Quran) sent down from Allah."
+          }
+        },
+        {
+          "arabic": "إِلَيْكَ",
+          "transliteration": "ilayka",
+          "translation": "to you",
+          "analysis": {
+            "type": "Preposition + Pronoun",
+            "grammar": "إِلَى (preposition) + كَ (attached pronoun)",
+            "gender": "Masculine",
+            "number": "Singular",
+            "person": "Second person (addressing Prophet Muhammad)",
+            "function": "Prepositional phrase indicating recipient of revelation",
+            "definiteness": "Definite (pronoun)",
+            "notes": "إِلَى means 'to/toward'. كَ is second person singular masculine pronoun 'you'. Refers to Prophet Muhammad (ﷺ) as recipient of the Quran."
+          }
+        },
+        {
+          "arabic": "وَمَا",
+          "transliteration": "wa-mā",
+          "translation": "and what",
+          "analysis": {
+            "type": "Conjunction + Relative Pronoun",
+            "grammar": "وَ (conjunction) + مَا (relative pronoun)",
+            "function": "Coordinates and introduces second object of belief",
+            "definiteness": "Relative pronoun",
+            "notes": "وَ = 'and', مَا = 'what'. Together introduces the second part: previous revelations."
+          }
+        },
+        {
+          "arabic": "أُنْزِلَ",
+          "transliteration": "unzila",
+          "translation": "was revealed / sent down",
+          "analysis": {
+            "type": "Verb (Perfect/Past Passive)",
+            "root": "ن-ز-ل (n-z-l)",
+            "form": "Form IV - Passive voice",
+            "grammar": "Past tense passive verb",
+            "gender": "Masculine",
+            "number": "Singular",
+            "person": "Third person",
+            "tense": "Perfect/Past",
+            "function": "Passive verb - repeated from previous",
+            "notes": "Same verb repeated, now referring to previous scriptures (Torah, Gospel, Psalms, etc.) revealed to earlier prophets."
+          }
+        },
+        {
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "translation": "from / before",
+          "analysis": {
+            "type": "Preposition",
+            "grammar": "Preposition indicating temporal origin",
+            "function": "Indicates time reference - 'from before'",
+            "case": "Governs genitive case on following word",
+            "notes": "مِنْ here has temporal meaning, indicating 'from' a previous time period."
+          }
+        },
+        {
+          "arabic": "قَبْلِكَ",
+          "transliteration": "qablika",
+          "translation": "before you",
+          "analysis": {
+            "type": "Adverb (Noun of Time) + Pronoun",
+            "root": "ق-ب-ل (q-b-l)",
+            "grammar": "Temporal noun + attached possessive pronoun",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Genitive (governed by مِنْ, indicated by kasra/i)",
+            "function": "Temporal phrase - indicates time before the Prophet",
+            "definiteness": "Made definite by attached pronoun",
+            "mudaf_mudaf_ilayhi": "قَبْلِ is mudaf, كَ (you) is mudaf ilayhi",
+            "notes": "قَبْلِ means 'before'. كَ = 'you' (possessive pronoun). Together: 'before you', referring to revelations given to prophets before Muhammad (ﷺ)."
+          }
+        },
+        {
+          "arabic": "وَبِالْآخِرَةِ",
+          "transliteration": "wa-bil-ākhirati",
+          "translation": "and in the Hereafter",
+          "analysis": {
+            "type": "Conjunction + Preposition + Noun",
+            "root": "ء-خ-ر (ʾ-kh-r)",
+            "grammar": "وَ + بِ (preposition) + definite noun",
+            "gender": "Feminine",
+            "number": "Singular",
+            "case": "Genitive (governed by preposition, indicated by kasra/i and tāʾ marbūṭa)",
+            "function": "Prepositional phrase - third object of belief",
+            "definiteness": "Definite (has ال prefix)",
+            "notes": "وَ = 'and'. بِ = 'in'. الْآخِرَة from root ʾ-kh-r meaning 'last/final'. Al-ākhirah = 'the Hereafter/Last Day'. Refers to belief in the Day of Judgment, afterlife, Paradise, and Hell."
+          }
+        },
+        {
+          "arabic": "هُمْ",
+          "transliteration": "hum",
+          "translation": "they",
+          "analysis": {
+            "type": "Personal Pronoun",
+            "grammar": "Third person plural independent pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "function": "Subject pronoun for emphasis",
+            "definiteness": "Definite (pronoun)",
+            "notes": "Independent pronoun used for emphasis. Emphasizes that THEY (specifically) have certainty about the Hereafter."
+          }
+        },
+        {
+          "arabic": "يُوقِنُونَ",
+          "transliteration": "yūqinūn",
+          "translation": "have certainty / are certain",
+          "analysis": {
+            "type": "Verb (Imperfect/Present)",
+            "root": "ي-ق-ن (y-q-n)",
+            "form": "Form IV (أفعل)",
+            "grammar": "Present tense verb with plural subject",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "tense": "Present/Imperfect",
+            "function": "Main verb - describes their certainty",
+            "notes": "From root y-q-n meaning 'to be certain/sure'. Form IV yūqinūna = 'they have certainty/conviction'. Higher level than regular belief (īmān) - absolute certainty with no doubt about the Hereafter."
+          }
+        }
+      ]
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "transliteration": "Ulāʾika ʿalā hudan min rabbihim wa-ulāʾika humu al-mufliḥūn",
+      "translation": "Those are upon guidance from their Lord, and it is those who are the successful",
+      "words": [
+        {
+          "arabic": "أُولَٰئِكَ",
+          "transliteration": "ulāʾika",
+          "translation": "those",
+          "analysis": {
+            "type": "Demonstrative Pronoun",
+            "grammar": "Plural demonstrative pronoun for distant/elevated things",
+            "gender": "Masculine",
+            "number": "Plural",
+            "function": "Subject - refers back to the believers described in verses 3-4",
+            "definiteness": "Definite",
+            "notes": "Ulāʾika is plural form of dhālika. Used to point to people with elevated status. Refers to all the believers who have the qualities mentioned in verses 2-4."
+          }
+        },
+        {
+          "arabic": "عَلَىٰ",
+          "transliteration": "ʿalā",
+          "translation": "upon / on",
+          "analysis": {
+            "type": "Preposition",
+            "grammar": "Preposition indicating position or state",
+            "function": "Indicates being established upon guidance",
+            "case": "Governs genitive case on following word",
+            "notes": "عَلَى means 'upon/on'. Here used metaphorically to indicate being firmly established upon guidance."
+          }
+        },
+        {
+          "arabic": "هُدًى",
+          "transliteration": "hudan",
+          "translation": "guidance",
+          "analysis": {
+            "type": "Noun",
+            "root": "ه-د-ي (h-d-y)",
+            "grammar": "Indefinite noun",
+            "gender": "Masculine",
+            "number": "Singular",
+            "case": "Genitive (governed by عَلَى, but appears nominative with tanween due to defective noun ending in alif maqsura)",
+            "function": "Object of preposition - what they are upon",
+            "definiteness": "Indefinite",
+            "notes": "Same word as in verse 2. Here indicates the state of being guided. The indefiniteness suggests complete, perfect guidance."
+          }
+        },
+        {
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "translation": "from",
+          "analysis": {
+            "type": "Preposition",
+            "grammar": "Preposition indicating source/origin",
+            "function": "Indicates the source of guidance",
+            "case": "Governs genitive case on following word",
+            "notes": "مِنْ indicates source - the guidance comes FROM their Lord, not from themselves."
+          }
+        },
+        {
+          "arabic": "رَبِّهِمْ",
+          "transliteration": "rabbihim",
+          "translation": "their Lord",
+          "analysis": {
+            "type": "Noun + Pronoun",
+            "root": "ر-ب-ب (r-b-b)",
+            "grammar": "Noun with attached possessive pronoun",
+            "gender": "Masculine",
+            "number": "Singular (noun) / Plural (pronoun)",
+            "case": "Genitive (governed by مِنْ, indicated by kasra/i)",
+            "function": "Source of guidance",
+            "definiteness": "Made definite by attached pronoun",
+            "mudaf_mudaf_ilayhi": "رَبِّ is mudaf, هِمْ (their) is mudaf ilayhi",
+            "notes": "رَبّ from root r-b-b means 'Lord/Master/Sustainer/Nurturer'. هِمْ = 'their' (possessive pronoun). Emphasizes personal relationship between believers and their Lord."
+          }
+        },
+        {
+          "arabic": "وَأُولَٰئِكَ",
+          "transliteration": "wa-ulāʾika",
+          "translation": "and those",
+          "analysis": {
+            "type": "Conjunction + Demonstrative Pronoun",
+            "grammar": "وَ (conjunction) + plural demonstrative pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "function": "Subject of second clause, emphasizing same group",
+            "definiteness": "Definite",
+            "notes": "Repetition of ulāʾika for emphasis, introducing a second declaration about these believers."
+          }
+        },
+        {
+          "arabic": "هُمُ",
+          "transliteration": "humu",
+          "translation": "they",
+          "analysis": {
+            "type": "Personal Pronoun",
+            "grammar": "Third person plural independent pronoun",
+            "gender": "Masculine",
+            "number": "Plural",
+            "person": "Third person",
+            "function": "Pronoun of separation (damir al-fasl) for emphasis and restriction",
+            "definiteness": "Definite (pronoun)",
+            "notes": "Used here as pronoun of separation (damir al-fasl). Emphasizes and restricts the meaning: THEY (and specifically they) are the successful ones."
+          }
+        },
+        {
+          "arabic": "الْمُفْلِحُونَ",
+          "transliteration": "al-mufliḥūn",
+          "translation": "the successful ones",
+          "analysis": {
+            "type": "Noun (Active Participle)",
+            "root": "ف-ل-ح (f-l-ḥ)",
+            "form": "Form IV Active Participle",
+            "grammar": "Definite plural active participle",
+            "gender": "Masculine",
+            "number": "Plural",
+            "case": "Nominative (predicate, indicated by ـونَ ending)",
+            "function": "Predicate - describes the believers as successful",
+            "definiteness": "Definite (has ال prefix)",
+            "notes": "From root f-l-ḥ meaning 'to succeed/prosper/thrive'. Form IV active participle al-mufliḥūn = 'the successful ones/those who achieve success'. Refers to ultimate success: Paradise in the Hereafter. The definite article + restriction by damir al-fasl emphasizes they are THE ONLY truly successful ones."
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_words_in_surah": "6,140-6,201 words (varies by counting methodology)",
+    "total_verses": 286,
+    "sections_rukus": 40,
+    "longest_verse": "Verse 282 (129 words) - Ayat al-Dayn (Verse of Debt)",
+    "famous_verse": "Verse 255 - Ayat al-Kursi (Verse of the Throne)",
+    "notes": "Al-Baqarah is the longest surah in the Quran. These first 5 verses introduce the Quran and describe the characteristics of the muttaqīn (God-conscious believers)."
+  },
+  "sources": {
+    "primary_references": [
+      "Quranic Arabic Corpus (corpus.quran.com) - Morphological and grammatical analysis",
+      "QuranWBW.com - Word by word translation and transliteration",
+      "Classical Arabic grammar references for case endings and grammatical functions"
+    ],
+    "notes": "Grammar analysis focuses on lexicography and grammatical structure. Spiritual interpretation (tafsir) is intentionally minimized per requirements."
+  }
+}

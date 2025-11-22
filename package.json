@@ -16,6 +16,7 @@
     "@capacitor/cli": "^7.4.4",
     "@capacitor/core": "^7.4.4",
     "@google/genai": "^0.7.0",
+    "firebase": "^12.6.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

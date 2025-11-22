@@ -466,6 +466,18 @@ function EditorPage({ allSurahData, onSaveWord, onClose }) {
         setSelectedAyahIndex(Number(e.target.value));
     };
 
+    const handlePreviousAyah = () => {
+        if (selectedAyahIndex > 0) {
+            setSelectedAyahIndex(selectedAyahIndex - 1);
+        }
+    };
+
+    const handleNextAyah = () => {
+        if (selectedAyahIndex < surahData.ayat.length - 1) {
+            setSelectedAyahIndex(selectedAyahIndex + 1);
+        }
+    };
+
     return (
         <div className="editor-page">
             <header className="editor-header">
@@ -484,11 +496,29 @@ function EditorPage({ allSurahData, onSaveWord, onClose }) {
                 </div>
                 <div className="editor-nav-group">
                     <label htmlFor="editor-ayah-select">Ayah</label>
-                    <select id="editor-ayah-select" value={selectedAyahIndex} onChange={handleAyahChange}>
-                        {surahData.ayat.map((ayah, index) => (
-                            <option key={index} value={index}>Ayah {ayah.ayahNumber}</option>
-                        ))}
-                    </select>
+                    <div className="ayah-navigation">
+                        <button
+                            onClick={handlePreviousAyah}
+                            disabled={selectedAyahIndex === 0}
+                            className="nav-button prev-button"
+                            title="Previous Ayah"
+                        >
+                            −
+                        </button>
+                        <select id="editor-ayah-select" value={selectedAyahIndex} onChange={handleAyahChange}>
+                            {surahData.ayat.map((ayah, index) => (
+                                <option key={index} value={index}>Ayah {ayah.ayahNumber}</option>
+                            ))}
+                        </select>
+                        <button
+                            onClick={handleNextAyah}
+                            disabled={selectedAyahIndex === surahData.ayat.length - 1}
+                            className="nav-button next-button"
+                            title="Next Ayah"
+                        >
+                            +
+                        </button>
+                    </div>
                 </div>
             </nav>
             <main className="editor-main">
@@ -559,6 +589,22 @@ function App() {
         return part;
     });
   }, [arabicFontSize]);
+
+  // Listen for authentication state changes
+  useEffect(() => {
+    if (!isFirebaseConfigured()) return;
+
+    const unsubscribe = onAuthChange((user) => {
+      setCurrentUser(user);
+      if (user) {
+        console.log('User signed in:', user.email);
+      } else {
+        console.log('User signed out');
+      }
+    });
+
+    return () => unsubscribe();
+  }, []);
 
   // Load state from localStorage on initial mount
   useEffect(() => {
@@ -739,7 +785,39 @@ function App() {
       }
     }
   };
-  
+
+  const handleOpenEditor = () => {
+    // Check if Firebase is configured
+    if (!isFirebaseConfigured()) {
+      // If Firebase not configured, allow editing without auth (backward compatibility)
+      setEditorOpen(true);
+      return;
+    }
+
+    // Check if user is authenticated
+    if (!currentUser) {
+      // Show auth modal if not logged in
+      setAuthModalOpen(true);
+      return;
+    }
+
+    // User is authenticated, open editor
+    setEditorOpen(true);
+  };
+
+  const handleLogout = async () => {
+    const result = await logout();
+    if (result.success) {
+      setCurrentUser(null);
+      setEditorOpen(false);
+    }
+  };
+
+  const handleAuthSuccess = () => {
+    // User successfully authenticated, now open the editor
+    setEditorOpen(true);
+  };
+
   if (isEditorOpen) {
     return <EditorPage 
         allSurahData={allSurahData} 
@@ -750,7 +828,12 @@ function App() {
 
   return (
     <>
-      <SurahSelector 
+      <AuthModal
+        isOpen={isAuthModalOpen}
+        onClose={() => setAuthModalOpen(false)}
+        onAuthSuccess={handleAuthSuccess}
+      />
+      <SurahSelector
         isOpen={isSurahSelectorOpen}
         onClose={() => setSurahSelectorOpen(false)}
         onSelect={handleSelectSurah}
@@ -758,6 +841,20 @@ function App() {
       />
       <div className={`container font-${arabicFont}`}>
         <header>
+            {isFirebaseConfigured() && currentUser && (
+              <div className="user-status-bar">
+                <div className="user-info">
+                  <div className="user-avatar">
+                    {currentUser.displayName ? currentUser.displayName.charAt(0).toUpperCase() : currentUser.email?.charAt(0).toUpperCase()}
+                  </div>
+                  <div className="user-details">
+                    <div className="user-name">{currentUser.displayName || 'User'}</div>
+                    <div className="user-email">{currentUser.email}</div>
+                  </div>
+                </div>
+                <button className="btn-logout" onClick={handleLogout}>Logout</button>
+              </div>
+            )}
             <button className="ayah-header-button" onClick={() => setSurahSelectorOpen(true)}>
               <h3>Surah {surahData.surahName} (Ayah {currentAyah.ayahNumber})</h3>
               <svg className="chevron-down" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
