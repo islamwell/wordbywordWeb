@@ -1,10 +1,11 @@
 /**
  * Authentication Modal Component
  * Handles user login and signup for grammar editing
+ * Now using Supabase for authentication
  */
 
 import React, { useState } from 'react';
-import { signIn, signUp, isFirebaseConfigured } from './firebase';
+import { signIn, signUp, isSupabaseConfigured } from './supabaseClient';
 
 interface AuthModalProps {
   isOpen: boolean;
@@ -27,29 +28,25 @@ export function AuthModal({ isOpen, onClose, onAuthSuccess }: AuthModalProps) {
     setError('');
     setLoading(true);
 
-    if (!isFirebaseConfigured()) {
-      setError('Firebase is not configured. Please add Firebase credentials to .env file.');
+    if (!isSupabaseConfigured()) {
+      setError('Supabase is not configured. Please add Supabase credentials to .env file.');
       setLoading(false);
       return;
     }
 
     try {
-      let result;
       if (isSignUp) {
-        result = await signUp(email, password, displayName);
+        await signUp(email, password, displayName);
       } else {
-        result = await signIn(email, password);
+        await signIn(email, password);
       }
 
-      if (result.success) {
-        onAuthSuccess();
-        onClose();
-        setEmail('');
-        setPassword('');
-        setDisplayName('');
-      } else {
-        setError(result.error || 'Authentication failed');
-      }
+      // Success!
+      onAuthSuccess();
+      onClose();
+      setEmail('');
+      setPassword('');
+      setDisplayName('');
     } catch (err: any) {
       setError(err.message || 'An error occurred');
     } finally {
