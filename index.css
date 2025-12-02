@@ -905,3 +905,230 @@ body.theme-light .surah-search-input {
   background: rgba(16, 185, 129, 0.1);
   font-weight: 500;
 }
+
+/* ===============================================
+   Grammar Visualization Styles
+   =============================================== */
+
+/* Grammar inline view container */
+.grammar-inline-view {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+}
+
+.grammar-verse-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.grammar-verse {
+  direction: rtl;
+  unicode-bidi: embed;
+  font-family: 'Noto Naskh Arabic', serif;
+  line-height: 2.5;
+  text-align: right;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+/* Grammar word styling */
+.gram-word {
+  cursor: help;
+  position: relative;
+  display: inline-block;
+  padding: 0.2rem 0.4rem;
+  margin: 0 0.2rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.gram-word:hover {
+  transform: scale(1.05);
+  filter: brightness(1.2);
+}
+
+/* Verb color classes */
+.verb-past {
+  color: #0D47A1;
+  background: rgba(13, 71, 161, 0.1);
+}
+
+.verb-present {
+  color: #2196F3;
+  background: rgba(33, 150, 243, 0.1);
+}
+
+.verb-imperative {
+  color: #00BCD4;
+  background: rgba(0, 188, 212, 0.1);
+  text-shadow: 0 0 12px rgba(0, 188, 212, 0.8);
+}
+
+/* Noun color class */
+.noun {
+  color: #4CAF50;
+  background: rgba(76, 175, 80, 0.1);
+}
+
+/* Preposition color class */
+.preposition {
+  color: #9C27B0;
+  background: rgba(156, 39, 176, 0.1);
+}
+
+/* Particle color class */
+.particle {
+  color: #7B1FA2;
+  background: rgba(123, 31, 162, 0.1);
+}
+
+/* Negative particle color class */
+.negative {
+  color: #E53935;
+  background: rgba(229, 57, 53, 0.1);
+}
+
+/* Animation keyframes */
+@keyframes pulsePast {
+  0%, 100% {
+    text-shadow: 0 0 0 rgba(13, 71, 161, 0.3);
+  }
+  50% {
+    text-shadow: 0 0 8px rgba(13, 71, 161, 0.8), 0 0 16px rgba(13, 71, 161, 0.6);
+  }
+}
+
+@keyframes pulsePresent {
+  0%, 100% {
+    text-shadow: 0 0 0 rgba(33, 150, 243, 0.3);
+  }
+  50% {
+    text-shadow: 0 0 8px rgba(33, 150, 243, 0.8), 0 0 16px rgba(33, 150, 243, 0.6);
+  }
+}
+
+/* Animation classes */
+.animate-pulse {
+  animation: pulsePresent 3s ease-in-out infinite;
+}
+
+.pulse-past {
+  animation: pulsePast 3s ease-in-out infinite;
+}
+
+/* Tooltip styling */
+.gram-word::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 130%;
+  right: 50%;
+  transform: translateX(50%);
+  background: rgba(0, 0, 0, 0.95);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  white-space: nowrap;
+  font-size: 0.85rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease-in-out;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.gram-word::before {
+  content: '';
+  position: absolute;
+  bottom: 115%;
+  right: 50%;
+  transform: translateX(50%);
+  border: 6px solid transparent;
+  border-top-color: rgba(0, 0, 0, 0.95);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  z-index: 1000;
+}
+
+.show-tooltips .gram-word:hover::after,
+.show-tooltips .gram-word:hover::before {
+  opacity: 1;
+}
+
+/* Grammar Legend */
+.grammar-legend {
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+}
+
+.grammar-legend h3 {
+  margin: 0 0 1rem 0;
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.legend-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.legend-color {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  display: inline-block;
+  border: 1px solid var(--border-color);
+}
+
+/* Theme-specific adjustments for light theme */
+body.theme-light .grammar-verse {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+body.theme-light .gram-word::after {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+body.theme-light .gram-word::before {
+  border-top-color: rgba(0, 0, 0, 0.9);
+}
+
+/* Responsive design for grammar view */
+@media (max-width: 768px) {
+  .grammar-inline-view {
+    padding: 1rem;
+  }
+
+  .grammar-verse {
+    font-size: 1.5rem !important;
+    padding: 1rem;
+  }
+
+  .legend-items {
+    grid-template-columns: 1fr;
+  }
+
+  .gram-word::after {
+    font-size: 0.75rem;
+    padding: 6px 10px;
+  }
+}

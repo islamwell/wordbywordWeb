@@ -560,6 +560,11 @@ function App() {
   const [adminSelectedAyah, setAdminSelectedAyah] = useState(1);
   const [adminCustomUrl, setAdminCustomUrl] = useState('');
 
+  // Grammar visualization states
+  const [viewMode, setViewMode] = useState<'cards' | 'inline'>('cards');
+  const [showAnimations, setShowAnimations] = useState(true);
+  const [showTooltips, setShowTooltips] = useState(true);
+
   const recitationAudioRef = useRef(null);
   const tafsirAudioRef = useRef(null);
 
@@ -589,6 +594,34 @@ function App() {
         return part;
     });
   }, [arabicFontSize]);
+
+  // Map word types to grammar CSS classes
+  const getGrammarClass = useCallback((type: string): string => {
+    const typeLower = type.toLowerCase();
+
+    // Verb classifications
+    if (typeLower.includes('verb')) {
+      if (typeLower.includes('past') || typeLower.includes('perfect')) return 'verb-past';
+      if (typeLower.includes('present') || typeLower.includes('imperfect')) return 'verb-present';
+      if (typeLower.includes('imperative') || typeLower.includes('command')) return 'verb-imperative';
+      return 'verb-past'; // Default verb color
+    }
+
+    // Noun classifications
+    if (typeLower.includes('noun') || typeLower.includes('pronoun')) return 'noun';
+
+    // Prepositions
+    if (typeLower.includes('preposition') || typeLower.includes('prep.')) return 'preposition';
+
+    // Particles
+    if (typeLower.includes('particle')) return 'particle';
+
+    // Negative particles
+    if (typeLower.includes('negative') || typeLower.includes('negation')) return 'negative';
+
+    // Default
+    return 'noun';
+  }, []);
 
   // Listen for authentication state changes
   useEffect(() => {
@@ -937,6 +970,28 @@ function App() {
           </fieldset>
           
           <fieldset className="control-group">
+              <legend>Grammar View</legend>
+              <div>
+                <button
+                  onClick={() => setViewMode(viewMode === 'cards' ? 'inline' : 'cards')}
+                  className={viewMode === 'inline' ? 'active' : ''}
+                >
+                  {viewMode === 'cards' ? 'Show Inline' : 'Show Cards'}
+                </button>
+                {viewMode === 'inline' && (
+                  <>
+                    <button onClick={() => setShowAnimations(!showAnimations)}>
+                      {showAnimations ? 'Hide Animations' : 'Show Animations'}
+                    </button>
+                    <button onClick={() => setShowTooltips(!showTooltips)}>
+                      {showTooltips ? 'Hide Tooltips' : 'Show Tooltips'}
+                    </button>
+                  </>
+                )}
+              </div>
+          </fieldset>
+
+          <fieldset className="control-group">
               <legend>Settings</legend>
               <div>
                 <button onClick={() => setAdminPanelOpen(p => !p)}>Tafsir URL</button>
@@ -955,27 +1010,84 @@ function App() {
           </fieldset>
         </div>
   
-        <main className="analysis-grid">
-          {currentAyah.words.map((word, index) => (
-            <div key={index} className="card" role="article">
-              <div className="card-header">
-                  <h2 className="arabic-word" style={{ fontSize: `${arabicFontSize * 0.9}px` }}>{word.arabic}</h2>
-                  <p className="meta" style={{ fontSize: `${englishFontSize}px` }}>
-                      <em>{word.transliteration} - "{word.translation}"</em>
-                  </p>
+        {viewMode === 'cards' ? (
+          <main className="analysis-grid">
+            {currentAyah.words.map((word, index) => (
+              <div key={index} className="card" role="article">
+                <div className="card-header">
+                    <h2 className="arabic-word" style={{ fontSize: `${arabicFontSize * 0.9}px` }}>{word.arabic}</h2>
+                    <p className="meta" style={{ fontSize: `${englishFontSize}px` }}>
+                        <em>{word.transliteration} - "{word.translation}"</em>
+                    </p>
+                </div>
+                <hr />
+                <ul style={{ fontSize: `${englishFontSize}px` }}>
+                  <li><strong>Type:</strong> {word.analysis.type}</li>
+                  <li><strong>Root:</strong> {renderMixedContent(word.analysis.root)}</li>
+                  {word.analysis.rootExplanation && (
+                    <li><strong>Root Meaning:</strong> {word.analysis.rootExplanation}</li>
+                  )}
+                  <li><strong>Grammar:</strong> {renderMixedContent(word.analysis.grammar)}</li>
+                </ul>
               </div>
-              <hr />
-              <ul style={{ fontSize: `${englishFontSize}px` }}>
-                <li><strong>Type:</strong> {word.analysis.type}</li>
-                <li><strong>Root:</strong> {renderMixedContent(word.analysis.root)}</li>
-                {word.analysis.rootExplanation && (
-                  <li><strong>Root Meaning:</strong> {word.analysis.rootExplanation}</li>
-                )}
-                <li><strong>Grammar:</strong> {renderMixedContent(word.analysis.grammar)}</li>
-              </ul>
+            ))}
+          </main>
+        ) : (
+          <main className={`grammar-inline-view ${showTooltips ? 'show-tooltips' : ''}`}>
+            <div className="grammar-verse-container">
+              <div className="grammar-verse" style={{ fontSize: `${arabicFontSize}px` }}>
+                {currentAyah.words.map((word, index) => {
+                  const grammarClass = getGrammarClass(word.analysis.type);
+                  const animationClass = showAnimations && (grammarClass === 'verb-past' ? 'pulse-past' : grammarClass === 'verb-present' ? 'animate-pulse' : '');
+                  const tooltip = `${word.analysis.type}: ${word.transliteration} - "${word.translation}"`;
+
+                  return (
+                    <span
+                      key={index}
+                      className={`gram-word ${grammarClass} ${animationClass}`}
+                      data-tooltip={tooltip}
+                    >
+                      {word.arabic}
+                    </span>
+                  );
+                })}
+              </div>
+              <div className="grammar-legend">
+                <h3>Color Legend</h3>
+                <div className="legend-items">
+                  <div className="legend-item">
+                    <span className="legend-color verb-past"></span>
+                    <span>Past Tense Verb</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color verb-present"></span>
+                    <span>Present Tense Verb</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color verb-imperative"></span>
+                    <span>Imperative Verb</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color noun"></span>
+                    <span>Noun/Pronoun</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color preposition"></span>
+                    <span>Preposition</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color particle"></span>
+                    <span>Particle</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color negative"></span>
+                    <span>Negation</span>
+                  </div>
+                </div>
+              </div>
             </div>
-          ))}
-        </main>
+          </main>
+        )}
   
         <div className={`admin-panel ${isAdminPanelOpen ? 'open' : ''}`}>
             <div className="admin-panel-content">
