@@ -264,6 +264,84 @@ const initialAllSurahData = {
             ]}
         ]
     },
+    113: {
+        surahNumber: 113,
+        surahName: "Al-Falaq",
+        ayat: [
+            {
+                ayahNumber: 1,
+                arabic: 'قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ',
+                transliteration: 'Qul a\'ūdhu bi-rabbi al-falaq',
+                translation: 'Say: I seek refuge in the Lord of the daybreak',
+                recitationUrl: 'https://everyayah.com/data/Nasser_Alqatami_128kbps/113001.mp3',
+                words: [
+                    { arabic: 'قُلْ', transliteration: 'Qul', translation: 'Say', analysis: { type: 'Command verb (doing word telling someone to do something)', root: 'ق-و-ل', rootExplanation: 'To say, speak, tell', grammar: 'This is an order from Allah to declare this prayer out loud. In grammar, this is Fi\'l Amr (command verb) which is mabni (built) on sukoon (silent ending). Allah tells us to physically say this. Saying it out loud makes the declaration clear and brings comfort.' } },
+                    { arabic: 'أَعُوذُ', transliteration: 'a\'ūdhu', translation: 'I seek refuge / I run for protection', analysis: { type: 'Action verb (doing word) - present tense', root: 'ع-و-ذ', rootExplanation: 'To seek protection, to take refuge', grammar: 'The \'a\' prefix at the beginning indicates \'I am doing\' the action. The \'u\' sound at the end shows it is present tense and ongoing. This means running to someone strong, clinging to them, and finding safety. Because it is present continuous, it means \'I am constantly seeking and will continue to seek refuge.\'' } },
+                    { arabic: 'بِ', transliteration: 'bi', translation: 'in / with', analysis: { type: 'Preposition (connecting word)', root: 'N/A', rootExplanation: 'Connecting word: in, with, by', grammar: 'This is Harf Jarr (preposition) that attaches to the next word. It answers: IN whom are you seeking refuge? It acts like a glue connecting the verb \'seek refuge\' to \'Lord\'. It causes the next word \'rabb\' to become \'rabbi\'.' } },
+                    { arabic: 'رَبِّ', transliteration: 'rabbi', translation: 'Lord / Master / Sustainer', analysis: { type: 'Noun (naming word)', root: 'ر-ب-ب', rootExplanation: 'Lord, one who nurtures and sustains', grammar: 'Originally \'Rabb\', but the preposition \'bi\' pulls it down to \'rabbi\' (genitive case). It also acts as Mudaf to the next word. Rabb represents an Owner, Master, and Nurturer who cares for everything, providing what is needed step by step until it reaches maturity.' } },
+                    { arabic: 'الْفَلَقِ', transliteration: 'al-falaqi', translation: 'the daybreak / the split', analysis: { type: 'Noun (naming word)', root: 'ف-ل-ق', rootExplanation: 'To tear open, split, cleave, or crack open', grammar: 'Acts as Mudaf Ilayhi (the possessor/relation), which always takes the genitive case (kasra/i ending). Definite with \'al\'. Literally means \'the split\' or \'to tear open\'. It specifically refers to the daybreak because dawn tears open the dark night, bringing light. It also applies to seeds splitting open to sprout life.' } }
+                ]
+            },
+            {
+                ayahNumber: 2,
+                arabic: 'مِنْ شَرِّ مَا خَلَقَ',
+                transliteration: 'Min sharri mā khalaq',
+                translation: 'From the evil of what He created',
+                recitationUrl: 'https://everyayah.com/data/Nasser_Alqatami_128kbps/113002.mp3',
+                words: [
+                    { arabic: 'مِنْ', transliteration: 'Min', translation: 'From', analysis: { type: 'Preposition (connecting word)', root: 'N/A', rootExplanation: 'From, away from', grammar: 'Harf Jarr (preposition) that shows what we are running away from. Like \'from\' in English. It answers the question: \'Refuge from what?\'' } },
+                    { arabic: 'شَرِّ', transliteration: 'sharri', translation: 'evil / harm / badness', analysis: { type: 'Noun (naming word)', root: 'ش-ر-ر', rootExplanation: 'Evil, harm, wickedness', grammar: 'Takes a kasra (i ending) because it follows the preposition \'min\'. It is also Mudaf (evil *of*...). Sharr means harm, pain, or anything that takes away from the goodness of a thing. We are seeking protection from the harm that exists in the world.' } },
+                    { arabic: 'مَا', transliteration: 'mā', translation: 'what / that which', analysis: { type: 'Relative pronoun (connecting word)', root: 'N/A', rootExplanation: 'Relative pronoun: that which, whatever', grammar: 'Ism Mawsool (relative pronoun) meaning \'that which\' or \'whatever\'. It is indeclinable (mabni). A general pronoun referring to all created things that are capable of causing harm (animals, humans, natural disasters, unseen forces).' } },
+                    { arabic: 'خَلَقَ', transliteration: 'khalaq', translation: 'He created', analysis: { type: 'Action verb (doing word) - past tense', root: 'خ-ل-ق', rootExplanation: 'To create, shape, bring into existence', grammar: 'Fi\'l Madi (past verb) with a hidden subject pronoun \'huwa\' (He, referring to Allah). Mabni on fatha. Referencing Allah\'s act of creation. The evil resides in the creations themselves (their potential to harm), not in Allah\'s act of creating them.' } }
+                ]
+            },
+            {
+                ayahNumber: 3,
+                arabic: 'وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ',
+                transliteration: 'Wa min sharri ghāsiqin idhā waqab',
+                translation: 'And from the evil of darkness when it settles',
+                recitationUrl: 'https://everyayah.com/data/Nasser_Alqatami_128kbps/113003.mp3',
+                words: [
+                    { arabic: 'وَ', transliteration: 'Wa', translation: 'And', analysis: { type: 'Conjunction (connecting word)', root: 'N/A', rootExplanation: 'And, also', grammar: 'Harf \'Atf (conjunction) that coordinates this verse with the previous one. It adds a new, specific danger that we need protection from.' } },
+                    { arabic: 'مِنْ', transliteration: 'min', translation: 'from', analysis: { type: 'Preposition (connecting word)', root: 'N/A', rootExplanation: 'From, away from', grammar: 'Repeated for emphasis, showing each danger is distinct and significant. Shows direction or origin (from).' } },
+                    { arabic: 'شَرِّ', transliteration: 'sharri', translation: 'evil / harm', analysis: { type: 'Noun (naming word)', root: 'ش-ر-ر', rootExplanation: 'Evil, harm, wickedness', grammar: 'Ends in kasra due to \'min\'. It is Mudaf to the next word \'ghasiq\'.' } },
+                    { arabic: 'غَاسِقٍ', transliteration: 'ghāsiqin', translation: 'darkness / nightfall / intense dark', analysis: { type: 'Noun (Active participle - doer form)', root: 'غ-س-ق', rootExplanation: 'To become dark, overflow, flow', grammar: 'Mudaf Ilayhi, which takes the genitive case. The tanween kasra shows it is indefinite. Derived from \'ghasaq\' (to overflow/become dark). It refers to the night or moon when darkness pours in. Darkness covers things and conceals danger—like predators, thieves, and whispers of doubt.' } },
+                    { arabic: 'إِذَا', transliteration: 'idhā', translation: 'when', analysis: { type: 'Adverb of time', root: 'N/A', rootExplanation: 'Adverb of time for future events', grammar: 'Zarf Zaman (adverb of time) pointing to future events, acting as a conditional introduction. Means \'when\' or \'at the time that\'.' } },
+                    { arabic: 'وَقَبَ', transliteration: 'waqaba', translation: 'it spreads / enters / settles', analysis: { type: 'Action verb (doing word) - past tense', root: 'و-ق-ب', rootExplanation: 'To enter, penetrate, cover, or sink into a cavity', grammar: 'Fi\'l Madi (past verb) with a hidden subject pronoun \'huwa\' pointing to the darkness (ghāsiq). Mabni on fatha. Literally means to sink into a cavity, enter, or cover completely. It describes when the darkness has fully entered and settled into every corner, making threats invisible.' } }
+                ]
+            },
+            {
+                ayahNumber: 4,
+                arabic: 'وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ',
+                transliteration: 'Wa min sharri an-naffāthāti fī al-\'uqad',
+                translation: 'And from the evil of the blowers in knots',
+                recitationUrl: 'https://everyayah.com/data/Nasser_Alqatami_128kbps/113004.mp3',
+                words: [
+                    { arabic: 'وَ', transliteration: 'Wa', translation: 'And', analysis: { type: 'Conjunction (connecting word)', root: 'N/A', rootExplanation: 'And, also', grammar: 'Harf \'Atf connecting to the list of refuge items.' } },
+                    { arabic: 'مِنْ', transliteration: 'min', translation: 'from', analysis: { type: 'Preposition (connecting word)', root: 'N/A', rootExplanation: 'From, away from', grammar: 'Preposition showing source.' } },
+                    { arabic: 'شَرِّ', transliteration: 'sharri', translation: 'evil / harm', analysis: { type: 'Noun (naming word)', root: 'ش-ر-ر', rootExplanation: 'Evil, harm, wickedness', grammar: 'Noun, genitive case, Mudaf.' } },
+                    { arabic: 'النَّفَّاثَاتِ', transliteration: 'an-naffāthāti', translation: 'the blowers / whisperers / sorceresses', analysis: { type: 'Noun (Active participle - feminine plural)', root: 'ن-ف-ث', rootExplanation: 'To blow gently with a little spit', grammar: 'Mudaf Ilayhi, which takes the genitive case. Because it is a feminine plural (ends in -āt), its genitive case is indicated by a kasra (i). Definite with \'al\'. Derived from \'nafatha\', which means blowing gently with a tiny trace of saliva. Refers to sorceresses blowing on knots, but also to people who whisper toxic ideas into relationships.' } },
+                    { arabic: 'فِي', transliteration: 'fī', translation: 'in / on / upon', analysis: { type: 'Preposition (connecting word showing location)', root: 'N/A', rootExplanation: 'In, inside, within', grammar: 'Makes the next word end in \'i\' (kasra).' } },
+                    { arabic: 'الْعُقَدِ', transliteration: 'al-\'uqadi', translation: 'the knots', analysis: { type: 'Noun (naming word) - plural', root: 'ع-ق-د', rootExplanation: 'To tie a knot, bind, contract', grammar: 'Majroor (genitive) because it follows the preposition \'fi\'. It is the plural of \'uqdah\' (knot). Literal knots tied during black magic. Metaphorically, it refers to the ties of relationships, marriages, and friendships that whisperers try to untie.' } }
+                ]
+            },
+            {
+                ayahNumber: 5,
+                arabic: 'وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ',
+                transliteration: 'Wa min sharri ḥāsidin idhā ḥasad',
+                translation: 'And from the evil of an envier when he envies',
+                recitationUrl: 'https://everyayah.com/data/Nasser_Alqatami_128kbps/113005.mp3',
+                words: [
+                    { arabic: 'وَ', transliteration: 'Wa', translation: 'And', analysis: { type: 'Conjunction (connecting word)', root: 'N/A', rootExplanation: 'And, also', grammar: 'Harf \'Atf connecting this final request.' } },
+                    { arabic: 'مِنْ', transliteration: 'min', translation: 'from', analysis: { type: 'Preposition (connecting word)', root: 'N/A', rootExplanation: 'From, away from', grammar: 'Preposition.' } },
+                    { arabic: 'شَرِّ', transliteration: 'sharri', translation: 'evil / harm', analysis: { type: 'Noun (naming word)', root: 'ش-ر-ر', rootExplanation: 'Evil, harm, wickedness', grammar: 'Noun, genitive case, Mudaf.' } },
+                    { arabic: 'حَاسِدٍ', transliteration: 'ḥāsidin', translation: 'an envier', analysis: { type: 'Noun (Active participle - doer form)', root: 'ح-س-د', rootExplanation: 'Envy, jealousy (wishing that someone loses a blessing)', grammar: 'Mudaf Ilayhi, which takes the genitive case. The tanween kasra shows it is indefinite. A Hasid is one who envies. Hasad (envy) is the destructive feeling of wishing that another person is stripped of their blessings, success, or happiness. It is a poison of the heart.' } },
+                    { arabic: 'إِذَا', transliteration: 'idhā', translation: 'when', analysis: { type: 'Adverb of time', root: 'N/A', rootExplanation: 'Adverb of time for future events', grammar: 'Introduces the condition: specifically WHEN the envier does the action.' } },
+                    { arabic: 'حَسَدَ', transliteration: 'ḥasad', translation: 'he envies / acts with envy', analysis: { type: 'Action verb (doing word) - past tense', root: 'ح-س-د', rootExplanation: 'To envy, feel jealous, act with envy', grammar: 'Fi\'l Madi (past verb) with a hidden subject pronoun \'huwa\' pointing to the envier (hāsid). Mabni on fatha. Timing is critical: \'when he acts on his envy\'. We seek refuge from the evil *when they start acting on it*—either by casting the evil eye (\'ayn), talking bad, plotting, or executing harm.' } }
+                ]
+            }
+        ]
+    },
     114: {
         surahNumber: 114,
         surahName: "An-Nas",
@@ -510,6 +588,10 @@ function App() {
   const [syncStatus, setSyncStatus] = useState<'idle' | 'syncing' | 'success' | 'error'>('idle');
   const [syncMessage, setSyncMessage] = useState('');
 
+  // Grammar visualization control states
+  const [showAnimations, setShowAnimations] = useState(true);
+  const [showTooltips, setShowTooltips] = useState(true);
+
   // Admin panel form state
   const [adminSelectedAyah, setAdminSelectedAyah] = useState(1);
   const [adminCustomUrl, setAdminCustomUrl] = useState('');
@@ -553,6 +635,8 @@ function App() {
         if (savedState.surahNumber !== undefined) setCurrentSurahNumber(savedState.surahNumber);
         if (savedState.ayahIndex !== undefined) setCurrentAyahIndex(savedState.ayahIndex);
         if (savedState.tafsirOverrides) setTafsirOverrides(savedState.tafsirOverrides);
+        if (savedState.showAnimations !== undefined) setShowAnimations(savedState.showAnimations);
+        if (savedState.showTooltips !== undefined) setShowTooltips(savedState.showTooltips);
         if (savedState.allSurahData) {
             const mergedData = { ...initialAllSurahData, ...savedState.allSurahData };
             setAllSurahData(mergedData);
@@ -571,18 +655,20 @@ function App() {
               ayahIndex: currentAyahIndex,
               tafsirOverrides,
               allSurahData,
+              showAnimations,
+              showTooltips,
           };
           localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(stateToSave));
       } catch (error) {
           console.error("Failed to save state to localStorage", error);
       }
-  }, [currentSurahNumber, currentAyahIndex, tafsirOverrides, allSurahData]);
+  }, [currentSurahNumber, currentAyahIndex, tafsirOverrides, allSurahData, showAnimations, showTooltips]);
   
   useEffect(() => {
     if (!isInitialLoad) {
         saveAppState();
     }
-  }, [saveAppState, isInitialLoad, allSurahData, tafsirOverrides, currentSurahNumber, currentAyahIndex ]);
+  }, [saveAppState, isInitialLoad, allSurahData, tafsirOverrides, currentSurahNumber, currentAyahIndex, showAnimations, showTooltips]);
 
   useEffect(() => {
     document.body.className = `theme-${theme}`;
@@ -723,6 +809,64 @@ function App() {
       }
     }
   };
+
+  const getGrammarClass = (type: string): string => {
+    if (!type) return 'other';
+    const t = type.toLowerCase();
+    if (t.includes('verb') || t.includes('action')) {
+      if (t.includes('command') || t.includes('imperative') || t.includes('amr')) {
+        return 'verb-imperative';
+      }
+      if (t.includes('present') || t.includes('mudari') || t.includes('future')) {
+        return 'verb-present';
+      }
+      if (t.includes('past') || t.includes('madi')) {
+        return 'verb-past';
+      }
+      return 'verb-present';
+    }
+    if (t.includes('negation') || t.includes('negative') || t.includes('prohibited')) {
+      return 'negative';
+    }
+    if (t.includes('pronoun') || t.includes('dameer')) {
+      return 'pronoun';
+    }
+    if (t.includes('preposition') || t.includes('particle') || t.includes('connector') || t.includes('conjunction') || t.includes('harf') || t.includes('calling')) {
+      return 'preposition';
+    }
+    if (t.includes('adjective') || t.includes('descriptive')) {
+      return 'adjective';
+    }
+    return 'noun';
+  };
+
+  const getAnimationClass = (type: string): string => {
+    if (!type) return '';
+    const t = type.toLowerCase();
+    if (t.includes('verb') || t.includes('action')) {
+      if (t.includes('command') || t.includes('imperative') || t.includes('amr')) {
+        return 'pulse-imperative';
+      }
+      if (t.includes('present') || t.includes('mudari') || t.includes('future')) {
+        return 'pulse-present';
+      }
+      if (t.includes('past') || t.includes('madi')) {
+        return 'pulse-past';
+      }
+    }
+    return '';
+  };
+
+  const scrollToWordCard = (index: number) => {
+    const cardElement = document.getElementById(`word-card-${index}`);
+    if (cardElement) {
+      cardElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      cardElement.classList.add('highlight-glow');
+      setTimeout(() => {
+        cardElement.classList.remove('highlight-glow');
+      }, 2000);
+    }
+  };
   
   if (isEditorOpen) {
     return <EditorPage 
@@ -748,9 +892,22 @@ function App() {
                 <path fillRule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708 .708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
               </svg>
             </button>
-          <h1 className="arabic-verse" style={{ fontSize: `${arabicFontSize}px` }}>
-            {currentAyah.arabic}
-          </h1>
+          <div className={`arabic-verse-container ${showTooltips ? 'show-tooltips' : ''}`} style={{ fontSize: `${arabicFontSize}px` }}>
+            {currentAyah.words.map((word, wordIdx) => {
+              const grammarClass = getGrammarClass(word.analysis.type);
+              const animateClass = showAnimations ? getAnimationClass(word.analysis.type) : '';
+              return (
+                <span 
+                  key={wordIdx} 
+                  className={`gram-word ${grammarClass} ${animateClass}`} 
+                  data-tooltip={`${word.analysis.type}: ${word.translation}`}
+                  onClick={() => scrollToWordCard(wordIdx)}
+                >
+                  {word.arabic}
+                </span>
+              );
+            })}
+          </div>
           <p className="transliteration" style={{ fontSize: `${englishFontSize}px` }}>
             {currentAyah.transliteration}
           </p>
@@ -822,6 +979,26 @@ function App() {
               {shareMessage && <span className="share-confirmation">{shareMessage}</span>}
             </div>
           </fieldset>
+
+          <fieldset className="control-group">
+              <legend>Grammar Visuals</legend>
+              <div>
+                <button 
+                  onClick={() => setShowAnimations(p => !p)} 
+                  className={`visual-toggle-btn ${showAnimations ? 'active' : ''}`}
+                  aria-label="Toggle grammar animations"
+                >
+                  {showAnimations ? 'Animations: ON' : 'Animations: OFF'}
+                </button>
+                <button 
+                  onClick={() => setShowTooltips(p => !p)} 
+                  className={`visual-toggle-btn ${showTooltips ? 'active' : ''}`}
+                  aria-label="Toggle grammar tooltips"
+                >
+                  {showTooltips ? 'Tooltips: ON' : 'Tooltips: OFF'}
+                </button>
+              </div>
+          </fieldset>
           
           <fieldset className="control-group">
               <legend>Settings</legend>
@@ -844,7 +1021,7 @@ function App() {
   
         <main className="analysis-grid">
           {currentAyah.words.map((word, index) => (
-            <div key={index} className="card" role="article">
+            <div key={index} id={`word-card-${index}`} className="card" role="article">
               <div className="card-header">
                   <h2 className="arabic-word" style={{ fontSize: `${arabicFontSize * 0.9}px` }}>{word.arabic}</h2>
                   <p className="meta" style={{ fontSize: `${englishFontSize}px` }}>

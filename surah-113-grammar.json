@@ -1,0 +1,372 @@
+{
+  "surah": 113,
+  "name": "Al-Falaq (The Daybreak)",
+  "verses": [
+    {
+      "verse": 1,
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "transliteration": "Qul a'udhu bi-rabbi al-falaq",
+      "translation": "Say: I seek refuge in the Lord of the daybreak",
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "transliteration": "Qul",
+          "translation": "Say",
+          "grammar": {
+            "type": "Command verb (doing word telling someone to do something)",
+            "root": "ق-و-ل (q-w-l)",
+            "form": "Command form",
+            "person": "You (singular) - talking to one person",
+            "tense": "Now/Future",
+            "reason": "This is an order from Allah to declare this prayer out loud. In grammar, this is Fi'l Amr (command verb) which is mabni (built) on sukoon (silent ending).",
+            "practical": "Allah tells us to physically say this. Saying it out loud makes the declaration clear and brings comfort. It's a reminder that we must verbally speak our seek of refuge."
+          }
+        },
+        {
+          "arabic": "أَعُوذُ",
+          "transliteration": "a'udhu",
+          "translation": "I seek refuge / I run for protection",
+          "grammar": {
+            "type": "Action verb (doing word) - present tense",
+            "root": "ع-و-ذ (a-w-dh)",
+            "form": "Form I present tense",
+            "person": "I (first person, the speaker)",
+            "tense": "Present/continuous",
+            "reason": "The 'a' prefix at the beginning indicates 'I am doing' the action. The 'u' sound at the end shows it is present tense and ongoing.",
+            "practical": "This means running to someone strong, clinging to them, and finding safety. Because it is present continuous, it means 'I am constantly seeking and will continue to seek refuge.' It is an active, ongoing shield."
+          }
+        },
+        {
+          "arabic": "بِ",
+          "transliteration": "bi",
+          "translation": "in / with",
+          "grammar": {
+            "type": "Preposition (connecting word)",
+            "function": "Connects the action to the protector",
+            "effect": "Makes the next word end in an 'i' sound (genitive case)",
+            "reason": "This is Harf Jarr (preposition) that attaches to the next word. It answers: IN whom are you seeking refuge?",
+            "practical": "Think of it as 'in' or 'with'. It acts like a glue connecting the verb 'seek refuge' to 'Lord'. It causes the next word 'rabb' to become 'rabbi'."
+          }
+        },
+        {
+          "arabic": "رَبِّ",
+          "transliteration": "rabbi",
+          "translation": "Lord / Master / Sustainer",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "state": "Mudaf (possessed in relationship)",
+            "gender": "Masculine",
+            "reason": "Originally 'Rabb', but the preposition 'bi' pulls it down to 'rabbi' (genitive case). It also acts as Mudaf to the next word.",
+            "practical": "Rabb represents an Owner, Master, and Nurturer who cares for everything, providing what is needed step by step until it reaches maturity. The 'i' ending is due to 'bi' before it."
+          }
+        },
+        {
+          "arabic": "الْفَلَقِ",
+          "transliteration": "al-falaq",
+          "translation": "the daybreak / the split",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive (owned form) - ends in 'i'",
+            "gender": "Masculine",
+            "definite": "Yes - has 'al' (the)",
+            "root": "ف-ل-ق (f-l-q)",
+            "reason": "Acts as Mudaf Ilayhi (the possessor/relation), which always takes the genitive case (kasra/i ending).",
+            "practical": "Literally means 'the split' or 'to tear open'. It specifically refers to the daybreak because dawn tears open the dark night, bringing light. It also applies to seeds splitting open to sprout life. Seeking refuge in the Lord of the Daybreak means trusting the One who rips open darkness to bring out light."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "arabic": "مِنْ شَرِّ مَا خَلَقَ",
+      "transliteration": "Min sharri ma khalaq",
+      "translation": "From the evil of what He created",
+      "words": [
+        {
+          "arabic": "مِنْ",
+          "transliteration": "Min",
+          "translation": "From",
+          "grammar": {
+            "type": "Preposition (connecting word)",
+            "function": "Shows origin or source",
+            "effect": "Makes the next word end in 'i'",
+            "reason": "Harf Jarr (preposition) that shows what we are running away from.",
+            "practical": "Like 'from' in English. It answers the question: 'Refuge from what?'"
+          }
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "translation": "evil / harm / badness",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive - ends in 'i'",
+            "state": "Mudaf",
+            "gender": "Masculine",
+            "root": "ش-ر-ر (sh-r-r)",
+            "reason": "Takes a kasra (i ending) because it follows the preposition 'min'. It is also Mudaf (evil *of*...)",
+            "practical": "Sharr means harm, pain, or anything that takes away from the goodness of a thing. We are seeking protection from the harm that exists in the world."
+          }
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "ma",
+          "translation": "what / that which",
+          "grammar": {
+            "type": "Relative pronoun (connecting word)",
+            "function": "Points to creations",
+            "reason": "Ism Mawsool (relative pronoun) meaning 'that which' or 'whatever'. It is indeclinable (mabni).",
+            "practical": "A general pronoun referring to all created things that are capable of causing harm (animals, humans, natural disasters, unseen forces)."
+          }
+        },
+        {
+          "arabic": "خَلَقَ",
+          "transliteration": "khalaq",
+          "translation": "He created",
+          "grammar": {
+            "type": "Action verb (doing word) - past tense",
+            "root": "خ-ل-ق (kh-l-q)",
+            "form": "Past tense Form I",
+            "person": "He (third person masculine singular)",
+            "tense": "Past/completed",
+            "reason": "Fi'l Madi (past verb) with a hidden subject pronoun 'huwa' (He, referring to Allah). Mabni on fatha.",
+            "practical": "Referencing Allah's act of creation. The evil resides in the creations themselves (their potential to harm), not in Allah's act of creating them. We seek protection from the harmful aspects of what Allah brought into existence."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "arabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "transliteration": "Wa min sharri ghasiqin idha waqab",
+      "translation": "And from the evil of darkness when it settles",
+      "words": [
+        {
+          "arabic": "وِ",
+          "transliteration": "Wa",
+          "translation": "And",
+          "grammar": {
+            "type": "Conjunction (connecting word)",
+            "function": "Joins items in a list",
+            "reason": "Harf 'Atf (conjunction) that coordinates this verse with the previous one.",
+            "practical": "Means 'and'. It is adding a new, specific danger that we need protection from."
+          }
+        },
+        {
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "translation": "from",
+          "grammar": {
+            "type": "Preposition (connecting word)",
+            "reason": "Repeated for emphasis, showing each danger is distinct and significant.",
+            "practical": "Shows direction or origin (from)."
+          }
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "translation": "evil / harm",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive - ends in 'i'",
+            "state": "Mudaf",
+            "reason": "Ends in kasra due to 'min'. It is Mudaf to the next word 'ghasiq'.",
+            "practical": "The harm or mischief."
+          }
+        },
+        {
+          "arabic": "غَاسِقٍ",
+          "transliteration": "ghasiqin",
+          "translation": "darkness / nightfall / intense dark",
+          "grammar": {
+            "type": "Noun (Active participle - doer form)",
+            "case": "Genitive - ends in 'i' with tanween",
+            "root": "غ-س-ق (gh-s-q)",
+            "reason": "Mudaf Ilayhi, which takes the genitive case. The tanween kasra shows it is indefinite.",
+            "practical": "Derived from 'ghasaq' (to overflow/become dark). It refers to the night or moon when darkness pours in. Darkness covers things and conceals danger—like predators, thieves, and whispers of doubt."
+          }
+        },
+        {
+          "arabic": "إِذَا",
+          "transliteration": "idha",
+          "translation": "when",
+          "grammar": {
+            "type": "Adverb of time",
+            "function": "Introduces a specific time/condition",
+            "reason": "Zarf Zaman (adverb of time) pointing to future events, acting as a conditional introduction.",
+            "practical": "Means 'when' or 'at the time that'."
+          }
+        },
+        {
+          "arabic": "وَقَبَ",
+          "transliteration": "waqab",
+          "translation": "it spreads / enters / settles",
+          "grammar": {
+            "type": "Action verb (doing word) - past tense",
+            "root": "و-ق-ب (w-q-b)",
+            "person": "He/It (third person masculine singular)",
+            "tense": "Past/completed (used in conditional sense)",
+            "reason": "Fi'l Madi (past verb) with a hidden subject pronoun 'huwa' pointing to the darkness (ghasiq). Mabni on fatha.",
+            "practical": "Literally means to sink into a cavity, enter, or cover completely. It describes when the darkness has fully entered and settled into every corner, making threats invisible. We seek refuge from what happens when the night fully takes over."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "arabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "transliteration": "Wa min sharri an-naffathati fi al-'uqad",
+      "translation": "And from the evil of the blowers in knots",
+      "words": [
+        {
+          "arabic": "وِ",
+          "transliteration": "Wa",
+          "translation": "And",
+          "grammar": {
+            "type": "Conjunction (connecting word)",
+            "reason": "Harf 'Atf connecting to the list of refuge items."
+          }
+        },
+        {
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "translation": "from",
+          "grammar": {
+            "type": "Preposition"
+          }
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "translation": "evil / harm",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive - ends in 'i'",
+            "state": "Mudaf"
+          }
+        },
+        {
+          "arabic": "النَّفَّاثَاتِ",
+          "transliteration": "an-naffathati",
+          "translation": "the blowers / whisperers / sorceresses",
+          "grammar": {
+            "type": "Noun (Active participle - feminine plural)",
+            "case": "Genitive - ends in 'i'",
+            "definite": "Yes - has 'al'",
+            "root": "ن-ف-ث (n-f-th)",
+            "reason": "Mudaf Ilayhi, which takes the genitive case. Because it is a feminine plural (ends in -at), its genitive case is indicated by a kasra (i).",
+            "practical": "Derived from 'nafatha', which means blowing gently with a tiny trace of saliva. It refers to sorceresses blowing on knots for spells, but also metaphorically to people who whisper toxic, poisonous ideas into relationships to slowly blow them apart."
+          }
+        },
+        {
+          "arabic": "فِي",
+          "transliteration": "fi",
+          "translation": "in / on / upon",
+          "grammar": {
+            "type": "Preposition (connecting word showing location)",
+            "effect": "Makes the next word end in 'i'"
+          }
+        },
+        {
+          "arabic": "الْعُقَدِ",
+          "transliteration": "al-'uqad",
+          "translation": "the knots",
+          "grammar": {
+            "type": "Noun (naming word) - plural",
+            "case": "Genitive - ends in 'i'",
+            "definite": "Yes - has 'al'",
+            "root": "ع-ق-د ('-q-d)",
+            "reason": "Majroor (genitive) because it follows the preposition 'fi'. It is the plural of 'uqdah' (knot).",
+            "practical": "Literal knots tied during black magic. Metaphorically, it refers to the ties of relationships, marriages, and friendships. The whisperers blow on these 'knots' to weaken and untie them. We seek refuge to protect our bonds and resolve from being sabotaged."
+          }
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "arabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "transliteration": "Wa min sharri hasidin idha hasad",
+      "translation": "And from the evil of an envier when he envies",
+      "words": [
+        {
+          "arabic": "وِ",
+          "transliteration": "Wa",
+          "translation": "And",
+          "grammar": {
+            "type": "Conjunction (connecting word)"
+          }
+        },
+        {
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "translation": "from",
+          "grammar": {
+            "type": "Preposition"
+          }
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "translation": "evil / harm",
+          "grammar": {
+            "type": "Noun (naming word)",
+            "case": "Genitive - ends in 'i'",
+            "state": "Mudaf"
+          }
+        },
+        {
+          "arabic": "حَاسِدٍ",
+          "transliteration": "hasidin",
+          "translation": "an envier",
+          "grammar": {
+            "type": "Noun (Active participle - doer form)",
+            "case": "Genitive - ends in 'i' with tanween",
+            "root": "ح-س-د (ḥ-s-d)",
+            "reason": "Mudaf Ilayhi, which takes the genitive case. The tanween kasra shows it is indefinite.",
+            "practical": "A Hasid is one who envies. Hasad (envy) is the destructive feeling of wishing that another person is stripped of their blessings, success, or happiness. It is a poison of the heart."
+          }
+        },
+        {
+          "arabic": "إِذَا",
+          "transliteration": "idha",
+          "translation": "when",
+          "grammar": {
+            "type": "Adverb of time",
+            "practical": "Introduces the condition: specifically WHEN the envier does the action."
+          }
+        },
+        {
+          "arabic": "حَسَدَ",
+          "transliteration": "hasad",
+          "translation": "he envies / acts with envy",
+          "grammar": {
+            "type": "Action verb (doing word) - past tense",
+            "root": "ح-س-د (ḥ-s-d)",
+            "person": "He (third person masculine singular)",
+            "tense": "Past/completed (used in conditional sense)",
+            "reason": "Fi'l Madi (past verb) with a hidden subject pronoun 'huwa' pointing to the envier (hasid). Mabni on fatha.",
+            "practical": "This timing is critical: 'when he acts on his envy'. A person might feel jealousy in their heart, but we seek refuge from the evil *when they start acting on it*—either by casting the evil eye ('ayn), talking bad, plotting, or executing harm to destroy your blessing."
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "pattern_notes": [
+      "The preposition 'min' (from) is repeated before each danger - emphasizing the severity of each threat (evil of creation, darkness, blowers, enviers) as distinct categories requiring separate mindfulness.",
+      "The surah transitions from a general refuge request in verse 2 ('mā khalaqa') to three very specific, hidden, and invisible dangers in verses 3-5 (darkness, witchcraft/whispers, envy).",
+      "All major threat verbs and descriptions are modified by 'idhā' (when), showing that we seek refuge from the activation of these threats."
+    ],
+    "practical_grammar_lessons": [
+      "When a preposition like 'min' or 'fi' comes before a noun, the noun takes a kasra ('i' sound) at the end, as in 'sharri' and 'al-falaqi'.",
+      "Active participles (Ism Fā'il) are nouns that denote the doer of an action, such as 'ghāsiq' (darkener/darkness), 'naffāthāt' (blowers), and 'hāsid' (envier).",
+      "The particle 'idhā' acts as a time adverb that turns the following past-tense verb into a future conditional event."
+    ],
+    "spiritual_lessons": [
+      "Light (daybreak) is the ultimate antidote to darkness. Seeking refuge in the 'Lord of the Daybreak' means asking Allah to bring light to dispel our darkness, both physical and spiritual.",
+      "We seek refuge from the evil *in* creations, not from the creations themselves. Creations are good, but can carry harmful characteristics.",
+      "Envy (hasad) is extremely dangerous because it is a silent, hidden emotion that leads to active destruction when it is executed. We must seek refuge from the malice of others, and check our own hearts as well."
+    ]
+  }
+}

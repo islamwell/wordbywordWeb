@@ -12,6 +12,18 @@
   --button-hover-bg: rgba(255, 255, 255, 0.2);
   --button-disabled-bg: rgba(255, 255, 255, 0.05);
   --button-disabled-color: rgba(255, 255, 255, 0.3);
+
+  /* Grammar Colors - Dark Theme */
+  --gram-verb-past: #60a5fa;
+  --gram-verb-present: #93c5fd;
+  --gram-verb-imperative: #22d3ee;
+  --gram-noun: #4ade80;
+  --gram-preposition: #a78bfa;
+  --gram-particle: #c084fc;
+  --gram-pronoun: #fb923c;
+  --gram-adjective: #facc15;
+  --gram-negative: #f87171;
+  --gram-glow-imperative: rgba(34, 211, 238, 0.4);
 }
 
 body.theme-light {
@@ -27,6 +39,18 @@ body.theme-light {
   --button-hover-bg: rgba(0, 0, 0, 0.1);
   --button-disabled-bg: rgba(0, 0, 0, 0.02);
   --button-disabled-color: rgba(0, 0, 0, 0.3);
+
+  /* Grammar Colors - Light Theme */
+  --gram-verb-past: #1d4ed8;
+  --gram-verb-present: #2563eb;
+  --gram-verb-imperative: #0891b2;
+  --gram-noun: #16a34a;
+  --gram-preposition: #7c3aed;
+  --gram-particle: #9333ea;
+  --gram-pronoun: #ea580c;
+  --gram-adjective: #a16207;
+  --gram-negative: #dc2626;
+  --gram-glow-imperative: rgba(8, 145, 178, 0.2);
 }
 
 body.theme-green {
@@ -42,6 +66,18 @@ body.theme-green {
   --button-hover-bg: rgba(255, 255, 255, 0.2);
   --button-disabled-bg: rgba(255, 255, 255, 0.05);
   --button-disabled-color: rgba(255, 255, 255, 0.3);
+
+  /* Grammar Colors - Green Theme */
+  --gram-verb-past: #818cf8;
+  --gram-verb-present: #a5b4fc;
+  --gram-verb-imperative: #22d3ee;
+  --gram-noun: #4ade80;
+  --gram-preposition: #c084fc;
+  --gram-particle: #e9d5ff;
+  --gram-pronoun: #fdba74;
+  --gram-adjective: #fde047;
+  --gram-negative: #fca5a5;
+  --gram-glow-imperative: rgba(34, 211, 238, 0.4);
 }
 
 body.theme-blue {
@@ -57,6 +93,18 @@ body.theme-blue {
   --button-hover-bg: rgba(255, 255, 255, 0.2);
   --button-disabled-bg: rgba(255, 255, 255, 0.05);
   --button-disabled-color: rgba(255, 255, 255, 0.3);
+
+  /* Grammar Colors - Blue Theme */
+  --gram-verb-past: #60a5fa;
+  --gram-verb-present: #93c5fd;
+  --gram-verb-imperative: #38bdf8;
+  --gram-noun: #34d399;
+  --gram-preposition: #c084fc;
+  --gram-particle: #d8b4fe;
+  --gram-pronoun: #fb923c;
+  --gram-adjective: #fef08a;
+  --gram-negative: #fca5a5;
+  --gram-glow-imperative: rgba(56, 189, 248, 0.4);
 }
 
 body.theme-red {
@@ -72,6 +120,18 @@ body.theme-red {
   --button-hover-bg: rgba(255, 255, 255, 0.2);
   --button-disabled-bg: rgba(255, 255, 255, 0.05);
   --button-disabled-color: rgba(255, 255, 255, 0.3);
+
+  /* Grammar Colors - Red Theme */
+  --gram-verb-past: #60a5fa;
+  --gram-verb-present: #93c5fd;
+  --gram-verb-imperative: #22d3ee;
+  --gram-noun: #34d399;
+  --gram-preposition: #c084fc;
+  --gram-particle: #d8b4fe;
+  --gram-pronoun: #fdba74;
+  --gram-adjective: #fde047;
+  --gram-negative: #fca5a5;
+  --gram-glow-imperative: rgba(34, 211, 238, 0.4);
 }
 
 body.theme-sepia {
@@ -87,6 +147,18 @@ body.theme-sepia {
   --button-hover-bg: rgba(91, 70, 54, 0.2);
   --button-disabled-bg: rgba(91, 70, 54, 0.05);
   --button-disabled-color: rgba(91, 70, 54, 0.4);
+
+  /* Grammar Colors - Sepia Theme */
+  --gram-verb-past: #1565c0;
+  --gram-verb-present: #1e88e5;
+  --gram-verb-imperative: #00838f;
+  --gram-noun: #2e7d32;
+  --gram-preposition: #6a1b9a;
+  --gram-particle: #4e342e;
+  --gram-pronoun: #d84315;
+  --gram-adjective: #ef6c00;
+  --gram-negative: #c62828;
+  --gram-glow-imperative: rgba(0, 131, 143, 0.2);
 }
 
 * {
@@ -904,4 +976,121 @@ body.theme-light .surah-search-input {
   border-radius: 10px;
   background: rgba(16, 185, 129, 0.1);
   font-weight: 500;
+}
+
+/* Color-coded Grammar Visualization Styling */
+.arabic-verse-container {
+  display: flex;
+  flex-direction: row-reverse; /* RTL display in flex */
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1.5rem;
+  line-height: 2.2;
+  font-weight: 700;
+  transition: font-size 0.3s ease;
+  direction: rtl;
+}
+
+.gram-word {
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 8px;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, box-shadow 0.2s ease;
+  user-select: none;
+}
+
+.gram-word:hover {
+  transform: scale(1.15) translateY(-2px);
+  background-color: var(--button-bg);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Tooltip style */
+.gram-word::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 135%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid var(--border-color);
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 8px;
+  white-space: nowrap;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 100;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+}
+
+.show-tooltips .gram-word:hover::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-5px);
+}
+
+/* Color definitions */
+.verb-past { color: var(--gram-verb-past); }
+.verb-present { color: var(--gram-verb-present); }
+.verb-imperative { 
+  color: var(--gram-verb-imperative);
+  text-shadow: 0 0 10px var(--gram-glow-imperative);
+}
+.noun { color: var(--gram-noun); }
+.preposition { color: var(--gram-preposition); }
+.particle { color: var(--gram-particle); }
+.pronoun { color: var(--gram-pronoun); }
+.adjective { color: var(--gram-adjective); }
+.negative { color: var(--gram-negative); }
+
+/* Animation Keyframes */
+@keyframes pulsePast {
+  0%, 100% { text-shadow: 0 0 0 transparent; }
+  50% { text-shadow: 0 0 8px var(--gram-verb-past); }
+}
+
+@keyframes pulsePresent {
+  0%, 100% { text-shadow: 0 0 0 transparent; }
+  50% { text-shadow: 0 0 8px var(--gram-verb-present); }
+}
+
+@keyframes pulseImperative {
+  0%, 100% { text-shadow: 0 0 4px var(--gram-glow-imperative); }
+  50% { text-shadow: 0 0 14px var(--gram-verb-imperative); }
+}
+
+.pulse-past {
+  animation: pulsePast 3s ease-in-out infinite;
+}
+
+.pulse-present {
+  animation: pulsePresent 3s ease-in-out infinite;
+}
+
+.pulse-imperative {
+  animation: pulseImperative 2.5s ease-in-out infinite;
+}
+
+/* Card Glow Highlight */
+.card.highlight-glow {
+  transform: translateY(-8px);
+  border-color: var(--accent-color);
+  box-shadow: 0 0 25px var(--accent-color);
+}
+
+/* Grammar visual control buttons */
+.visual-toggle-btn {
+  transition: all 0.3s ease;
+}
+.visual-toggle-btn.active {
+  background-color: var(--accent-color) !important;
+  color: var(--bg-gradient-end) !important;
+  box-shadow: 0 0 10px var(--glow-color);
 }
